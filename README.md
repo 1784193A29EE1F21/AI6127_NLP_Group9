@@ -31,7 +31,7 @@ The original corpus was built from WikiExtractor output `wiki_output/AA/wiki_00`
 
 The question-answer evaluation set contains **1,359 unique questions from 331 articles**, each with two human answers and evidence. The first answer is the primary reference; both are retained for multi-reference analysis. The records use JSONL and include fields such as `id`, `question`, `answer`, `evidence`, `question_type`, `source_url`, `gold_doc_id` and `gold_chunk_ids`. Question-type agreement and answer-level agreement are different measurements; independent answer-level agreement review is still pending.
 
-**Data files, model weights, indexes and experiment results are distributed separately and are not in this code repository.** To reproduce the original corpus and passage IDs, use the same source WikiExtractor files; another Wikipedia snapshot may produce different IDs. The processed passage file exceeds GitHub's 100 MB per-file limit.
+The source WikiExtractor files and the two original human annotation sets are provided as ZIP archives in `data_archives/`; model weights, processed indexes and experiment results are distributed separately. The passage file exceeds GitHub's 100 MB per-file limit. See `data_archives/README.md` for extraction and checksums.
 
 ## Installation
 
@@ -47,7 +47,7 @@ Copy `.env.example` to `.env` and set the provider, model, endpoint and API key.
 
 ## Build the knowledge base and run the UI
 
-Place the source files in `wiki_output/AA/` at the repository root, or use `--raw_dir` to specify their location. From `rag/`:
+Extract the archives as described in `data_archives/README.md` to place the source files in `wiki_output/AA/` at the repository root, or use `--raw_dir` to specify their location. From `rag/`:
 
 ```bash
 uv run python scripts/01_build_corpus.py

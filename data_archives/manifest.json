@@ -1,0 +1,27 @@
+{
+  "wiki_output_AA.zip": {
+    "files": 100,
+    "bytes": 37343963,
+    "sha256": "b1ac3739d1f7d17c95e1f1b53c9d63383298eb58109d528f1a8a7b2451b94f95"
+  },
+  "wiki_output_AB.zip": {
+    "files": 100,
+    "bytes": 37439394,
+    "sha256": "ec8283e792ca5b4c2450a20ccf0479ff8770494d8c6ab635b01d6d03ecd8a693"
+  },
+  "wiki_output_AC.zip": {
+    "files": 100,
+    "bytes": 37158165,
+    "sha256": "be56652644a87703bc7a143fd64b3acab0939d498d9c36d9fae15872ecb73612"
+  },
+  "wiki_output_AD.zip": {
+    "files": 72,
+    "bytes": 26467115,
+    "sha256": "2a2a400b3d3953bccb272cecebcf559596d08b0c988fee41bdb3ba9b640e70c3"
+  },
+  "two_human_annotations.zip": {
+    "files": 201,
+    "bytes": 943092,
+    "sha256": "15d7ea9eaaa39500216e690e3e641f5e4c4f0dbc6f8506e7cb8e62b91a802759"
+  }
+}
