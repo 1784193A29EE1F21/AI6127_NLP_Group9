@@ -1,0 +1,6 @@
+question_type,n,MRR@10
+cause_effect,146,0.8842
+comparison,197,0.9376
+definition,175,0.8846
+factual,417,0.9310
+why,424,0.9617

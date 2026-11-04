@@ -1,0 +1,22 @@
+{
+  "n_documents": 2285,
+  "n_chunks": 57666,
+  "n_words_raw": 8107941,
+  "n_words_clean_documents": 7973389,
+  "n_words_in_chunks_with_overlap": 8845330,
+  "n_types_lowercased": 168050,
+  "chunk_words_mean": 149.9,
+  "chunk_words_median": 181.0,
+  "chunk_words_min": 8,
+  "chunk_words_max": 326,
+  "dropped": {
+    "too_short": 250,
+    "duplicate_chunk": 14
+  },
+  "chunking": {
+    "target_words": 180,
+    "max_words": 300,
+    "overlap_sentences": 1
+  },
+  "build_seconds": 18.9
+}

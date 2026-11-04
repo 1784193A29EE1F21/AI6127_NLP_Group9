@@ -1,0 +1,652 @@
+[
+ {
+  "id": "wiki_01_01",
+  "question": "Why was the Apollo 8 mission changed from a lunar module test in Earth orbit to a command-module-only flight to the Moon?",
+  "gold": "Apollo 8",
+  "bm25_rank": 1,
+  "dense_rank": null,
+  "final_rank": 1,
+  "final_top3": [
+   "Apollo 8 > ",
+   "Apollo 8 > Mission schedule",
+   "Apollo program > Command and service module"
+  ]
+ },
+ {
+  "id": "wiki_01_05",
+  "question": "Which astronaut was dropped from the Apollo 8 crew because of a spinal problem and later flew as Command Module Pilot on Apollo 11?",
+  "gold": "Apollo 11",
+  "bm25_rank": 10,
+  "dense_rank": 2,
+  "final_rank": 1,
+  "final_top3": [
+   "Apollo 11 > Prime crew",
+   "Apollo 9 > Crew and key Mission Control personnel",
+   "Apollo 12 > Crew and key Mission Control personnel"
+  ]
+ },
+ {
+  "id": "wiki_02_13",
+  "question": "How did Angola's food trade position change between the last decade of colonial rule and the present day?",
+  "gold": "Economy of Angola",
+  "bm25_rank": 2,
+  "dense_rank": 4,
+  "final_rank": 1,
+  "final_top3": [
+   "Economy of Angola > Overview",
+   "Economy of Angola > History",
+   "Economy of Angola > History"
+  ]
+ },
+ {
+  "id": "wiki_03_04",
+  "question": "Why is the order Asparagales difficult to define by morphology even though it is clearly circumscribed by molecular phylogenetics?",
+  "gold": "Asparagales",
+  "bm25_rank": 1,
+  "dense_rank": 8,
+  "final_rank": 1,
+  "final_top3": [
+   "Asparagales > ",
+   "Asparagales > Phylogeny and APG system",
+   "Asparagales > Phylogenetics"
+  ]
+ },
+ {
+  "id": "wiki_03_11",
+  "question": "Why do the composite flowers of the Asteraceae give a false impression of separate petals?",
+  "gold": "Asterales",
+  "bm25_rank": 1,
+  "dense_rank": 5,
+  "final_rank": 1,
+  "final_top3": [
+   "Asterales > ",
+   "Asteraceae > Floral heads",
+   "Asteraceae > Inflorescences"
+  ]
+ },
+ {
+  "id": "wiki_04_03",
+  "question": "What property of arsenic is responsible for its toxicity at the biochemical level?",
+  "gold": "Arsenic",
+  "bm25_rank": 9,
+  "dense_rank": 1,
+  "final_rank": 1,
+  "final_top3": [
+   "Arsenic > Biological mechanism",
+   "Arsenic > ",
+   "Arsenic > Agricultural"
+  ]
+ },
+ {
+  "id": "wiki_04_06",
+  "question": "Why does antimony not react with hydrogen directly?",
+  "gold": "Antimony",
+  "bm25_rank": 1,
+  "dense_rank": 6,
+  "final_rank": 1,
+  "final_top3": [
+   "Antimony > Antimonides, hydrides, and organoantimony compounds",
+   "Ammonia > Fuel",
+   "Antimony > Flame retardants"
+  ]
+ },
+ {
+  "id": "wiki_06_10",
+  "question": "Out of what situation did the modern Armenian military first emerge?",
+  "gold": "Armed Forces of Armenia",
+  "bm25_rank": 4,
+  "dense_rank": 1,
+  "final_rank": 1,
+  "final_top3": [
+   "Armed Forces of Armenia > 1988–1992",
+   "Armed Forces of Armenia > ",
+   "Armed Forces of Armenia > Early Armenian Army"
+  ]
+ },
+ {
+  "id": "wiki_07_01",
+  "question": "How do physicists distinguish atomic physics from nuclear physics?",
+  "gold": "Atomic physics",
+  "bm25_rank": 1,
+  "dense_rank": 4,
+  "final_rank": 1,
+  "final_top3": [
+   "Atomic physics > ",
+   "History of atomic theory > Discovery of the proton",
+   "Atomic physics > Isolated atoms"
+  ]
+ },
+ {
+  "id": "wiki_08_01",
+  "question": "Why was Charles Babbage never able to complete construction of any of his machines, including the analytical engine?",
+  "gold": "Analytical engine",
+  "bm25_rank": 1,
+  "dense_rank": 4,
+  "final_rank": 1,
+  "final_top3": [
+   "Analytical engine > Design",
+   "Analytical engine > ",
+   "Charles Babbage > Legacy"
+  ]
+ },
+ {
+  "id": "wiki_08_14",
+  "question": "How do assembly languages differ from most high-level programming languages in terms of portability?",
+  "gold": "Assembly language",
+  "bm25_rank": 1,
+  "dense_rank": 7,
+  "final_rank": 1,
+  "final_top3": [
+   "Assembly language > ",
+   "Assembly language > Current usage",
+   "Assembly language > "
+  ]
+ },
+ {
+  "id": "wiki_09_04",
+  "question": "In which earlier programming language were some original object-oriented concepts, such as the words 'object' and 'class', developed?",
+  "gold": "Alan Kay",
+  "bm25_rank": 1,
+  "dense_rank": null,
+  "final_rank": 1,
+  "final_top3": [
+   "Alan Kay > Early life and work",
+   "Class (programming) > History",
+   "Computer program > C++"
+  ]
+ },
+ {
+  "id": "wiki_10_07",
+  "question": "Why was linking Ajax to the family of Aeacus of particular concern to the Athenians?",
+  "gold": "Ajax the Great",
+  "bm25_rank": 1,
+  "dense_rank": 4,
+  "final_rank": 1,
+  "final_top3": [
+   "Ajax the Great > Death",
+   "Ajax the Great > Family",
+   "Aeacus > In the afterlife"
+  ]
+ },
+ {
+  "id": "wiki_12_01",
+  "question": "How did the launch vehicle of Apollo 7 differ from that of later lunar missions, and why?",
+  "gold": "Apollo 7",
+  "bm25_rank": null,
+  "dense_rank": 6,
+  "final_rank": 1,
+  "final_top3": [
+   "Apollo 7 > Launch vehicle",
+   "Apollo 7 > Launch and testing",
+   "Apollo 10 > Equipment"
+  ]
+ },
+ {
+  "id": "wiki_12_15",
+  "question": "How did Apollo 13's plan for lowering the lunar module's orbit differ from Apollo 11 and 12?",
+  "gold": "Apollo 13",
+  "bm25_rank": 3,
+  "dense_rank": 5,
+  "final_rank": 1,
+  "final_top3": [
+   "Apollo 13 > Training and preparation",
+   "Apollo 13 > Training and preparation",
+   "Apollo 15 > Lunar orbit and landing"
+  ]
+ },
+ {
+  "id": "wiki_14_01",
+  "question": "What is apparent magnitude, and what factors determine its value?",
+  "gold": "Apparent magnitude",
+  "bm25_rank": 5,
+  "dense_rank": 2,
+  "final_rank": 1,
+  "final_top3": [
+   "Apparent magnitude > ",
+   "Apparent magnitude > ",
+   "Apparent magnitude > Apparent bolometric magnitude"
+  ]
+ },
+ {
+  "id": "wiki_14_05",
+  "question": "Why did early orthochromatic photographic film reverse the relative brightness of Rigel and Betelgeuse compared with the human eye?",
+  "gold": "Apparent magnitude",
+  "bm25_rank": 1,
+  "dense_rank": null,
+  "final_rank": 1,
+  "final_top3": [
+   "Apparent magnitude > Standard reference values",
+   "Bayer designation > Orion as an example",
+   "Absolute magnitude > Stars and galaxies"
+  ]
+ },
+ {
+  "id": "wiki_14_06",
+  "question": "Why is absolute magnitude defined by placing every object at the same standard reference distance?",
+  "gold": "Absolute magnitude",
+  "bm25_rank": 1,
+  "dense_rank": 6,
+  "final_rank": 1,
+  "final_top3": [
+   "Absolute magnitude > ",
+   "Absolute magnitude > Stars and galaxies",
+   "Apparent magnitude > Absolute magnitude"
+  ]
+ },
+ {
+  "id": "wiki_15_13",
+  "question": "Which observation by André Weil did Grothendieck's étale and l-adic cohomology theories explain?",
+  "gold": "Alexander Grothendieck",
+  "bm25_rank": 1,
+  "dense_rank": 4,
+  "final_rank": 1,
+  "final_top3": [
+   "Alexander Grothendieck > \"EGA\", \"SGA\", \"FGA\"",
+   "Alexander Grothendieck > Cohomology theories",
+   "Alexander Grothendieck > \"Golden Age\""
+  ]
+ },
+ {
+  "id": "wiki_16_07",
+  "question": "Which operating system succeeded Apple DOS 3.3 on the Apple II, and which Apple III operating system was it descended from?",
+  "gold": "Apple II",
+  "bm25_rank": null,
+  "dense_rank": 7,
+  "final_rank": 1,
+  "final_top3": [
+   "Apple II > OS Disk",
+   "Apple III > Legacy",
+   "Apple II > Software"
+  ]
+ },
+ {
+  "id": "wiki_17_04",
+  "question": "What effect did the growing number of tanks on World War II battlefields have on assault gun units?",
+  "gold": "Assault gun",
+  "bm25_rank": 1,
+  "dense_rank": null,
+  "final_rank": 1,
+  "final_top3": [
+   "Assault gun > Concept, doctrine and design",
+   "Assault gun > World War II",
+   "Assault gun > World War II"
+  ]
+ },
+ {
+  "id": "wiki_17_07",
+  "question": "What collective term was officially used for all American tank destroyers in World War II?",
+  "gold": "Tank destroyer",
+  "bm25_rank": 3,
+  "dense_rank": null,
+  "final_rank": 1,
+  "final_top3": [
+   "Tank destroyer > United States",
+   "Assault gun > World War II",
+   "Destroyer > "
+  ]
+ },
+ {
+  "id": "wiki_17_09",
+  "question": "Which was the first armored vehicle to be used in combat, and in which campaign was it first used?",
+  "gold": "Armored car (military)",
+  "bm25_rank": 2,
+  "dense_rank": 6,
+  "final_rank": 1,
+  "final_top3": [
+   "Armored car (military) > First armoured cars",
+   "Armoured fighting vehicle > Armed and armoured car",
+   "Armored car (military) > World War I"
+  ]
+ },
+ {
+  "id": "wiki_18_05",
+  "question": "What are alkaloids?",
+  "gold": "Alkaloid",
+  "bm25_rank": null,
+  "dense_rank": 1,
+  "final_rank": 1,
+  "final_top3": [
+   "Alkaloid > ",
+   "Alkaloid > Biological role",
+   "Alkaloid > "
+  ]
+ },
+ {
+  "id": "wiki_18_06",
+  "question": "What is thought to have driven the evolution of alkaloid production in plants?",
+  "gold": "Alkaloid",
+  "bm25_rank": 5,
+  "dense_rank": null,
+  "final_rank": 1,
+  "final_top3": [
+   "Alkaloid > Properties",
+   "Alkaloid > Distribution in nature",
+   "Alkaloid > "
+  ]
+ },
+ {
+  "id": "wiki_18_07",
+  "question": "Who isolated morphine from opium, and what name did he give it?",
+  "gold": "Alkaloid",
+  "bm25_rank": 4,
+  "dense_rank": 1,
+  "final_rank": 1,
+  "final_top3": [
+   "Alkaloid > History",
+   "Botany > Medicine and materials",
+   "Afyonkarahisar > Pharmaceuticals and morphine"
+  ]
+ },
+ {
+  "id": "wiki_21_05",
+  "question": "Why was the Atari 5200's analog joystick considered unreliable?",
+  "gold": "Atari 5200",
+  "bm25_rank": 4,
+  "dense_rank": 1,
+  "final_rank": 1,
+  "final_top3": [
+   "Atari 5200 > Controllers",
+   "Atari 5200 > Reception",
+   "Atari 5200 > "
+  ]
+ },
+ {
+  "id": "wiki_21_08",
+  "question": "Under what codename did Atari's Advanced Technology Group develop the console that became the Atari 5200?",
+  "gold": "Atari 5200",
+  "bm25_rank": 1,
+  "dense_rank": 4,
+  "final_rank": 1,
+  "final_top3": [
+   "Atari 5200 > Development",
+   "Atari 2600 > ",
+   "Atari 5200 > Hardware"
+  ]
+ },
+ {
+  "id": "wiki_21_12",
+  "question": "How did the Atari 7800 improve on the common complaints about the Atari 5200?",
+  "gold": "Atari 7800",
+  "bm25_rank": 1,
+  "dense_rank": 5,
+  "final_rank": 1,
+  "final_top3": [
+   "Atari 7800 > Launch",
+   "Atari 7800 > ",
+   "Atari 5200 > "
+  ]
+ },
+ {
+  "id": "wiki_22_01",
+  "question": "Why did J. J. Thomson propose in his atomic model that positive charge was spread throughout a spherical atom?",
+  "gold": "Plum pudding model",
+  "bm25_rank": 1,
+  "dense_rank": 8,
+  "final_rank": 1,
+  "final_top3": [
+   "Plum pudding model > ",
+   "Atom > Discovery of the nucleus",
+   "Bohr model > Thomson's atom model"
+  ]
+ },
+ {
+  "id": "wiki_22_02",
+  "question": "Who first compared Thomson's atomic model to a plum pudding?",
+  "gold": "Plum pudding model",
+  "bm25_rank": 2,
+  "dense_rank": 8,
+  "final_rank": 1,
+  "final_top3": [
+   "Plum pudding model > Origin of the nickname",
+   "Plum pudding model > ",
+   "Plum pudding model > "
+  ]
+ },
+ {
+  "id": "wiki_22_03",
+  "question": "What led Ernest Rutherford to abandon Thomson's model in favor of a model with a tiny nucleus?",
+  "gold": "Plum pudding model",
+  "bm25_rank": 2,
+  "dense_rank": 6,
+  "final_rank": 1,
+  "final_top3": [
+   "Plum pudding model > Demise of the plum pudding model",
+   "History of atomic theory > Discovery of the nucleus",
+   "History of atomic theory > Discovery of the nucleus"
+  ]
+ },
+ {
+  "id": "wiki_22_06",
+  "question": "Why did Rutherford's nuclear model of the atom not catch on immediately?",
+  "gold": "History of atomic theory",
+  "bm25_rank": 4,
+  "dense_rank": 1,
+  "final_rank": 1,
+  "final_top3": [
+   "History of atomic theory > Discovery of the nucleus",
+   "History of atomic theory > Discovery of the nucleus",
+   "Plum pudding model > Rutherford's nuclear model"
+  ]
+ },
+ {
+  "id": "wiki_22_07",
+  "question": "Which pre-Bohr atomic model included quantized angular momentum and successfully reproduced atomic spectral lines?",
+  "gold": "History of atomic theory",
+  "bm25_rank": 2,
+  "dense_rank": 6,
+  "final_rank": 1,
+  "final_top3": [
+   "History of atomic theory > Bohr model",
+   "Bohr model > Nicholson atom theory",
+   "Atomic orbital > Bohr atom"
+  ]
+ },
+ {
+  "id": "wiki_23_10",
+  "question": "What has been a major contributing factor to the shrinking of the Aral Sea since the late 1950s?",
+  "gold": "Amu Darya",
+  "bm25_rank": 1,
+  "dense_rank": null,
+  "final_rank": 1,
+  "final_top3": [
+   "Amu Darya > Description",
+   "Dead Sea > Receding shoreline",
+   "Central Asia > Water scarcity"
+  ]
+ },
+ {
+  "id": "wiki_25_04",
+  "question": "How do the fish found near the surface of the Baltic Sea differ from those found lower down, and why?",
+  "gold": "Brackish water",
+  "bm25_rank": 1,
+  "dense_rank": 4,
+  "final_rank": 1,
+  "final_top3": [
+   "Brackish water > Brackish seas and lakes",
+   "Baltic Sea > Salinity",
+   "Baltic Sea > Fauna and flora"
+  ]
+ },
+ {
+  "id": "wiki_25_10",
+  "question": "Who coined the term \"acid rain\"?",
+  "gold": "Acid rain",
+  "bm25_rank": 1,
+  "dense_rank": 5,
+  "final_rank": 1,
+  "final_top3": [
+   "Acid rain > In Europe",
+   "Acid rain > In the United States",
+   "Acid rain > In the United States"
+  ]
+ },
+ {
+  "id": "wiki_26_08",
+  "question": "What is cyclical parthenogenesis in water fleas, and what advantage does it give them?",
+  "gold": "Branchiopoda",
+  "bm25_rank": 1,
+  "dense_rank": null,
+  "final_rank": 1,
+  "final_top3": [
+   "Branchiopoda > Anomopoda, Ctenopoda, Onychopoda, and Haplopoda (once Cladocera)",
+   "Asexual reproduction > Parthenogenesis",
+   "Asexual reproduction > Alternation between sexual and asexual reproduction"
+  ]
+ },
+ {
+  "id": "wiki_27_10",
+  "question": "Why has inflation remained low throughout Bosnia and Herzegovina?",
+  "gold": "Economy of Bosnia and Herzegovina",
+  "bm25_rank": 1,
+  "dense_rank": 7,
+  "final_rank": 1,
+  "final_top3": [
+   "Economy of Bosnia and Herzegovina > Overview",
+   "Bosnia and Herzegovina > Economy",
+   "Bosnia and Herzegovina > Economy"
+  ]
+ },
+ {
+  "id": "wiki_27_12",
+  "question": "How has economic growth in the Federation compared with that in Republika Srpska during the post-war period?",
+  "gold": "Economy of Bosnia and Herzegovina",
+  "bm25_rank": null,
+  "dense_rank": 1,
+  "final_rank": 1,
+  "final_top3": [
+   "Economy of Bosnia and Herzegovina > Overview",
+   "Economy of Bosnia and Herzegovina > Overview",
+   "Bosnia and Herzegovina > Socialist Federal Republic of Yugoslavia (1945–1992)"
+  ]
+ },
+ {
+  "id": "wiki_28_06",
+  "question": "How did the first-past-the-post electoral system help the Botswana Democratic Party stay in power?",
+  "gold": "Politics of Botswana",
+  "bm25_rank": 2,
+  "dense_rank": 6,
+  "final_rank": 1,
+  "final_top3": [
+   "Politics of Botswana > ",
+   "Politics of Botswana > Elections",
+   "Politics of Botswana > "
+  ]
+ },
+ {
+  "id": "wiki_30_08",
+  "question": "Which two teams played in the first modern World Series?",
+  "gold": "1903 World Series",
+  "bm25_rank": null,
+  "dense_rank": 1,
+  "final_rank": 1,
+  "final_top3": [
+   "1903 World Series > ",
+   "Boston Red Sox > 1901–1919: The golden era",
+   "Cy Young > Legacy"
+  ]
+ },
+ {
+  "id": "wiki_31_02",
+  "question": "Why was BASIC usually implemented as an interpreter rather than a compiler on minicomputers?",
+  "gold": "BASIC",
+  "bm25_rank": 1,
+  "dense_rank": 4,
+  "final_rank": 1,
+  "final_top3": [
+   "BASIC > Spread on minicomputers",
+   "Compiler > Compiled vis-à-vis interpreted languages",
+   "BASIC > "
+  ]
+ },
+ {
+  "id": "wiki_32_02",
+  "question": "How was Baldr killed, according to the Prose Edda?",
+  "gold": "Baldr",
+  "bm25_rank": 4,
+  "dense_rank": 3,
+  "final_rank": 1,
+  "final_top3": [
+   "Baldr > \"Prose Edda\"",
+   "Baldr > \"Poetic Edda\"",
+   "Baldr > \"Prose Edda\""
+  ]
+ },
+ {
+  "id": "wiki_32_10",
+  "question": "How did Bragi's domain as a god of poetry differ from Odin's?",
+  "gold": "Bragi",
+  "bm25_rank": 1,
+  "dense_rank": 6,
+  "final_rank": 1,
+  "final_top3": [
+   "Bragi > Deified human skald",
+   "Bragi > Personification of praise-poetry",
+   "Bragi > Skaldic poetry"
+  ]
+ },
+ {
+  "id": "wiki_33_09",
+  "question": "What does the name of the constellation Boötes mean?",
+  "gold": "Boötes",
+  "bm25_rank": 5,
+  "dense_rank": 1,
+  "final_rank": 1,
+  "final_top3": [
+   "Boötes > ",
+   "Boötes > History and mythology",
+   "Boötes > History and mythology"
+  ]
+ },
+ {
+  "id": "wiki_33_10",
+  "question": "According to Hyginus, why were Icarius, Erigone and Maera placed in the sky as constellations?",
+  "gold": "Boötes",
+  "bm25_rank": 1,
+  "dense_rank": 6,
+  "final_rank": 1,
+  "final_top3": [
+   "Boötes > History and mythology",
+   "Canis Minor > History and mythology",
+   "Arcturus > Mythology"
+  ]
+ },
+ {
+  "id": "wiki_34_05",
+  "question": "How is the name \"Boiohaemum\", the source of the modern name Bohemia, usually interpreted?",
+  "gold": "Boii (Bohemia)",
+  "bm25_rank": 1,
+  "dense_rank": 4,
+  "final_rank": 1,
+  "final_top3": [
+   "Boii (Bohemia) > Geography",
+   "Boii (Bohemia) > ",
+   "Boii (Bohemia) > Etymology"
+  ]
+ },
+ {
+  "id": "wiki_34_06",
+  "question": "According to Miklós Szabó, what led to the assumption that the Boii's homeland lay in modern Bohemia?",
+  "gold": "Boii (Bohemia)",
+  "bm25_rank": 1,
+  "dense_rank": 4,
+  "final_rank": 1,
+  "final_top3": [
+   "Boii (Bohemia) > Early La Tène period",
+   "Boii (Bohemia) > Geography",
+   "Boii (Bohemia) > "
+  ]
+ },
+ {
+  "id": "wiki_34_08",
+  "question": "What made the Batavians' alliance with Rome unusual, according to Tacitus?",
+  "gold": "Batavi (Germanic tribe)",
+  "bm25_rank": 1,
+  "dense_rank": 4,
+  "final_rank": 1,
+  "final_top3": [
+   "Batavi (Germanic tribe) > Origins",
+   "Batavi (Germanic tribe) > ",
+   "Batavi (Germanic tribe) > Origins"
+  ]
+ }
+]

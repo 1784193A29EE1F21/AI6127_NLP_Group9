@@ -1,0 +1,327 @@
+{
+  "n_passages": 115327,
+  "load_seconds": 1.4,
+  "queries": [
+    {
+      "query": "When and where was An American in Paris first performed, and who conducted the premiere?",
+      "why": "multi-part factual question",
+      "title_filter": "",
+      "retrieval_ms": {
+        "bm25": 0.7,
+        "dense": 13.5,
+        "fusion": 0.1,
+        "rerank": 86.2,
+        "retrieval_total": 100.5
+      },
+      "results": [
+        {
+          "rank": 1,
+          "title": "An American in Paris",
+          "section": "",
+          "url": "https://en.wikipedia.org/wiki?curid=309",
+          "bm25_rank": 1,
+          "dense_rank": 1,
+          "rerank": 10.9346,
+          "text": "An American in Paris is a jazz-influenced symphonic poem (or tone poem) for orchestra by American composer George Gershwin first performed in 1928. It was inspired by the time that Gershwin had spent in Paris and evokes the sights and energy of the French capital during the. Gershwin scored the piece for the standard instruments of the symphony orchestra plus celesta, saxophones, and automobile horns. He brought back four Parisian taxi horns for the New York premiere of the composition, which took place on December 13, 1928, in Carnegie Hall, with Walter Damrosch conducting the New York Philharmonic. It was Damrosch who had commissioned Gershwin to write his Concerto in F following the earlier success of \"Rhapsody in Blue\" (1924). He completed the orchestration on November 18, less than four weeks before the work's premiere. He collaborated on the original program notes with critic and composer Deems Taylor. On January 1, 2025, \"An American in Paris\" entered the public domain in the United States."
+        },
+        {
+          "rank": 2,
+          "title": "An American in Paris",
+          "section": "Preservation status",
+          "url": "https://en.wikipedia.org/wiki?curid=309",
+          "bm25_rank": 7,
+          "dense_rank": 3,
+          "rerank": 7.9551,
+          "text": "In the extended urtext, 120 bars of music were re-integrated. Conductor Walter Damrosch had cut them shortly before the first performance. On September 9, 2017, The Cincinnati Symphony Orchestra gave the world premiere of the long-awaited critical edition of the piece prepared by Mark Clague, director of the Gershwin initiative at the University of Michigan. This performance was of the original 1928 orchestration. As of August 2025, the authorized critical edition of \"An American in Paris\" edited by Mark Clague has now been published by Schott Music. It appears in two-volumes. Volume 1A presents the “Final” Edition which represents the ending state of George Gershwin’s handwritten score as prepared for the February 4, 1929 recording sessions with the “Victor Orchestra” as supervised by the composer. Five cuts were made in part to allow the music to fit on four sides of two 78-rpm discs. A second “Uncut” Edition of the score (Vol. 1B) represents George Gershwin’s handwritten score as labeled “completed” by the composer on Nov. 18, 1928 and presented to conductor Walter Damrosch for the work’s New York Philharmonic premiere."
+        },
+        {
+          "rank": 3,
+          "title": "An American in Paris",
+          "section": "Recordings",
+          "url": "https://en.wikipedia.org/wiki?curid=309",
+          "bm25_rank": 11,
+          "dense_rank": 2,
+          "rerank": 7.5364,
+          "text": "\"An American in Paris\" has been frequently recorded. The first recording was made for the Victor Talking Machine Company in 1929 with Nathaniel Shilkret conducting the Victor Symphony Orchestra, drawn from members of the Philadelphia Orchestra. Gershwin was on hand to \"supervise\" the recording; however, Shilkret was reported to be in charge and eventually asked the composer to leave the recording studio. Then, a little later, Shilkret discovered there was no one to play the brief celesta solo during the slow section, so he hastily asked Gershwin if he might play the solo; Gershwin said he could and so he briefly participated in the actual recording. This recording is believed to use the taxi horns in the way that Gershwin had intended using the notes A-flat, B-flat, a higher D, and a lower A. The radio broadcast of the September 8, 1937, Hollywood Bowl George Gershwin Memorial Concert, in which \"An American in Paris,\" also conducted by Shilkret, was second on the program, was recorded and was released in 1998 in a two-CD set. Arthur Fiedler and the Boston Pops Orchestra recorded the work for RCA Victor, including one of the first stereo recordings of the music."
+        },
+        {
+          "rank": 4,
+          "title": "An American in Paris",
+          "section": "Instrumentation",
+          "url": "https://en.wikipedia.org/wiki?curid=309",
+          "bm25_rank": 2,
+          "dense_rank": 9,
+          "rerank": 5.7905,
+          "text": "The correct tuning of the horns in sequence = D horn = low A, A horn = Ab an octave higher, B horn = Bb just above the Ab, and C horn = high D above the Bb. The work was not the first orchestral use an automobile horn. \"Flivver Ten Million\" by American composer Frederick Converse appeared in 1927, with one early performance being on 17 December 1927 by an early incarnation of the Syracuse Symphony Orchestra, following a Boston Symphony Orchestra premiere on 16 April. A major revision of the work by composer and arranger F. Campbell-Watson simplified the instrumentation by reducing the saxophones to only three instruments: alto, tenor and baritone; the soprano and alto saxophone doublings were eliminated to avoid changing instruments. This became the standard performing edition until 2000, when Gershwin specialist Jack Gibbons made his own restoration of the original orchestration of \"An American in Paris\", working directly from Gershwin's original manuscript, including the restoration of Gershwin's soprano saxophone parts removed in Campbell-Watson's revision. Gibbons' restored orchestration of \"An American in Paris\" was performed at London's Queen Elizabeth Hall on July 9, 2000, by the City of Oxford Orchestra conducted by Levon Parikian. William Daly arranged the score for piano solo; this was published by New World Music in 1929."
+        },
+        {
+          "rank": 5,
+          "title": "An American in Paris",
+          "section": "Preservation status",
+          "url": "https://en.wikipedia.org/wiki?curid=309",
+          "bm25_rank": 23,
+          "dense_rank": 5,
+          "rerank": 4.9285,
+          "text": "18, 1928 and presented to conductor Walter Damrosch for the work’s New York Philharmonic premiere. Compared to Volume 1A, Volume 1B contains an additional 112 measures or some 3.5 minutes of music that are not present in the 1929 recording. Both editions were recorded by the Cincinnati Symphony in 2019 on the album \"Transatlantic\" and were nominated for a Grammy Award."
+        }
+      ]
+    },
+    {
+      "query": "Why did Ayn Rand reject libertarianism?",
+      "why": "'why' question needing an explanation",
+      "title_filter": "",
+      "retrieval_ms": {
+        "bm25": 0.7,
+        "dense": 13.0,
+        "fusion": 0.1,
+        "rerank": 80.2,
+        "retrieval_total": 93.9
+      },
+      "results": [
+        {
+          "rank": 1,
+          "title": "Ayn Rand",
+          "section": "",
+          "url": "https://en.wikipedia.org/wiki?curid=339",
+          "bm25_rank": 2,
+          "dense_rank": 2,
+          "rerank": 9.5886,
+          "text": "Although she opposed libertarianism, which she viewed as anarchism, Rand is often associated with the modern libertarian movement in the United States. In art, she promoted romantic realism. She was sharply critical of most philosophers and philosophical traditions known to her, with a few exceptions. Rand's books have sold over 37 million copies. Her fiction received mixed reviews from literary critics, with reviews becoming more negative for her later work. Although academic interest in her ideas has grown since her death, academic philosophers have generally ignored or rejected Rand's philosophy, arguing that she has a polemical approach and that her work lacks methodological rigor. Her writings have politically influenced some right-libertarians and conservatives, although she also criticized them. The Objectivist movement circulates her ideas, both to the public and in academic settings."
+        },
+        {
+          "rank": 2,
+          "title": "Ayn Rand",
+          "section": "Ethics and politics",
+          "url": "https://en.wikipedia.org/wiki?curid=339",
+          "bm25_rank": 4,
+          "dense_rank": 1,
+          "rerank": 8.6366,
+          "text": "Critics from religious traditions oppose her atheism and her rejection of altruism. Rand's political philosophy emphasized individual rights, including property rights. She considered \"laissez-faire\" capitalism the only moral social system because in her view it was the only system based on protecting those rights. Rand opposed collectivism and statism, which she considered to include many specific forms of government, such as communism, fascism, socialism, theocracy, and the welfare state. Her preferred form of government was a constitutional republic that is limited to the protection of individual rights. Although her political views are often classified as conservative or libertarian, Rand preferred the term \"radical for capitalism\". She worked with conservatives on political projects but disagreed with them over issues such as religion and ethics. Rand rejected anarchism as a naive theory based in subjectivism that would lead to collectivism in practice, and denounced libertarianism, which she associated with anarchism. Several critics, including Nozick, have said her attempt to justify individual rights based on egoism fails. Others, like libertarian philosopher Michael Huemer, have gone further, saying that her support of egoism and her support of individual rights are inconsistent positions. Some critics, like Roy Childs, have said that her opposition to the initiation of force should lead to support of anarchism, rather than limited government."
+        },
+        {
+          "rank": 3,
+          "title": "Ayn Rand",
+          "section": "Political influence",
+          "url": "https://en.wikipedia.org/wiki?curid=339",
+          "bm25_rank": 1,
+          "dense_rank": 3,
+          "rerank": 8.2616,
+          "text": "Although she rejected the labels \"conservative\" and \"libertarian\", Rand has had a continuing influence on right-wing politics and libertarianism. Rand is often considered one of the three most important women, along with Rose Wilder Lane and Isabel Paterson, in the early development of modern American libertarianism. David Nolan, one founder of the Libertarian Party, said that \"without Ayn Rand, the libertarian movement would not exist\". In his history of libertarianism, journalist Brian Doherty described her as \"the most influential libertarian of the twentieth century to the public at large\". Political scientist Andrew Koppelman called her \"the most widely read libertarian\". Historian Jennifer Burns referred to her as \"the ultimate gateway drug to life on the right\". In 1971, \"It Usually Begins With Ayn Rand\" was the title of a satirical memoir by American libertarian political activist Jerome Tuccille. The political figures who cite Rand as an influence are usually conservatives, often members of the Republican Party, despite Rand taking some atypical positions for a conservative, like supporting abortion rights and being an atheist. She faced intense opposition from William F."
+        },
+        {
+          "rank": 4,
+          "title": "Ayn Rand",
+          "section": "",
+          "url": "https://en.wikipedia.org/wiki?curid=339",
+          "bm25_rank": 3,
+          "dense_rank": 4,
+          "rerank": 7.3546,
+          "text": "Alice O'Connor (born Alisa Zinovyevna Rosenbaum;, 1905March 6, 1982), better known by her pen name Ayn Rand, was a Russian and American writer and philosopher. She is known for her fiction and for developing a philosophical system which she named Objectivism. Born and educated in Russia, she moved to the United States in 1926. After two early novels that were initially unsuccessful and two Broadway plays, Rand achieved fame with her 1943 novel \"The Fountainhead\". In 1957, she published her best-selling work, the novel \"Atlas Shrugged\". Afterward, until her death in 1982, she turned to non-fiction to promote her philosophy, publishing her own periodicals and releasing several collections of essays. Rand advocated reason and rejected faith and religion. She supported rational and ethical egoism as opposed to altruism and hedonism. In politics, she condemned the initiation of force as immoral and supported \"laissez-faire\" capitalism, which she defined as the system based on recognizing individual rights, including private property rights. Although she opposed libertarianism, which she viewed as anarchism, Rand is often associated with the modern libertarian movement in the United States."
+        },
+        {
+          "rank": 5,
+          "title": "Ayn Rand",
+          "section": "Metaphysics and epistemology",
+          "url": "https://en.wikipedia.org/wiki?curid=339",
+          "bm25_rank": 11,
+          "dense_rank": 6,
+          "rerank": 3.6659,
+          "text": "In metaphysics, Rand supported philosophical realism and opposed anything she regarded as mysticism or supernaturalism, including all forms of religion. Rand believed in free will as a form of agent causation and rejected determinism. Rand also related her aesthetics to metaphysics by defining art as a \"selective re-creation of reality according to an artist's metaphysical value-judgments\". According to her, art allows philosophical concepts to be presented in a concrete form that can be grasped easily, thereby fulfilling a need of human consciousness. As a writer, the art form Rand focused on most closely was literature. In works such as \"The Romantic Manifesto\" and, she described Romanticism as the approach that most accurately reflects the existence of human free will. In epistemology, Rand considered all knowledge to be based on forming higher levels of understanding from sense perception, the validity of which she considered axiomatic. She described reason as \"the faculty that identifies and integrates the material provided by man's senses\". Rand rejected all claims of non-perceptual knowledge, including instinct,' 'intuition,' 'revelation,' or any form of 'just knowing. In her \"Introduction to Objectivist Epistemology\", Rand presented a theory of concept formation and rejected the analytic–synthetic dichotomy."
+        }
+      ]
+    },
+    {
+      "query": "酸雨是如何形成的？它对环境有什么影响？",
+      "why": "Chinese query over an English corpus",
+      "title_filter": "",
+      "retrieval_ms": {
+        "bm25": 0.2,
+        "dense": 11.9,
+        "fusion": 0.1,
+        "rerank": 78.3,
+        "retrieval_total": 90.5
+      },
+      "results": [
+        {
+          "rank": 1,
+          "title": "Acid rain",
+          "section": "",
+          "url": "https://en.wikipedia.org/wiki?curid=3263",
+          "bm25_rank": null,
+          "dense_rank": 1,
+          "rerank": 2.5204,
+          "text": "Acid rain is rain or any other form of precipitation that is unusually acidic, meaning that it has elevated levels of hydrogen ions (low pH). Most water, including drinking water, has a neutral pH that exists between 6.5 and 8.5, but acid rain has a pH level lower than this and ranges from 4–5 on average. The more acidic the acid rain is, the lower its pH is. Acid rain can have harmful effects on plants, aquatic animals, and infrastructure. Acid rain is caused by emissions of sulfur dioxide and nitrogen oxide, which react with the water molecules in the atmosphere to produce sulfuric and nitric acids. Acid rain has been shown to have adverse impacts on forests, freshwaters, soils, microbes, insects and aquatic life-forms. In ecosystems, persistent acid rain negatively affects tree bark, leaving trees more susceptible to environmental stressors such as drought, fire, solar radiation, frost and pest infestation. Acid rain is also capable of detrimenting soil composition by stripping it of nutrients such as calcium and magnesium which play a critical role in plant growth and maintaining healthy soil."
+        },
+        {
+          "rank": 2,
+          "title": "Acid rain",
+          "section": "",
+          "url": "https://en.wikipedia.org/wiki?curid=3263",
+          "bm25_rank": null,
+          "dense_rank": 15,
+          "rerank": 1.7215,
+          "text": "Acid rain is also capable of detrimenting soil composition by stripping it of nutrients such as calcium and magnesium which play a critical role in plant growth and maintaining healthy soil. In terms of human infrastructure, acid rain also causes the peeling of paint, corrosion of steel structures, and weathering of stone buildings and statues as well as having impacts on human health. Some governments, including those in Europe and North America, have made efforts since the 1970s to reduce the release of sulfur dioxide and nitrogen oxide into the atmosphere through air pollution regulations such as the US Clean Air Act and the EU Ambient Air Quality Directive. These efforts have had positive results due to the widespread research on acid rain starting in the 1960s and the publicized information on its harmful effects. The main source of sulfur and nitrogen compounds that result in acid rain are anthropogenic, but nitrogen oxides can also be produced naturally by lightning strikes and sulfur dioxide is produced by volcanic eruptions."
+        },
+        {
+          "rank": 3,
+          "title": "Acid rain",
+          "section": "Surface waters and aquatic animals",
+          "url": "https://en.wikipedia.org/wiki?curid=3263",
+          "bm25_rank": null,
+          "dense_rank": 19,
+          "rerank": 1.685,
+          "text": "Sulfuric acid and nitric acid have multiple impacts on aquatic ecosystems, including acidification, increased nitrogen and aluminium content, and alteration of biogeochemical processes. Both the lower pH and higher aluminium concentrations in surface water that occur as a result of acid rain can cause damage to fish and other aquatic animals as well as to microbes and plants. At pH lower than 5 most fish eggs will not hatch and pH lower than 4 will kill adult fish. As lakes and rivers become more acidic, biodiversity is reduced, while it is less affected in regions where freshwater is naturally acid. Acid rain has eliminated insect life and some fish species, including the brook trout in some lakes, streams, and creeks in geographically sensitive areas, such as the Adirondack Mountains of the United States. However, the extent to which acid rain contributes directly or indirectly via runoff from the catchment to lake and river acidity (i.e., depending on characteristics of the surrounding watershed) is variable. The United States Environmental Protection Agency's (EPA) website states: \"Of the lakes and streams surveyed, acid rain caused acidity in 75% of the acidic lakes and about 50% of the acidic streams\". Lakes hosted by silicate basement rocks are more acidic than lakes within limestone or other basement rocks with a carbonate composition (i.e. marble) due to buffering effects by carbonate minerals, even with the same amount of acid rain."
+        },
+        {
+          "rank": 4,
+          "title": "Acid rain",
+          "section": "Human activity",
+          "url": "https://en.wikipedia.org/wiki?curid=3263",
+          "bm25_rank": null,
+          "dense_rank": 14,
+          "rerank": 1.1305,
+          "text": "Acid rain falls at a pH value of roughly 4, making it harmful to consume for humans, plants, microbes and animals. When these low pH levels fall in specific regions, they not only affect the environment but also human health. With acidic pH levels in humans comes hair loss, low urinary pH, severe mineral deficiency, constipation, and many cases of chronic disorders like fibromyalgia and basal-cell carcinoma."
+        },
+        {
+          "rank": 5,
+          "title": "Acid rain",
+          "section": "Ocean acidification",
+          "url": "https://en.wikipedia.org/wiki?curid=3263",
+          "bm25_rank": null,
+          "dense_rank": 7,
+          "rerank": 1.1074,
+          "text": "Acid rain has a much less harmful effect on oceans on a global scale, but it creates an amplified impact in the shallower waters of coastal waters. Acid rain can cause the ocean's pH to fall, known as ocean acidification, making it more difficult for different coastal species to create their exoskeletons that they need to survive and escape predation. These coastal species link together as part of the ocean's food chain, and without them being a source for other marine life to feed off of, more marine life will die. Coral's limestone skeleton is particularly sensitive to pH decreases, because the calcium carbonate, a core component of the limestone skeleton, dissolves in acidic (low pH) solutions. In addition to acidification, excess nitrogen inputs from the atmosphere promote increased growth of phytoplankton and other marine plants, which, in turn, may cause more frequent harmful algal blooms and eutrophication (the creation of oxygen-depleted \"dead zones\") in some parts of the ocean. During the first decade of the 21st century, it became generally accepted that acid rain was not the only cause of ocean acidification and that its role was even lesser than the still ongoing rise in atmospheric carbon dioxide caused by fossil fuel combustion and worldwide deforestation (the so-called greenhouse effect). However, some studies on intertidal zones point to the prominence of acid rain as a cause of the observed decline in algal species richness."
+        }
+      ],
+      "note": "非英文 query：BM25 无法匹配英文语料，由多语 dense 承担主要召回（打开 rewrite 可先翻译）"
+    },
+    {
+      "query": "What is the difference between Ajax the Great and Ajax the Lesser?",
+      "why": "comparison across two articles",
+      "title_filter": "",
+      "retrieval_ms": {
+        "bm25": 0.7,
+        "dense": 12.7,
+        "fusion": 0.1,
+        "rerank": 83.9,
+        "retrieval_total": 97.4
+      },
+      "results": [
+        {
+          "rank": 1,
+          "title": "Ajax the Lesser",
+          "section": "",
+          "url": "https://en.wikipedia.org/wiki?curid=1567",
+          "bm25_rank": 1,
+          "dense_rank": 1,
+          "rerank": 8.4,
+          "text": "Ajax was a Greek mythological hero, son of Oileus, the king of Locris. He was called the \"Ajax the Less\", the \"lesser\" or \"Locrian\" Ajax, to distinguish him from Ajax the Great, son of Telamon. He was the leader of the Locrian contingent during the Trojan War. He is a significant figure in Homer's \"Iliad\" and is also mentioned in the \"Odyssey\", in Virgil's \"Aeneid\" and in Euripides' \"The Trojan Women\". In Etruscan legend, he was known as \"Aivas Vilates\"."
+        },
+        {
+          "rank": 2,
+          "title": "Ajax the Great",
+          "section": "",
+          "url": "https://en.wikipedia.org/wiki?curid=1568",
+          "bm25_rank": 2,
+          "dense_rank": 2,
+          "rerank": 6.935,
+          "text": "Ajax or Aias (;, \"Aíantos\") is a Greek mythological hero, the son of King Telamon and Periboea, and the half-brother of Teucer. He plays an important role in the Trojan War, and is portrayed as a towering figure and a warrior of great courage in Homer's \"Iliad\" and in the Epic Cycle, a series of epic poems about the Trojan War, being second only to Achilles among Greek heroes of the war. He is also referred to as \"Telamonian Ajax\" (, in Etruscan recorded as \"Aivas Tlamunus\"), \"Greater Ajax\", or \"Ajax the Great\", which distinguishes him from Ajax, son of Oileus, also known as Ajax the Lesser."
+        },
+        {
+          "rank": 3,
+          "title": "Ajax the Great",
+          "section": "Description",
+          "url": "https://en.wikipedia.org/wiki?curid=1568",
+          "bm25_rank": 17,
+          "dense_rank": 8,
+          "rerank": 2.4734,
+          "text": "In the account of Dares the Phrygian, Ajax was illustrated as \"powerful. His voice was clear, his hair black and curly. He was perfectly single-minded and unrelenting in the onslaught of battle.\" Meanwhile, In Homer's \"Iliad\" he is described as of great stature, colossal frame, and strongest of all the Achaeans. Known as the \"bulwark of the Achaeans\", he was trained by the centaur Chiron (who had trained Ajax's father Telamon and Achilles' father Peleus and later died of an accidental wound inflicted by a poison arrow belonging to Heracles). He was described as fearless, strong, and powerful but also with a very high level of combat intelligence. Ajax commands his army wielding a huge shield made of seven cowhides with a layer of bronze. Most notably, Ajax is not wounded in any of the battles described in the \"Iliad\", and he is the only principal character on either side who does not receive substantial assistance from any of the gods (except for Agamemnon) who take part in the battles, although, in book 13, Poseidon strikes Ajax with his staff, renewing his strength."
+        },
+        {
+          "rank": 4,
+          "title": "Ajax the Lesser",
+          "section": "Death",
+          "url": "https://en.wikipedia.org/wiki?curid=1567",
+          "bm25_rank": 3,
+          "dense_rank": 18,
+          "rerank": 2.1028,
+          "text": "He would have been saved in spite of Athena, but he then audaciously declared that he would escape the dangers of the sea in defiance of the immortals. Offended by this presumption, Poseidon split the rock with his trident and Ajax was swallowed up by the sea. Thetis buried him when the corpse washed up on Mykonos. Other versions depict a different death for Ajax, showing him dying when on his voyage home. In these versions, when Ajax came to the Capharean Rocks on the coast of Euboea, his ship was wrecked in a fierce storm, he himself was lifted up in a whirlwind and impaled with a flash of rapid fire from Athena in his chest, and his body thrust upon sharp rocks, which afterwards were called the rocks of Ajax. After Ajax's death, his spirit dwelt in the island of Leuce. The Opuntian Locrians worshipped Ajax as their national hero, and so great was their faith in him that when they drew up their army in battle, they always left one place open for him, believing that, although invisible to them, he was fighting for and among them."
+        },
+        {
+          "rank": 5,
+          "title": "Ajax the Lesser",
+          "section": "Death",
+          "url": "https://en.wikipedia.org/wiki?curid=1567",
+          "bm25_rank": 4,
+          "dense_rank": 13,
+          "rerank": 1.9853,
+          "text": "The Opuntian Locrians worshipped Ajax as their national hero, and so great was their faith in him that when they drew up their army in battle, they always left one place open for him, believing that, although invisible to them, he was fighting for and among them. The story of Ajax was frequently made use of by ancient poets and artists, and the hero who appears on some Locrian coins with the helmet, shield, and sword is probably this Ajax. Other accounts of Ajax's death are offered by Philostratus, Euripides, and the scholiast on Lycophron."
+        }
+      ]
+    },
+    {
+      "query": "What tools does it use to control inflation?",
+      "why": "metadata filter on article title",
+      "title_filter": "central bank",
+      "retrieval_ms": {
+        "bm25": 0.6,
+        "dense": 13.5,
+        "fusion": 0.1,
+        "rerank": 76.7,
+        "retrieval_total": 90.9
+      },
+      "results": [
+        {
+          "rank": 1,
+          "title": "European Central Bank",
+          "section": "Critics regarding the new monetary policy",
+          "url": "https://en.wikipedia.org/wiki?curid=9474",
+          "bm25_rank": 1,
+          "dense_rank": 7,
+          "rerank": 0.612,
+          "text": "Criticism first emerged regarding the methodologies used for inflation estimation and their failure to anticipate the inflation surge. A primary critique focused on the inadequacy of traditional tools like the Phillips Curve, which examines the relationship between inflation and certain economic activity indicators, for accurately forecasting inflation. During the 1970s, the Phillips Curve also faced significant criticism for its inability to accurately predict the inflation experienced in that decade. This period marked a critical reassessment of the curve's predictive capacity, particularly in the context of the economic phenomena of the time. Traditional indicators used for forecasting economic dynamics, such as the output and unemployment gaps, were found to be inadequate in signaling the overheating of the economy and the prevailing tight labor market conditions. Moreover, the important belief among central banks that sustained inflationary increases are a consequence of unanchored long-term inflation expectations was challenged during 2021–2022. During this period, inflation expectations remained relatively stable, leading to the misinterpretations by the European Central Bank and other monetary authorities regarding the inflationary trend's nature. Both the FED and the ECB argued that the rise in inflation was only temporary and was the sole result of post-pandemic supply disruptions on a few selected goods and services (food and energy)."
+        },
+        {
+          "rank": 2,
+          "title": "Central bank",
+          "section": "Unconventional monetary policy",
+          "url": "https://en.wikipedia.org/wiki?curid=5666",
+          "bm25_rank": 21,
+          "dense_rank": 6,
+          "rerank": -4.6539,
+          "text": "Other forms of monetary policy, particularly used when interest rates are at or near 0% and there are concerns about deflation or deflation is occurring, are referred to as unconventional monetary policy. These include credit easing, quantitative easing, forward guidance, and signalling. In credit easing, a central bank purchases private sector assets to improve liquidity and improve access to credit. Signaling can be used to lower market expectations for lower interest rates in the future. For example, during the credit crisis of 2008, the US Federal Reserve indicated rates would be low for an \"extended period\", and the Bank of Canada made a \"conditional commitment\" to keep rates at the lower bound of 25 basis points (0.25%) until the end of the second quarter of 2010. Some have envisaged the use of what Milton Friedman once called \"helicopter money\" whereby the central bank would make direct transfers to citizens in order to lift inflation up to the central bank's intended target. Such policy option could be particularly effective at the zero lower bound."
+        },
+        {
+          "rank": 3,
+          "title": "Central bank",
+          "section": "Economic growth",
+          "url": "https://en.wikipedia.org/wiki?curid=5666",
+          "bm25_rank": 18,
+          "dense_rank": 11,
+          "rerank": -4.895,
+          "text": "Economic growth can be enhanced by investment in capital, such as more or better machinery. A low interest rate implies that firms can borrow money to invest in their capital stock and pay less interest for it. Lowering the interest is therefore considered to encourage economic growth and is often used to alleviate times of low economic growth. On the other hand, raising the interest rate is often used in times of high economic growth as a contra-cyclical device to keep the economy from overheating and avoid market bubbles. Further goals of monetary policy are stability of interest rates, of the financial market, and of the foreign exchange market. Goals frequently cannot be separated from each other and often conflict. For example, deficit spending tends to increase inflation. Goals must therefore be carefully weighed before policy implementation."
+        },
+        {
+          "rank": 4,
+          "title": "Central bank",
+          "section": "Criticism",
+          "url": "https://en.wikipedia.org/wiki?curid=5666",
+          "bm25_rank": 16,
+          "dense_rank": 28,
+          "rerank": -5.6834,
+          "text": "Central banks have faced staunch criticism and opposition throughout history. Thomas Jefferson distrusted central banks and opposed its purchasing of public debt, which he thought created long-term debt, bred monopolies, and invited dangerous speculation as opposed to productive labor. In a letter to John Taylor, Jefferson wrote, Andrew Jackson similarly opposed central banks, viewing them as a fourth branch of government run by an elite. He called them the \"money power\" that sought to control the labor and earnings of the \"real people\", who depend on their own efforts to succeed: the planters, farmers, mechanics, and laborers. Some economists have also expressed opposition to the establishment of central banks. In Friedrich Hayek's book, \"Prices and Production\" (1931), he argued that the business cycle resulted from the central bank's inflationary credit expansion and its transmission over time, leading to a capital misallocation caused by the artificially low interest rates. Murray Rothbard called central banks the \"engine of monetary inflation.\""
+        },
+        {
+          "rank": 5,
+          "title": "European Central Bank",
+          "section": "Transmission Protection instrument (TPI)",
+          "url": "https://en.wikipedia.org/wiki?curid=9474",
+          "bm25_rank": 12,
+          "dense_rank": 2,
+          "rerank": -6.0005,
+          "text": "The Transmission Protection Instrument (TPI) is a tool the ECB could use to ensure monetary policy decisions are smoothly transmitted across all euro area countries, introduced on 21 July 2022. Under the TPI, the ECB would be able to purchase securities in the secondary market, to counter against \"unwanted, disorderly market dynamics\", self fulfilling crises market expectations that do not reflect reality, thus not justified by \"country specific fundamentals.\" The TPI thus enables the ECB to control the difference between borrowing costs across the euro area, thereby reducing fragmentation risk across the euro area. By not letting interfere market dynamics that do not reflect economic reality, the ECB fulfils its secondary mandate under the TFEU, namely \"to support the general economic policies of the Union.\" Although PEPP would remain the first line of defence to counter for transmission risks, the TPI should be seen as an addition to the ECB's toolkit."
+        }
+      ]
+    }
+  ]
+}

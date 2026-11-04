@@ -1,0 +1,14 @@
+{
+  "n_records": 645,
+  "n_with_gold_chunks": 645,
+  "question_type_distribution": {
+    "definition": 91,
+    "why": 167,
+    "cause_effect": 145,
+    "factual": 142,
+    "comparison": 100
+  },
+  "n_source_articles": 170,
+  "avg_answer_words": 18.7,
+  "problems": {}
+}
