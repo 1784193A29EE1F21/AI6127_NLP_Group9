@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki_59_01",
+    "question": "From what is the Cleveland Guardians' team name derived?",
+    "answer": "The Guardians of Traffic sculptures on Cleveland's Hope Memorial Bridge.",
+    "source_title": "Cleveland Guardians",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6652",
+    "evidence": "The team's name is derived from the \"Guardians of Traffic\", eight 1932 Art Deco sculptures by Henry Hering on the city's Hope Memorial Bridge, which is adjacent to Progressive Field.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_59_02",
+    "question": "Why did Cleveland's baseball team change its name from the Indians to the Guardians?",
+    "answer": "The Indians name and logo drew criticism for Native American stereotyping in the mascot controversy.",
+    "source_title": "Cleveland Guardians",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6652",
+    "evidence": "After the Indians name came under criticism as part of the Native American mascot controversy, the team adopted the current name, Guardians, beginning with the 2022 season. ... The club name and its cartoon logo have been criticized for perpetuating Native American stereotypes.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_59_03",
+    "question": "Who was the Cleveland team named after when it was called the Napoleons, or Naps?",
+    "answer": "Nap Lajoie, the team's captain and manager.",
+    "source_title": "Cleveland Guardians",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6652",
+    "evidence": "Beginning in 1903, the team was named the Cleveland Napoleons, or Naps, after team captain and manager Nap Lajoie.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_59_04",
+    "question": "What caused the collapse of the Cleveland Spiders, which led them to be called \"The Wanderers\"?",
+    "answer": "The owners transferred leading players to their St. Louis club, leaving a weak roster; poor attendance then forced the Spiders to play mostly on the road.",
+    "source_title": "Cleveland Guardians",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6652",
+    "evidence": "Prior to the season, Frank Robison, the Spiders' owner, bought the St. Louis Browns, thus owning two clubs at the same time. The Browns were renamed the \"Perfectos\" and restocked with Cleveland talent. Just weeks before the season opener, most of the better Spiders were transferred to St. Louis, including three future Hall of Famers: Cy Young, Jesse Burkett and Bobby Wallace. ... The Spiders were left with essentially a minor league lineup and began to lose games at a record pace. Drawing almost no fans at home, they ended up playing most of their season on the road, and became known as \"The Wanderers\".",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_59_05",
+    "question": "Which team's success led Cleveland and several other cities to establish professional baseball teams?",
+    "answer": "The 1869 Cincinnati Red Stockings.",
+    "source_title": "Cleveland Guardians",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6652",
+    "evidence": "During the 1869 season, Cleveland was among several cities that established professional baseball teams following the success of the 1869 Cincinnati Red Stockings, the first fully professional team.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_59_06",
+    "question": "Why did the Chicago Cubs become known as \"the North Siders\"?",
+    "answer": "Wrigley Field is on Chicago's North Side, unlike the White Sox's South Side home.",
+    "source_title": "Chicago Cubs",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6654",
+    "evidence": "The Cubs are known as \"the North Siders\", a reference to the location of Wrigley Field within the city of Chicago, and in contrast to the White Sox, whose home field (Rate Field) is located on the South Side.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_59_07",
+    "question": "Why did the Chicago Daily News call the franchise the \"Cubs\"?",
+    "answer": "The name referred to the youth of the team's roster.",
+    "source_title": "Chicago Cubs",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6654",
+    "evidence": "Referencing the youth of the team's roster, the \"Chicago Daily News\" called the franchise the Cubs in 1902; it officially took the name five years later.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_59_08",
+    "question": "How is the Chicago White Sox's name connected to the history of the Cubs?",
+    "answer": "The new American League club adopted the Cubs' former White Stockings nickname, later shortened to White Sox.",
+    "source_title": "Chicago Cubs",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6654",
+    "evidence": "The club's old White Stockings nickname (eventually shortened to White Sox) was adopted by a new American League neighbor to the south.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_59_09",
+    "question": "Which Cubs infield trio was made famous as a double-play combination, and by what work?",
+    "answer": "Joe Tinker, Johnny Evers and Frank Chance, celebrated in Franklin P. Adams' poem Baseball's Sad Lexicon.",
+    "source_title": "Chicago Cubs",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6654",
+    "evidence": "During this period, which has become known as baseball's dead-ball era, Cub infielders Joe Tinker, Johnny Evers, and Frank Chance were made famous as a double-play combination by Franklin P. Adams' poem \"Baseball's Sad Lexicon\".",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_59_10",
+    "question": "Why was the earlier Cincinnati team expelled from the National League?",
+    "answer": "It sold beer and allowed Sunday baseball, practices opposed and subsequently banned by the league.",
+    "source_title": "Cincinnati Reds",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6671",
+    "evidence": "In 1876, Cincinnati became one of the charter members of the new National League (NL), but the club ran afoul of league organizer and longtime president William Hulbert for selling beer during games and renting out its ballpark on Sundays. ... While Hulbert made clear his distaste for both beer and Sunday baseball at the founding of the league, neither practice was against league rules at the time. On October 6, 1880, however, seven of the eight team owners adopted a pledge to ban both beer and Sunday baseball at the regular league meeting in December.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_59_11",
+    "question": "What scheme did O. P. Caylor, Justus Thorner and H. Denny McKnight use to form the American Association?",
+    "answer": "They telegraphed each absent owner that everyone else had attended enthusiastically and wanted a second meeting, encouraging participation in a new league.",
+    "source_title": "Cincinnati Reds",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6671",
+    "evidence": "After the 1881 series proved successful, Caylor and former Reds president Justus Thorner received an invitation from Philadelphia businessman Horace Phillips to attend a meeting of several clubs in Pittsburgh, planning to establish a new league to compete with the NL. Upon arriving, however, Caylor and Thorner found that no other owners had accepted the invitation, while even Phillips declined to attend his own meeting. By chance, the duo met former pitcher Al Pratt, who paired them with former Pittsburgh Alleghenys president H. Denny McKnight. Together, the three hatched a scheme to form a new league by sending a telegram to each of the owners who were invited to attend the meeting stating that he was the only person who did not attend, and that everyone else was enthusiastic about the new venture and eager to attend a second meeting in Cincinnati.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_59_12",
+    "question": "What nickname did the dominant Cincinnati Reds of the 1970s earn?",
+    "answer": "The Big Red Machine.",
+    "source_title": "Cincinnati Reds",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6671",
+    "evidence": "The team was colloquially known as the \"Big Red Machine\" during this time, and it included Hall of Fame members Johnny Bench, Joe Morgan, and Tony Pérez, as well as the controversial Pete Rose, the all-time hits leader in Major League Baseball.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_59_13",
+    "question": "Why did the Colorado Rockies choose the name \"Rockies\"?",
+    "answer": "Denver's proximity to the Rocky Mountains.",
+    "source_title": "Colorado Rockies",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6669",
+    "evidence": "They took the name \"Rockies\" due to Denver's proximity to the Rocky Mountains, which is reflected in their logo; the name was previously used by the city's first NHL team, now the New Jersey Devils.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_59_14",
+    "question": "What does \"Rocktober\" refer to in Colorado Rockies history?",
+    "answer": "The team's improbable late-season and October winning run that brought the National League pennant and a World Series appearance.",
+    "source_title": "Colorado Rockies",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6669",
+    "evidence": "Having a record of 76–72 at the start of play on September 16, the Rockies proceeded to win 14 of their final 15 regular season games. The stretch culminated with a 9–8, 13-inning victory over the San Diego Padres in a one-game playoff for the wild card berth. Colorado then swept their first seven playoff games to win the NL pennant. At the start of the World Series, the Rockies had won a total of 21 out of 22 games. Fans and media nicknamed their improbable October run \"Rocktober\".",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_59_15",
+    "question": "Why did the Rockies' original ownership group led by John Antonucci and Michael Monus drop out, and who saved the franchise?",
+    "answer": "Monus's accounting scandal forced them out; trucking magnate Jerry McMorris stepped in to save the franchise.",
+    "source_title": "Colorado Rockies",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6669",
+    "evidence": "Monus and Antonucci were forced to drop out in 1992 after Monus's reputation was ruined by an accounting scandal. Trucking magnate Jerry McMorris stepped in at the 11th hour to save the franchise, allowing the team to begin play in 1993.",
+    "question_type": "why"
+  }
+]

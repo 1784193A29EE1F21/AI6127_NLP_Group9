@@ -1,0 +1,110 @@
+[
+  {
+    "id": "wiki_48_01",
+    "question": "What did the constitution drafted after Costa Rica's 1948 Civil War establish?",
+    "answer": "Universal suffrage, strengthened civil liberties, and the permanent abolition of the military.",
+    "source_title": "History of Costa Rica",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5552",
+    "evidence": "After the Costa Rican Civil War of 1948, the government drafted a new constitution that established universal suffrage, strengthened civil liberties, and permanently abolished the military—an institutional choice that set Costa Rica apart from much of Central America during a period marked elsewhere by armed conflict and military rule.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_48_02",
+    "question": "Why did colonial Costa Rica attract few inhabitants?",
+    "answer": "Because of its distance from the capital in Guatemala, the legal ban on trading with Panama, and its lack of resources such as gold and silver.",
+    "source_title": "History of Costa Rica",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5552",
+    "evidence": "Costa Rica's distance from the capital in Guatemala, its legal prohibition under Spanish law against trading with its southern neighbors in Panama, then part of the Viceroyalty of New Granada (i.e., Colombia), and the lack of resources such as gold and silver, resulted in Costa Rica attracting few inhabitants.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_48_03",
+    "question": "What effect did the lack of an indigenous labor force have on colonial Costa Rican society?",
+    "answer": "Settlers had to work their own land, which prevented large haciendas and contributed to an autonomous, individualistic agrarian society.",
+    "source_title": "History of Costa Rica",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5552",
+    "evidence": "Many historians say that the area suffered a lack of indigenous population available for forced labor, which meant that most of the Costa Rican settlers had to work their own land. This prevented the establishment of large \"haciendas\". For all these reasons Costa Rica was by and large unappreciated and overlooked by the Spanish Crown and left to develop on its own. The small landowners' relative poverty, the lack of a large indigenous labor force, the population's ethnic and linguistic homogeneity, and Costa Rica's isolation from the Spanish colonial centers in Mexico and the Andes, all contributed to the development of an autonomous and individualistic agrarian society.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_48_04",
+    "question": "Why was pre-Columbian Costa Rica divided into two cultural areas?",
+    "answer": "Because of its location in the Intermediate Area between the Mesoamerican and Andean cultural regions.",
+    "source_title": "History of Costa Rica",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5552",
+    "evidence": "In Pre-Columbian times, the native peoples in what is now Costa Rica were divided in two cultural areas due to its geographical location in the Intermediate Area, between the Mesoamerican and the Andean cultural regions.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_48_05",
+    "question": "What geological process forms the volcanoes of Costa Rica?",
+    "answer": "The subduction of the Cocos Plate beneath the Caribbean Plate, forming the Central America Volcanic Arc.",
+    "source_title": "Geography of Costa Rica",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5553",
+    "evidence": "Costa Rica is located on the Caribbean Plate. It borders the Cocos Plate in the Pacific Ocean which is being subducted beneath it. This forms the volcanoes in Costa Rica, also known as the Central America Volcanic Arc.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_48_06",
+    "question": "Which mountain ranges form the spine of Costa Rica?",
+    "answer": "The Cordillera Central and the Cordillera de Talamanca, which separate the Pacific and Caribbean drainage divides.",
+    "source_title": "Geography of Costa Rica",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5553",
+    "evidence": "The nation's coastal plain is separated by the Cordillera Central and the Cordillera de Talamanca, which form the spine of the country and separate the Pacific and Caribbean drainage divides.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_48_07",
+    "question": "What kind of political framework does Costa Rica have?",
+    "answer": "A presidential, representative democratic republic with a multi-party system, in which the president is both head of state and head of government.",
+    "source_title": "Politics of Costa Rica",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5555",
+    "evidence": "The politics of Costa Rica take place in a framework of a presidential, representative democratic republic, with a multi-party system. Executive power is exercised by the president and their cabinet, and the President of Costa Rica is both the head of state and head of government.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_48_08",
+    "question": "Why did Óscar Arias receive the Nobel Peace Prize?",
+    "answer": "For his efforts to end civil wars then raging in several Central American countries.",
+    "source_title": "Politics of Costa Rica",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5555",
+    "evidence": "The 1986 presidential election was won by Óscar Arias of the PLN. During his tenure he experienced some criticism from within his own party for abandoning its traditional social democratic teachings and promoting a neoliberal economic model. He received the Nobel Peace Prize in 1987 for his efforts to end civil wars then raging in several Central American countries.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_48_09",
+    "question": "What happened when the Legislative Assembly tried to pass the \"Combo\" law opening electricity and telecommunications to competition?",
+    "answer": "It provoked the largest protest demonstrations since 1970, and the government quickly shelved the initiative.",
+    "source_title": "Politics of Costa Rica",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5555",
+    "evidence": "The Combo law was supported by both major parties at the time (PLN and PUSC) as well as by President Rodriguez, but the first of three required legislative votes to approve it provoked the largest protest demonstrations the country had seen since 1970. The government quickly resolved to shelve the initiative.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_48_10",
+    "question": "How has Costa Rica's economy changed from its earlier dependence on agriculture?",
+    "answer": "It has become more diverse, based on tourism, electronics and medical component exports, medical manufacturing and IT services.",
+    "source_title": "Economy of Costa Rica",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5556",
+    "evidence": "The country has evolved from an economy that once depended solely on agriculture, to one that is more diverse, based on tourism, electronics and medical components exports, medical manufacturing and IT services.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_48_11",
+    "question": "What did President Luis Guillermo Solís mean by Costa Rica's \"liquidity crisis\" in 2017?",
+    "answer": "An inability of the country to pay all of its obligations and guarantee essential services.",
+    "source_title": "Economy of Costa Rica",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5556",
+    "evidence": "In early August 2017, President Luis Guillermo Solís admitted that the country was facing a \"liquidity crisis\", an inability to pay all of its obligations and to guarantee the essential services.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_48_12",
+    "question": "Why did Moody's lower Costa Rica's credit rating in 2017?",
+    "answer": "Because of the rising government debt burden and persistently high fiscal deficit, along with a lack of political consensus to reduce the deficit.",
+    "source_title": "Economy of Costa Rica",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5556",
+    "evidence": "The country's credit rating was reduced by Moody's Investors Service in early 2017 to Ba2 from Ba1, with a negative outlook on the rating. The agency particularly cited the \"rising government debt burden and persistently high fiscal deficit, which was 5.2% of GDP in 2016\". Moody's was also concerned about the \"lack of political consensus to implement measures to reduce the fiscal deficit [which] will result in further pressure on the government's debt ratios\".",
+    "question_type": "why"
+  }
+]

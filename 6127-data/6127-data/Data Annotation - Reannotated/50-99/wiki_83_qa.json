@@ -1,0 +1,128 @@
+[
+  {
+    "id": "wiki_83_01",
+    "question": "Who conceived the scientific theory of evolution by natural selection?",
+    "answer": "Charles Darwin and Alfred Russel Wallace independently.",
+    "source_title": "Evolution",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9236",
+    "evidence": "The scientific theory of evolution by natural selection was conceived independently by two British naturalists, Charles Darwin and Alfred Russel Wallace, in the mid-19th century as an explanation for why organisms are adapted to their physical and biological environments.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_83_02",
+    "question": "What is genetic drift?",
+    "answer": "Random fluctuations in a population's allele frequencies from one generation to the next.",
+    "source_title": "Evolution",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9236",
+    "evidence": "Genetic drift is the random fluctuation of allele frequencies within a population from one generation to the next.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_83_03",
+    "question": "What is an exaptation?",
+    "answer": "A structure originally adapted for one function that later becomes useful for another.",
+    "source_title": "Evolution",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9236",
+    "evidence": "However, many traits that appear to be simple adaptations are in fact exaptations: structures originally adapted for one function, but which coincidentally became somewhat useful for some other function in the process.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_83_04",
+    "question": "What is coevolution, and what example illustrates it?",
+    "answer": "Reciprocal adaptation between interacting species; for example, toxic rough-skinned newts and garter snakes evolving resistance to their toxin.",
+    "source_title": "Evolution",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9236",
+    "evidence": "When the interaction is between pairs of species, such as a pathogen and a host, or a predator and its prey, these species can develop matched sets of adaptations. Here, the evolution of one species causes adaptations in a second species. These changes in the second species then, in turn, cause new adaptations in the first species. This cycle of selection and response is called coevolution. An example is the production of tetrodotoxin in the rough-skinned newt and the evolution of tetrodotoxin resistance in its predator, the common garter snake.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_83_05",
+    "question": "How does peripatric speciation differ from allopatric speciation?",
+    "answer": "Peripatric speciation isolates a population much smaller than its parent population; allopatric speciation more generally follows geographic isolation.",
+    "source_title": "Evolution",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9236",
+    "evidence": "The most common in animals is allopatric speciation, which occurs in populations initially isolated geographically, such as by habitat fragmentation or migration. ... The second mode of speciation is peripatric speciation, which occurs when small populations of organisms become isolated in a new environment. This differs from allopatric speciation in that the isolated populations are numerically much smaller than the parental population.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_83_06",
+    "question": "Why is hybrid speciation more common in plants than in animals?",
+    "answer": "Animal hybrids are usually sterile because their chromosomes cannot pair properly, whereas chromosome doubling in plants can restore matching pairs and fertility.",
+    "source_title": "Evolution",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9236",
+    "evidence": "This is not common in animals as animal hybrids are usually sterile. This is because during meiosis the homologous chromosomes from each parent are from different species and cannot successfully pair. However, it is more common in plants because plants often double their number of chromosomes, to form polyploids. This allows the chromosomes from each parental species to form matching pairs during meiosis, since each parent's chromosomes are represented by a pair already.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_83_07",
+    "question": "Which scientist defined the Biological Species Concept, and in which book did he set it out?",
+    "answer": "Ernst Mayr, in Systematics and the Origin of Species (1942).",
+    "source_title": "Ernst Mayr",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9238",
+    "evidence": "In his book \"Systematics and the Origin of Species\" (1942) he wrote that a species is not just a group of morphologically similar individuals, but a group that can breed only among themselves, excluding all others. ... After articulating the biological species concept in 1942, Mayr played a central role in the species problem debate over what was the best species concept.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_83_08",
+    "question": "Which later evolutionary theory used Mayr's theory of peripatric speciation as its theoretical underpinning?",
+    "answer": "Punctuated equilibrium, proposed by Niles Eldredge and Stephen Jay Gould.",
+    "source_title": "Ernst Mayr",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9238",
+    "evidence": "His theory of peripatric speciation (a more precise form of allopatric speciation which he advanced), based on his work on birds, is still considered a leading mode of speciation, and was the theoretical underpinning for the theory of punctuated equilibrium, proposed by Niles Eldredge and Stephen Jay Gould.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_83_09",
+    "question": "Why did Ernst Mayr reject the gene-centered view of evolution?",
+    "answer": "He argued that selection acts on whole organisms or genomes and that a gene's effects depend on the other genes present.",
+    "source_title": "Ernst Mayr",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9238",
+    "evidence": "In many of his writings, Mayr rejected reductionism in evolutionary biology, arguing that evolutionary pressures act on the whole organism, not on single genes, and that genes can have different effects depending on the other genes present. He advocated a study of the whole genome, rather than of only isolated genes. Mayr insisted that the entire genome should be considered as the target of selection (thus genome evolution) rather than individual genes:",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_83_10",
+    "question": "What did Mayr mean by \"teleonomy\"?",
+    "answer": "Programmatic biological processes whose naturally selected genetic programs make them appear goal-directed without supernatural explanation.",
+    "source_title": "Ernst Mayr",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9238",
+    "evidence": "He popularised the term teleonomy to refer to programmatic biological processes like organismal growth and development and emphasised that the genetic programmes encoding these processes were heavily selected for and stabilised by natural selection to give the appearance of being goal-directed but required no supernatural explanations.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_83_11",
+    "question": "Why did Mayr prefer the term \"Social Spencerism\" to \"Social Darwinism\"?",
+    "answer": "Spencer's ideas differed from Darwin's, relying mainly on neo-Lamarckian inheritance and orthogenesis rather than Darwinian evolution.",
+    "source_title": "Ernst Mayr",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9238",
+    "evidence": "Mayr was a strong critic of Social Darwinism and argued that the ideas of Herbert Spencer were substantially divergent from Darwin's. Mayr believed that it was inaccurate to associate Spencer with Darwinism, pointing out not only that Spencer's theory of evolution preceded Darwin's but that it was based primarily on neo-Lamarckian inheritance and orthogenesis and thus conflicted with Darwin's. For this reason, Mayr preferred the term \"Social Spencerism\" when referring to Social Darwinism.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_83_12",
+    "question": "How are many new enzyme activities generally believed to have evolved?",
+    "answer": "Through gene duplication followed by mutation of the duplicate copies, though duplication is not always necessary.",
+    "source_title": "Enzyme",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9257",
+    "evidence": "It is generally accepted that many new enzyme activities have evolved through gene duplication and mutation of the duplicate copies although evolution can also happen without duplication.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_83_13",
+    "question": "How does the induced fit model of enzyme action differ from the lock and key model?",
+    "answer": "Lock-and-key assumes complementary shapes already fit; induced fit allows the flexible active site to reshape through interaction with the substrate.",
+    "source_title": "Enzyme",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9257",
+    "evidence": "To explain the observed specificity of enzymes, in 1894 Emil Fischer proposed that both the enzyme and the substrate possess specific complementary geometric shapes that fit exactly into one another. This is often referred to as \"the lock and key\" model. ... In 1958, Daniel Koshland suggested a modification to the lock and key model: since enzymes are rather flexible structures, the active site is continuously reshaped by interactions with the substrate as the substrate interacts with the enzyme.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_83_14",
+    "question": "Why can enzyme promiscuity be important for evolution?",
+    "answer": "Fortuitous side activities can provide starting points on which selection acts to evolve new enzyme functions.",
+    "source_title": "Enzyme",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9257",
+    "evidence": "Conversely, some enzymes display enzyme promiscuity, having broad specificity and acting on a range of different physiologically relevant substrates. Many enzymes possess small side activities which arose fortuitously (i.e. neutrally), which may be the starting point for the evolutionary selection of a new function.",
+    "question_type": "why"
+  }
+]

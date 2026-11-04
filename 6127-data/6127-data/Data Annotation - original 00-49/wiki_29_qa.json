@@ -1,0 +1,110 @@
+[
+  {
+    "id": "wiki_29_01",
+    "question": "What is a base on balls in baseball?",
+    "answer": "Better known as a walk, it is when a batter receives four pitches called \"balls\" during a plate appearance and is awarded first base without the possibility of being called out.",
+    "source_title": "Base on balls",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3802",
+    "evidence": "A base on balls (BB), better known as a walk,\noccurs in baseball when a batter receives four pitches during a plate appearance that the umpire calls \"balls\", and is in turn awarded first base without the possibility of being called out.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_29_02",
+    "question": "How does the status of the ball after a walk differ from that after a hit by pitch?",
+    "answer": "After a hit by pitch the ball is dead and runners may only advance if forced, while after a walk the ball is live and runners may try to advance at their own risk.",
+    "source_title": "Base on balls",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3802",
+    "evidence": "One exception is that on hit-by-pitch, the ball is dead, and any runners attempting to steal on the play must return to their original base unless forced to the next base anyway. When a walk occurs, the ball is still live: any runner not forced to advance may nevertheless attempt to advance at his own risk, which might occur on a steal play, passed ball, or wild pitch.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_29_03",
+    "question": "Why does a base on balls not affect a player's batting average?",
+    "answer": "Because it is not counted as a hit or an at bat, although it does count as a plate appearance and a time on base, so it can raise on-base percentage.",
+    "source_title": "Base on balls",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3802",
+    "evidence": "Receiving a base on balls does not count as a hit or an at bat for a batter but does count as a time on base and a plate appearance. Therefore, a base on balls does not affect a player's batting average, but it can increase his on-base percentage.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_29_04",
+    "question": "Why do teams issue intentional walks?",
+    "answer": "To bypass a hitter in favour of one considered less likely to start a run-scoring play, or to set up a double play or force out for the next batter.",
+    "source_title": "Base on balls",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3802",
+    "evidence": "Intentional walks are a strategic defensive maneuver, commonly done to bypass one hitter for one the defensive team believes is less likely to initiate a run-scoring play (e.g., a home run, sacrifice fly, or RBI base hit). Teams also commonly use intentional walks to set up a double play or force out situation for the next batter.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_29_05",
+    "question": "What commonly causes a batter to be hit by a pitch?",
+    "answer": "The batter standing too close to, or \"crowding\", home plate.",
+    "source_title": "Hit by pitch",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3806",
+    "evidence": "Being hit by a pitch is often caused by a batter standing too close to, or \"crowding\", home plate.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_29_06",
+    "question": "What happens if a batter is hit by a pitch but made no attempt to avoid it?",
+    "answer": "He is not awarded first base, and the pitch is ruled a strike if in the strike zone or a ball if outside it.",
+    "source_title": "Hit by pitch",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3806",
+    "evidence": "If the batter does not attempt to avoid the pitch, he is not awarded first base, and the pitch is ruled either a strike if in the strike zone or a ball if out of the strike zone.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_29_07",
+    "question": "Why can baseball players in California not sue for injuries from being hit by a pitch?",
+    "answer": "Because courts treat being hit by a pitch, even intentionally, as an inherent risk of the sport that players assume.",
+    "source_title": "Hit by pitch",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3806",
+    "evidence": "Since inside pitching is a legitimate tactic in baseball, courts have recognized that being hit by a pitch is an inherent risk of the game, so that players cannot sue for any resulting injuries. On April 6, 2006, in a case arising from a game involving community college baseball teams, the Supreme Court of California ruled that baseball players in California assume the risk of being hit by baseballs \"even if\" the balls were intentionally thrown so as to cause injury.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_29_08",
+    "question": "Which major-league player died after being struck by a pitch?",
+    "answer": "Ray Chapman of the Cleveland Indians, who was hit in the head by Carl Mays.",
+    "source_title": "Hit by pitch",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3806",
+    "evidence": "One major-league player died as a result of being struck by a pitch: Ray Chapman of the Cleveland Indians was hit in the head by Carl Mays on August 16, 1920, and died the next morning.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_29_09",
+    "question": "When is a baseball player credited with a plate appearance?",
+    "answer": "Each time he completes a turn batting, meaning he is put out or becomes a runner.",
+    "source_title": "Plate appearance",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3812",
+    "evidence": "In baseball, a player is credited with a plate appearance (denoted by PA) each time he completes a turn batting. Under Rule 5.04(c) of the Official Baseball Rules, a player completes a turn batting when he is put out or becomes a runner.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_29_10",
+    "question": "Why did Melky Cabrera ask not to be considered for the 2012 National League batting title?",
+    "answer": "He admitted that his use of performance-enhancing drugs, for which he had been suspended, gave him an unfair advantage over other players.",
+    "source_title": "Plate appearance",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3812",
+    "evidence": "Cabrera was still eligible for that extra at bat, but he requested that the extra at bat not be added to his total, and that he not be considered for the batting crown, because he admitted that his use of performance-enhancing drugs had given him an unfair advantage over other players.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_29_11",
+    "question": "Why is a sacrifice fly not counted as an at-bat?",
+    "answer": "To avoid penalizing hitters for a successful action.",
+    "source_title": "Sacrifice fly",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3809",
+    "evidence": "The purpose of not counting a sacrifice fly as an at-bat is to avoid penalizing hitters for a successful action.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_29_12",
+    "question": "How does the scoring of a sacrifice fly differ from that of a sacrifice bunt?",
+    "answer": "A sacrifice bunt may be scored if a runner advances from any base to any base, but a sacrifice fly is credited only if a runner scores on the play.",
+    "source_title": "Sacrifice fly",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3809",
+    "evidence": "Unlike a sacrifice bunt, which may be scored if a runner advances from any base to any base, a sacrifice fly is credited only if a runner scores on the play.",
+    "question_type": "comparison"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "wiki_77_01",
+    "question": "What term describes Doom's graphics technique of showing a 3D perspective while restricting movement to a two-dimensional plane?",
+    "answer": "2.5D graphics.",
+    "source_title": "Doom (1993 video game)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8521",
+    "evidence": "While the environment is shown in a 3D perspective, movement is restricted to a two-dimensional (2D) plane, a technique sometimes referred to as 2.5D graphics.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_77_02",
+    "question": "Why did id Software store Doom's level and graphical data in WAD files separate from the engine?",
+    "answer": "So any part of the design could be changed without adjusting engine code, making it easy for fans to modify the game.",
+    "source_title": "Doom (1993 video game)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8521",
+    "evidence": "The level and graphical data was stored in WAD files, short for \"Where's All the Data?\", separately from the engine. This allowed for any part of the design to be changed without needing to adjust the engine code. Carmack designed this system so that fans could easily modify the game; he had been impressed by the modifications made by fans of \"Wolfenstein 3D\" and wanted to support that by releasing a map editor with an easily swappable file structure.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_77_03",
+    "question": "Why was the story in Tom Hall's \"Doom Bible\" ultimately rejected?",
+    "answer": "Romero wanted an even more brutal and fast game with no room for a character-driven plot, and the team felt it emphasized realism over entertaining gameplay.",
+    "source_title": "Doom (1993 video game)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8521",
+    "evidence": "Romero wanted a game even \"more brutal and fast\" than \"Wolfenstein\", which did not leave room for the character-driven plot Hall had created. Additionally, the team believed it emphasized realism over entertaining gameplay, and they did not see the need for a design document at all.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_77_04",
+    "question": "Which games inspired the deathmatch mode in Doom, according to John Romero?",
+    "answer": "Fighting games such as Street Fighter II, Fatal Fury, and Art of Fighting.",
+    "source_title": "Doom (1993 video game)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8521",
+    "evidence": "According to Romero, the deathmatch mode was inspired by fighting games such as \"Street Fighter II\", \"Fatal Fury\", and \"Art of Fighting\".",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_77_05",
+    "question": "How did Doom's demo files contribute to the rise of video game speedrunning?",
+    "answer": "Demos were lightweight replay files that could be shared easily on bulletin board systems, so Doom is credited with creating the speedrunning community.",
+    "source_title": "Doom (1993 video game)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8521",
+    "evidence": "Demos were lightweight files that could be shared more easily than video files on internet bulletin board systems at the time. As a result, \"Doom\" is credited with creating the video game speedrunning community.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_77_06",
+    "question": "Which game engine did Duke Nukem 3D use, and how was that engine related to Doom?",
+    "answer": "The Build engine, a 2.5D engine created by Ken Silverman that was inspired by Doom, with some consultation from John Carmack.",
+    "source_title": "Doom (1993 video game)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8521",
+    "evidence": "Several other games termed \"Doom\" clones, such as \"PowerSlave\" (1996) and \"Duke Nukem 3D\" (1996), used the 1995 Build engine, a 2.5D engine inspired by \"Doom\" created by Ken Silverman with some consultation with John Carmack.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_77_07",
+    "question": "What prompted players to request a source code release for Duke Nukem 3D from 3D Realms?",
+    "answer": "The release of the Doom source code in 1997.",
+    "source_title": "Duke Nukem 3D",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8569",
+    "evidence": "Following the release of the \"Doom\" source code in 1997, players wanted a similar source code release from 3D Realms.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_77_08",
+    "question": "How did a Next Generation critic compare Duke Nukem 3D with Doom?",
+    "answer": "He said Duke Nukem 3D has everything Doom lacks while keeping the elements that made Doom a classic.",
+    "source_title": "Duke Nukem 3D",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8569",
+    "evidence": "A \"Next Generation\" critic summarized: \"\"Duke Nukem 3D\" has everything \"Doom\" doesn't, but it also doesn't leave out the stuff that made \"Doom\" a classic.\"",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_77_09",
+    "question": "What were the HoloDuke device and the aqua-lung used for in Duke Nukem 3D?",
+    "answer": "The HoloDuke projects a hologram of Duke to distract enemies, and the aqua-lung lets Duke stay underwater longer.",
+    "source_title": "Duke Nukem 3D",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8569",
+    "evidence": "The \"HoloDuke\" device projects a hologram of Duke, which can be used to distract enemies. Protective boots allow Duke to cross dangerously hot or toxic terrain. In sections where progress requires more aquatic legwork, an aqua-lung allows Duke to take longer trips underwater.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_77_10",
+    "question": "Why were Duke Nukem 3D and Doom banned in Brazil?",
+    "answer": "After a rampage in and around a movie theater was supposedly inspired by the first level of Duke Nukem 3D.",
+    "source_title": "Duke Nukem 3D",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8569",
+    "evidence": "In 1999, \"Duke Nukem 3D\" was banned in Brazil, along with \"Doom\" and several other first-person shooters, after a rampage in and around a movie theater was supposedly inspired by the first level in the game.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_77_11",
+    "question": "What is a hardcore character in Diablo II?",
+    "answer": "A character with only one life who is permanently dead and unplayable if killed.",
+    "source_title": "Diablo II",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8556",
+    "evidence": "In normal mode, the player can resurrect their character if killed and resume playing, while a hardcore character has only one life. If killed, the character is permanently dead and unplayable.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_77_12",
+    "question": "What is the Horadric Cube used for in Diablo II?",
+    "answer": "Combining two or more items to create a new item, as part of the crafting system.",
+    "source_title": "Diablo II",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8556",
+    "evidence": "An item called the Horadric Cube is used to combine two or more items to create a new item.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_77_13",
+    "question": "What change was made to Diablo II's cover art after the Columbine High School massacre, an event also linked to controversy over Doom?",
+    "answer": "A hole in the forehead of the character was hidden.",
+    "source_title": "Diablo II",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8556",
+    "evidence": "The cover art, designed by Gerald Brom, originally had a hole in the forehead of the character but the hole was hidden after Columbine High School massacre happened.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_77_14",
+    "question": "How did Diablo II's approach to multiplayer differ from the original Diablo?",
+    "answer": "Diablo II was made specifically with online gaming in mind, with party-boosted spells and open spaces largely replacing dungeons.",
+    "source_title": "Diablo II",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8556",
+    "evidence": "Unlike the original \"Diablo\", \"Diablo II\" was made specifically with online gaming in mind. Several spells (such as auras or war cries) multiply their effectiveness if they are cast within a party, and although dungeons still exist, they were largely replaced by open spaces.",
+    "question_type": "comparison"
+  }
+]

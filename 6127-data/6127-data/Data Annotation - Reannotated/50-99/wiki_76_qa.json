@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki_76_01",
+    "question": "What is the closest living relative of the dodo?",
+    "answer": "The Nicobar pigeon.",
+    "source_title": "Dodo",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8420",
+    "evidence": "The closest living relative of the dodo is the Nicobar pigeon.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_76_02",
+    "question": "Why is the dodo thought to have become flightless?",
+    "answer": "Abundant food and a relative absence of predators on Mauritius are thought to have favored flightlessness.",
+    "source_title": "Dodo",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8420",
+    "evidence": "It is presumed that the dodo became flightless because of the ready availability of abundant food sources and a relative absence of predators on Mauritius.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_76_03",
+    "question": "How does the impact of animals introduced to Mauritius compare with human hunting as a cause of the dodo's extinction?",
+    "answer": "Introduced animals, especially pigs and macaques, are considered to have had a greater impact than hunting; they raided nests and competed for food.",
+    "source_title": "Dodo",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8420",
+    "evidence": "The human population on Mauritius (an area of) never exceeded 50 people in the 17th century, but they introduced other animals, including dogs, pigs, cats, rats, and crab-eating macaques, which plundered dodo nests and competed for the limited food resources. ... The impact of the introduced animals on the dodo population, especially the pigs and macaques, is today considered more severe than that of hunting.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_76_04",
+    "question": "Which was probably more aggressive, the dodo or the Rodrigues solitaire, and why?",
+    "answer": "The Rodrigues solitaire, because Mauritius had more rainfall and less seasonal variation, giving dodos less reason to develop aggressive territorial behavior.",
+    "source_title": "Dodo",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8420",
+    "evidence": "Since Mauritius receives more rainfall and has less seasonal variation than Rodrigues, which would have affected the availability of resources on the island, the dodo would have less reason to evolve aggressive territorial behaviour. The Rodrigues solitaire was therefore probably the more aggressive of the two.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_76_05",
+    "question": "What does it mean that the dodo's upper jaw was rhynchokinetic?",
+    "answer": "The skeletal elements of the upper jaw could move relative to one another.",
+    "source_title": "Dodo",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8420",
+    "evidence": "Skeletal elements of the upper jaw appear to have been rhynchokinetic (movable in relation to each other), which must have affected its feeding behaviour.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_76_06",
+    "question": "Why did Stanley Temple believe the tambalacoque tree depended on the dodo to reproduce?",
+    "answer": "He hypothesized that seeds could germinate only after passing through a dodo's digestive tract, consistent with his belief that only centuries-old trees remained.",
+    "source_title": "Sideroxylon grandiflorum",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8421",
+    "evidence": "There were supposedly only 13 specimens left, all estimated to be about 300 years old; the true age could not be determined because tambalacoque has no growth rings. Stanley Temple hypothesised that the dodo, which became extinct in the 17th century, ate tambalacoque fruits, and that only after passing through the digestive tract of the dodo could the seeds germinate.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_76_07",
+    "question": "Why is the fruit of the tambalacoque classified as a drupe?",
+    "answer": "Its fruit has a hard endocarp, or pit, surrounding the seed.",
+    "source_title": "Sideroxylon grandiflorum",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8421",
+    "evidence": "Each is termed a drupe because each has a hard endocarp, or pit, surrounding the seed.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_76_08",
+    "question": "Which extinct animals did the Plant Science Bulletin suggest were more likely than the dodo to have dispersed tambalacoque seeds?",
+    "answer": "Cylindraspis giant tortoises.",
+    "source_title": "Sideroxylon grandiflorum",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8421",
+    "evidence": "The Bulletin published evidence as to why the dodo's extinction did not directly cause the increasing disappearance of young trees, including suggestions that the \"Cylindraspis\" giant tortoises would have been more likely to disperse the seeds than dodos, casting doubt on Temple's view as to the dodo and the tree's sole survival relationship.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_76_09",
+    "question": "How do invasive macaques on Mauritius, an introduced species that also harmed the dodo, reduce germination of the tambalacoque tree?",
+    "answer": "They pick unripe fruits, killing the seeds and reducing natural germination rates by as much as about fortyfold.",
+    "source_title": "Sideroxylon grandiflorum",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8421",
+    "evidence": "More recently, the tree’s decline within native forests was shown to be in fact driven by invasive introduced species: The tree’s first germination in its native habitat were observed in 2001 (26 seedlings) exclusively where invasive alien weeds had been cleared and further observations and controlled experiments showed that invasive introduced macaques (Macaca fascicularis,) pick most of the tree’s fruits when still unripe, killing the seeds, and reducing natural germination rates by up to about 40 times.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_76_10",
+    "question": "Why have some foresters in Mauritius scraped tambalacoque pits by hand?",
+    "answer": "To make the seeds sprout and grow, because the tree's wood is highly valued.",
+    "source_title": "Sideroxylon grandiflorum",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8421",
+    "evidence": "The dodo tree is highly valued for its wood in Mauritius, which has led some foresters to scrape the pits by hand to make them sprout and grow.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_76_11",
+    "question": "Who discovered the insecticidal action of DDT?",
+    "answer": "Swiss chemist Paul Hermann Müller, in 1939.",
+    "source_title": "DDT",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8494",
+    "evidence": "DDT's insecticidal action was discovered by the Swiss chemist Paul Hermann Müller in 1939.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_76_12",
+    "question": "How does DDT kill insects?",
+    "answer": "It opens voltage-sensitive sodium channels in insect neurons, causing spontaneous firing, spasms and eventually death.",
+    "source_title": "DDT",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8494",
+    "evidence": "In insects, DDT opens voltage-sensitive sodium ion channels in neurons, causing them to fire spontaneously, which leads to spasms and eventual death.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_76_13",
+    "question": "Which book highlighted environmental concerns about DDT in the United States and helped spur public opposition to it?",
+    "answer": "Rachel Carson's 1962 book Silent Spring.",
+    "source_title": "DDT",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8494",
+    "evidence": "The widespread use of DDT after World War II soon raised environmental concerns, highlighted in the United States by Rachel Carson's 1962 book \"Silent Spring\", which helped spur public opposition and contributed to the 1972 US ban on its agricultural use.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_76_14",
+    "question": "Why does exposure to DDE cause birds to lay thinner eggshells?",
+    "answer": "The mechanism is not fully understood, but evidence indicates that p,p-DDE inhibits shell-gland calcium ATPase, reducing calcium carbonate transport needed to form shells.",
+    "source_title": "DDT",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8494",
+    "evidence": "The biological thinning mechanism is not entirely understood, but DDE appears to be more potent than DDT, and strong evidence indicates that \"p\",\"p\"-DDE inhibits calcium ATPase in the membrane of the shell gland and reduces the transport of calcium carbonate from blood into the eggshell gland.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_76_15",
+    "question": "What is indoor residual spraying (IRS) in malaria control?",
+    "answer": "Treating interior walls and ceilings with insecticides to control malaria vectors.",
+    "source_title": "DDT",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8494",
+    "evidence": "These include antimalarial drugs to prevent or treat infection; improvements in public health infrastructure to diagnose, sequester and treat infected individuals; bednets and other methods intended to keep mosquitoes from biting humans; and vector control strategies such as larviciding with insecticides, ecological controls such as draining mosquito breeding grounds or introducing fish to eat larvae and indoor residual spraying (IRS) with insecticides, possibly including DDT. IRS involves the treatment of interior walls and ceilings with insecticides.",
+    "question_type": "definition"
+  }
+]

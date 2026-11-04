@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki_65_01",
+    "question": "What did the Edict of Milan, developed by Constantine the Great and Licinius, establish for Christians?",
+    "answer": "That Christians should be allowed to follow their faith without oppression.",
+    "source_title": "Constantine the Great",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7236",
+    "evidence": "In February 313, he met with Licinius in Milan and developed the Edict of Milan, which stated that Christians should be allowed to follow their faith without oppression.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_65_02",
+    "question": "Why is Constantine the Great thought to have postponed his baptism until he was dying?",
+    "answer": "To be absolved from as much of his sin as possible.",
+    "source_title": "Constantine the Great",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7236",
+    "evidence": "He chose the Arian bishop Eusebius of Nicomedia, bishop of the city where he lay dying, as his baptiser. It has been thought that Constantine put off baptism as long as he did to be absolved from as much of his sin as possible.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_65_03",
+    "question": "How did the death of Maximian affect Constantine the Great's claim to rule?",
+    "answer": "Constantine could no longer rely on his connection to Maximian and needed a new source of legitimacy, forcing a shift in his public image.",
+    "source_title": "Constantine the Great",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7236",
+    "evidence": "The death of Maximian required a shift in Constantine's public image. He could no longer rely on his connection to the elder Emperor Maximian and needed a new source of legitimacy.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_65_04",
+    "question": "Which scholar proved that the Donation of Constantine was a forgery?",
+    "answer": "The philologist and Catholic priest Lorenzo Valla.",
+    "source_title": "Constantine the Great",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7236",
+    "evidence": "Philologist and Catholic priest Lorenzo Valla proved in 1440 that the document was indeed a forgery.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_65_05",
+    "question": "Who ordered the killing of Dalmatius and Hannibalianus after the death of Constantine the Great, and to what end?",
+    "answer": "Constantius II, to eliminate possible opponents to the succession of Constantine I's sons.",
+    "source_title": "Constantine II (emperor)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7234",
+    "evidence": "As a result, after their father's death Constantine II's brother Constantius II ordered the killings of numerous male relatives, including Dalmatius and Hannibalianus, thus eliminating any possible opponents to the succession of Constantine I's sons.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_65_06",
+    "question": "Which territories did Constantine II receive when the empire was divided among Constantine the Great's sons?",
+    "answer": "Gaul, Britannia and Hispania.",
+    "source_title": "Constantine II (emperor)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7234",
+    "evidence": "Constantine received Gaul, Britannia and Hispania.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_65_07",
+    "question": "Why did Constantine II believe he had authority over the lands ruled by his brother Constans?",
+    "answer": "He believed his age gave him seniority in the imperial college and therefore control over his youngest brother's dominion.",
+    "source_title": "Constantine II (emperor)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7234",
+    "evidence": "Constantine’s later actions indicate that he was left unsatisfied with the results of their meeting, believing that his age granted him some level of seniority in the imperial college and, by extension, control over the dominion of his youngest brother Constans, who was still a teenager in 337.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_65_08",
+    "question": "What led to the death of Constantine II?",
+    "answer": "He invaded Italy to claim territory from Constans, whose troops killed him in an ambush near Aquileia.",
+    "source_title": "Constantine II (emperor)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7234",
+    "evidence": "In April 340, Constantine launched an invasion into Italy to claim territory from Constans. Constans, at that time in Naissus, sent a number of troops to confront him, and Constantine was killed in an ambush near Aquileia.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_65_09",
+    "question": "What did the Latin word \"crux\" originally refer to?",
+    "answer": "The gibbet where criminals were executed, a stake or pole on which the condemned were impaled or hanged, and more particularly a cross.",
+    "source_title": "Cross",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7303",
+    "evidence": "Latin referred to the gibbet where criminals were executed, a stake or pole, with or without, on which the condemned were impaled or hanged, but more particularly a cross or the pole of a carriage.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_65_10",
+    "question": "What did Clement of Alexandria call the cross?",
+    "answer": "\"The Lord's sign\".",
+    "source_title": "Cross",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7303",
+    "evidence": "Clement of Alexandria in the early 3rd century calls it (\"the Lord's sign\") he repeats the idea, current as early as the Epistle of Barnabas, that the number 318 (in Greek numerals, ΤΙΗ) in Genesis 14:14 was a foreshadowing (a \"type\") of the cross (the letter Tau) and of Jesus (the letters Iota Eta).",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_65_11",
+    "question": "How did the cross shape used by early Christians differ from the crosses that later appeared in Christian art?",
+    "answer": "Early Christians used a T-shape, while crosses with intersecting beams (the Greek and Latin crosses) appeared in art only towards the end of Late Antiquity.",
+    "source_title": "Cross",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7303",
+    "evidence": "While early Christians used the T-shape to represent the cross in writing and gesture, the use of the Greek cross and Latin cross, i.e. crosses with intersecting beams, appears in Christian art towards the end of Late Antiquity.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_65_12",
+    "question": "Why was Clement of Alexandria kept off the Roman Martyrology by Pope Benedict XIV?",
+    "answer": "Because his life was little known, he never obtained public cultus in the Church, and some of his doctrines were considered at least suspect.",
+    "source_title": "Clement of Alexandria",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7342",
+    "evidence": "Benedict XIV maintained this decision of his predecessor on the grounds that Clement's life was little known, that he had never obtained public cultus in the Church, and that some of his doctrines were, if not erroneous, at least suspect.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_65_13",
+    "question": "What is the \"Protrepticus\" by Clement of Alexandria?",
+    "answer": "An exhortation to the pagans of Greece to adopt Christianity.",
+    "source_title": "Clement of Alexandria",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7342",
+    "evidence": "The \"Protrepticus\" (: \"Exhortation to the Greeks\") is, as its title suggests, an exhortation to the pagans of Greece to adopt Christianity.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_65_14",
+    "question": "What caused Clement of Alexandria to leave Alexandria?",
+    "answer": "The Severian persecution.",
+    "source_title": "Clement of Alexandria",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7342",
+    "evidence": "During the Severian persecution of 202–203, Clement left Alexandria.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_65_15",
+    "question": "Why did Clement of Alexandria condemn Christians who actively sought martyrdom?",
+    "answer": "He argued that they did not have sufficient respect for God's gift of life.",
+    "source_title": "Clement of Alexandria",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7342",
+    "evidence": "While all good Christians should be unafraid of death, Clement condemns those who actively seek out a martyr's death, arguing that they do not have sufficient respect for God's gift of life.",
+    "question_type": "why"
+  }
+]

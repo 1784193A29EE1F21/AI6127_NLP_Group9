@@ -1,0 +1,110 @@
+[
+  {
+    "id": "wiki_01_01",
+    "question": "Why was the Apollo 8 mission changed from a lunar module test in Earth orbit to a command-module-only flight to the Moon?",
+    "answer": "The lunar module was not ready for its first flight, prompting a command-module-only lunar mission instead.",
+    "source_title": "Apollo 8",
+    "source_url": "https://en.wikipedia.org/wiki?curid=663",
+    "evidence": "Originally planned as the second crewed Apollo Lunar Module and command module test, to be flown in an elliptical medium Earth orbit in early 1969, the mission profile was changed in August 1968 to a more ambitious command-module-only lunar orbital flight to be flown in December, as the lunar module was not yet ready to make its first flight.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_01_02",
+    "question": "Why had space adaptation syndrome not occurred on Mercury and Gemini flights, even though it is believed to have affected Frank Borman on Apollo 8?",
+    "answer": "Mercury and Gemini cabins were too small for astronauts to move freely.",
+    "source_title": "Apollo 8",
+    "source_url": "https://en.wikipedia.org/wiki?curid=663",
+    "evidence": "Space adaptation syndrome had not occurred on previous spacecraft (Mercury and Gemini), because those astronauts could not move freely in the small cabins of those spacecraft.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_01_03",
+    "question": "Which Apollo 8 astronaut took the famous color photograph known as \"Earthrise\"?",
+    "answer": "William Anders.",
+    "source_title": "Apollo 8",
+    "source_url": "https://en.wikipedia.org/wiki?curid=663",
+    "evidence": "Anders asked Lovell for color film and then took \"Earthrise\", a now famous color photo, later picked by \"Life\" magazine as one of its hundred photos of the century. ... The stamp featured a detail of the famous photograph of the Earthrise over the Moon taken by Anders on Christmas Eve, and the words, \"In the beginning God...\", the first words of the book of Genesis.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_01_04",
+    "question": "Why is an Earthrise generally not visible to someone standing on the lunar surface?",
+    "answer": "The Moon's synchronous rotation keeps Earth generally fixed in the lunar sky; Earthrise is mainly seen in orbit or near the limb through libration.",
+    "source_title": "Apollo 8",
+    "source_url": "https://en.wikipedia.org/wiki?curid=663",
+    "evidence": "Due to the synchronous rotation of the Moon about the Earth, Earthrise is not generally visible from the lunar surface. ... Earthrise is generally visible only while orbiting the Moon, and at selected surface locations near the Moon's limb, where libration carries the Earth slightly above and below the lunar horizon.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_01_05",
+    "question": "Which astronaut was dropped from the Apollo 8 crew because of a spinal problem and later flew as Command Module Pilot on Apollo 11?",
+    "answer": "Michael Collins.",
+    "source_title": "Apollo 11",
+    "source_url": "https://en.wikipedia.org/wiki?curid=662",
+    "evidence": "Michael Collins, the CMP on the Apollo 8 crew, began experiencing trouble with his legs. Doctors diagnosed a bony growth between his fifth and sixth vertebrae, requiring surgery. Lovell took his place on the Apollo 8 crew, and when Collins recovered he joined Armstrong's crew as CMP.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_01_06",
+    "question": "How did the reaction to the Apollo 8 crew's Genesis reading affect Buzz Aldrin's behavior on the Moon during Apollo 11?",
+    "answer": "The lawsuit over Apollo 8's Genesis broadcast led Aldrin to avoid directly mentioning his lunar communion.",
+    "source_title": "Apollo 11",
+    "source_url": "https://en.wikipedia.org/wiki?curid=662",
+    "evidence": "At this time NASA was still fighting a lawsuit brought by atheist Madalyn Murray O'Hair (who had objected to the Apollo 8 crew reading from the Book of Genesis) demanding that their astronauts refrain from broadcasting religious activities while in space. For this reason, Aldrin chose to refrain from directly mentioning taking communion on the Moon.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_01_07",
+    "question": "What was diagnosed during the mission as the cause of the program alarms that appeared during Apollo 11's lunar descent?",
+    "answer": "The rendezvous-radar switch was in the wrong position, making the computer process rendezvous and landing radar data simultaneously.",
+    "source_title": "Apollo 11",
+    "source_url": "https://en.wikipedia.org/wiki?curid=662",
+    "evidence": "During the mission, the cause was diagnosed as the rendezvous radar switch being in the wrong position, causing the computer to process data from both the rendezvous and landing radars at the same time.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_01_08",
+    "question": "What fictional object inspired the name of the Apollo 11 command module \"Columbia\"?",
+    "answer": "Columbiad, the giant spacecraft-launching cannon in Jules Verne's From the Earth to the Moon.",
+    "source_title": "Apollo 11",
+    "source_url": "https://en.wikipedia.org/wiki?curid=662",
+    "evidence": "At Scheer's suggestion, the CM was named \"Columbia\" after \"Columbiad\", the giant cannon that launched a spacecraft (also from Florida) in Jules Verne's 1865 novel \"From the Earth to the Moon\".",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_01_09",
+    "question": "What is a \"taikonaut\"?",
+    "answer": "An informal English-language term for a Chinese professional space traveler, derived from the Mandarin word for space.",
+    "source_title": "Astronaut",
+    "source_url": "https://en.wikipedia.org/wiki?curid=664",
+    "evidence": "Comparatively recent successes of the China Manned Space Program have led to the rise of the informal term taikonaut (from the Mandarin \"tàikōng\" (), meaning \"space\"); Chinese official media refers to its astronauts and their foreign counterparts as \"hángtiānyuán\" (, meaning \"celestial navigator\" or literally \"heaven-sailing staff\"). ... The term \"taikonaut\" is used by some English-language news media organizations for professional space travelers from China.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_01_10",
+    "question": "According to Wally Schirra's strict definition, who does not qualify as an astronaut?",
+    "answer": "Anyone in space who is not controlling the spacecraft's flight.",
+    "source_title": "Astronaut",
+    "source_url": "https://en.wikipedia.org/wiki?curid=664",
+    "evidence": "He argued that aircraft personnel not piloting an aircraft are not aviators, and applied the strict criterion that anyone in space not in control of the flight of the spacecraft is not an astronaut:",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_01_11",
+    "question": "How did Hugh Dryden's reasoning for preferring the term \"cosmonaut\" differ from the term NASA ultimately adopted?",
+    "answer": "Dryden favored cosmonaut because travel concerned the wider cosmos, not specifically stars; NASA commonly adopted astronaut instead.",
+    "source_title": "Astronaut",
+    "source_url": "https://en.wikipedia.org/wiki?curid=664",
+    "evidence": "Keith Glennan and his Deputy Administrator, Hugh Dryden, discussed whether spacecraft crew members should be called \"astronauts\" or \"cosmonauts\". Dryden preferred \"cosmonaut\", on the grounds that flights would occur in and to the broader \"cosmos\", while the \"astro\" prefix suggested flight specifically to the stars. Most NASA Space Task Group members preferred \"astronaut\", which survived by common usage as the preferred American term.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_01_12",
+    "question": "Which member of the first crewed mission to orbit the Moon became the first Asian-born astronaut, and where was he born?",
+    "answer": "William Anders, born in Hong Kong.",
+    "source_title": "Astronaut",
+    "source_url": "https://en.wikipedia.org/wiki?curid=664",
+    "evidence": "The first crewed mission to orbit the Moon, Apollo 8, included American William Anders who was born in Hong Kong, making him the first Asian-born astronaut in 1968.",
+    "question_type": "factual"
+  }
+]

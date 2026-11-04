@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki_68_01",
+    "question": "Why did Commodore buy chip suppliers such as MOS Technology in the mid-1970s?",
+    "answer": "Texas Instruments, the leading supplier of calculator parts, entered the calculator market with machines priced below Commodore's parts cost, so Tramiel bought second-source chip suppliers to assure his supply.",
+    "source_title": "Commodore International",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7580",
+    "evidence": "However, in 1975, Texas Instruments, the leading supplier of calculator parts, entered the market directly and put out a line of machines priced at less than Commodore's cost for the parts. Commodore obtained an infusion of cash from Gould, which Tramiel used beginning in 1976 to purchase several second-source chip suppliers, including MOS Technology, Inc., to assure his supply.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_68_02",
+    "question": "Who convinced Jack Tramiel that Commodore should move from calculators to home computers?",
+    "answer": "Chuck Peddle.",
+    "source_title": "Commodore International",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7580",
+    "evidence": "Chuck Peddle convinced Jack Tramiel that calculators were a dead end business and that they should turn their attention to home computers.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_68_03",
+    "question": "How did the Commodore PET and the VIC-20 differ in the markets where they succeeded?",
+    "answer": "The PET was used mainly in schools thanks to its tough metal build and ability to share printers and disk drives, but did poorly at home; the VIC-20 was aimed at the home market where graphics and sound mattered and was sold in retail stores.",
+    "source_title": "Commodore International",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7580",
+    "evidence": "The PET computer line was used primarily in schools, where its tough all-metal construction and ability to share printers and disk drives on a simple local area network were advantages, but PETs did not compete well in the home setting where graphics and sound were important. This was addressed with the VIC-20 in 1981, which was introduced at a cost of (equivalent to $ in) and sold in retail stores.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_68_04",
+    "question": "What started the home computer war of the early 1980s?",
+    "answer": "Jack Tramiel's decision to focus on market share by dramatically cutting the prices of the VIC-20 and Commodore 64.",
+    "source_title": "Commodore International",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7580",
+    "evidence": "In 1983, Tramiel decided to focus on market share and cut the price of the VIC-20 and C64 dramatically, starting the home computer war.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_68_05",
+    "question": "For which company was the Intel 4004, the first microprocessor, developed?",
+    "answer": "The Japanese calculator company Busicom.",
+    "source_title": "Calculator",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7593",
+    "evidence": "Pocket-sized devices became available in the 1970s, especially after the Intel 4004, the first microprocessor, was developed by Intel for the Japanese calculator company Busicom.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_68_06",
+    "question": "Why do most pocket calculators perform their calculations in binary-coded decimal rather than binary?",
+    "answer": "BCD simplifies manipulating numbers for display by treating each digit as a separate sub-circuit, avoiding the complex circuitry needed to interface pure binary with displays.",
+    "source_title": "Calculator",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7593",
+    "evidence": "By employing BCD, the manipulation of numerical data for display can be greatly simplified by treating each digit as a separate single sub-circuit. ... If the numeric quantity were stored and manipulated as pure binary, interfacing to such a display would require complex circuitry.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_68_07",
+    "question": "What feature was sometimes used during the 1960s to distinguish a programmable calculator from a computer?",
+    "answer": "The absence of a conditional branch (IF-THEN-ELSE) instruction.",
+    "source_title": "Calculator",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7593",
+    "evidence": "During this era, the absence of the conditional branch was sometimes used to distinguish a programmable calculator from a computer.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_68_08",
+    "question": "Why did LCDs allow the creation of credit-card-sized calculators?",
+    "answer": "LCDs are passive light modulators that reflect light, so they need much less power than light-emitting displays like LEDs or VFDs.",
+    "source_title": "Calculator",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7593",
+    "evidence": "The advantage of LCDs is that they are passive light modulators reflecting light, which require much less power than light-emitting displays such as LEDs or VFDs. This led the way to the first credit-card-sized calculators, such as the Casio \"Mini Card LC-78\" of 1978, which could run for months of normal use on button cells.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_68_09",
+    "question": "Why are bit-serial logic designs more common in calculators than in general-purpose computers?",
+    "answer": "Bit-serial design minimizes chip complexity, though at the cost of many more clock cycles.",
+    "source_title": "Calculator",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7593",
+    "evidence": "Bit serial logic designs are more common in calculators whereas bit parallel designs dominate general-purpose computers, because a bit serial design minimizes chip complexity, but takes many more clock cycles.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_68_10",
+    "question": "What is a Neural Processing Unit (NPU) in modern processor design?",
+    "answer": "A specialized accelerator designed to execute machine learning mathematics such as matrix multiplication more efficiently than a standard CPU.",
+    "source_title": "Processor design",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7597",
+    "evidence": "The most prominent addition is the Neural Processing Unit (NPU), designed specifically to execute machine learning mathematics (matrix multiplication) more efficiently than a standard CPU.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_68_11",
+    "question": "What benefits come from redesigning a CPU core to a smaller die area?",
+    "answer": "Better performance because smaller transistors switch faster, lower power because smaller wires have less parasitic capacitance, and lower cost because more CPUs fit on a wafer.",
+    "source_title": "Processor design",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7597",
+    "evidence": "It improves performance (smaller transistors switch faster), reduces power (smaller wires have less parasitic capacitance) and reduces cost (more CPUs fit on the same wafer of silicon).",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_68_12",
+    "question": "Why is the 8051 the embedded CPU family with the largest number of units shipped?",
+    "answer": "Because it is very inexpensive and widely available as commercial intellectual property.",
+    "source_title": "Processor design",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7597",
+    "evidence": "The 8051 is widely used because it is very inexpensive. The design time is now roughly zero, because it is widely available as commercial intellectual property.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_68_13",
+    "question": "What actually defines a processor as CISC rather than RISC?",
+    "answer": "That its arithmetic instructions also perform memory accesses, rather than the number or complexity of its instructions.",
+    "source_title": "Complex instruction set computer",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7622",
+    "evidence": "As CISC became a catch-all term meaning anything that's not a load–store (RISC) architecture, it's not the number of instructions, nor the complexity of the implementation or of the instructions, that define CISC, but that arithmetic instructions also perform memory accesses.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_68_14",
+    "question": "What is the \"semantic gap\" that CISC designers tried to bridge?",
+    "answer": "The gap between machine instructions and high-level programming constructs, bridged by instruction sets directly supporting things like procedure calls, loop control and complex addressing modes.",
+    "source_title": "Complex instruction set computer",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7622",
+    "evidence": "Before the RISC philosophy became prominent, many computer architects tried to bridge the so-called semantic gap, i.e., to design instruction sets that directly support high-level programming constructs such as procedure calls, loop control, and complex addressing modes, allowing data structure and array accesses to be combined into single instructions.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_68_15",
+    "question": "How did modern x86 processors solve the difficulty of superscalar execution for a CISC instruction set?",
+    "answer": "By converting instructions into one or more micro-operations and dynamically issuing them, so a fairly simple superscalar design sits after the complex decoders.",
+    "source_title": "Complex instruction set computer",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7622",
+    "evidence": "The superscalar complexity in the case of modern x86 was solved by converting instructions into one or more micro-operations and dynamically issuing those micro-operations, i.e. indirect and dynamic superscalar execution; the Pentium Pro and AMD K5 are early examples of this. It allows a fairly simple superscalar design to be located after the (fairly complex) decoders (and buffers), giving, so to speak, the best of both worlds in many respects.",
+    "question_type": "cause_effect"
+  }
+]

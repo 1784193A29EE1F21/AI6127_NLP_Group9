@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki_12_01",
+    "question": "How did the launch vehicle of Apollo 7 differ from that of later lunar missions, and why?",
+    "answer": "It used the smaller Saturn IB rather than Saturn V because it stayed in low Earth orbit and carried no lunar module.",
+    "source_title": "Apollo 7",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1773",
+    "evidence": "Since it flew in low Earth orbit and did not include a LM, Apollo7 was launched with the Saturn IB booster rather than the much larger and more powerful Saturn V. ... The Saturn IB was a two-stage rocket, with the second stage an S-IVB similar to the third stage of the Saturn V, the rocket used by all later Apollo missions.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_12_02",
+    "question": "Why was the Apollo command module hatch changed to open outward for Apollo 7?",
+    "answer": "The Apollo 1 crew could not open its inward-opening hatch quickly enough to escape the fire.",
+    "source_title": "Apollo 7",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1773",
+    "evidence": "One reason the Apollo1 crew had died was because it was impossible to open the inward-opening hatch before the fire raced through the cabin; this was changed for Apollo7. ... Prominent among these was the new aluminum and fiberglass outward-opening hatch, which the crew could open in seven seconds from within, and the pad crew in ten seconds from outside.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_12_03",
+    "question": "What did the technical success of Apollo 7 enable NASA to do next?",
+    "answer": "It gave NASA confidence to send Apollo 8 into lunar orbit two months later.",
+    "source_title": "Apollo 7",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1773",
+    "evidence": "Despite tension between the crew and ground controllers, the mission was a complete technical success, giving NASA the confidence to send Apollo 8 into orbit around the Moon two months later.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_12_04",
+    "question": "Why was Wally Schirra not allowed to name the Apollo 7 spacecraft \"Phoenix\"?",
+    "answer": "NASA had prohibited spacecraft names after Gemini 3 was called Molly Brown.",
+    "source_title": "Apollo 7",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1773",
+    "evidence": "After the Gemini 3 craft was dubbed \"Molly Brown\" by Grissom, NASA forbade naming spacecraft. Despite this prohibition, Schirra wanted to name his ship \"Phoenix,\" but NASA refused him permission.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_12_05",
+    "question": "What spaceflight distinction does Apollo 7 commander Wally Schirra hold?",
+    "answer": "He is the only astronaut to have flown Mercury, Gemini and Apollo missions.",
+    "source_title": "Apollo 7",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1773",
+    "evidence": "The ascent made the 45-year-old Schirra the oldest person to that point to enter space, and, as it proved, the only astronaut to fly Mercury, Gemini and Apollo missions.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_12_06",
+    "question": "What made Apollo 9 the first flight of the full Apollo spacecraft?",
+    "answer": "It flew the command and service module together with the lunar module for the first time.",
+    "source_title": "Apollo 9",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1774",
+    "evidence": "Flown in low Earth orbit, it was the second crewed Apollo mission that the United States launched via a Saturn V rocket, and was the first flight of the full Apollo spacecraft: the command and service module (CSM) with the Lunar Module (LM).",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_12_07",
+    "question": "Why did James McDivitt's crew fly Apollo 9 rather than the lunar-orbit Apollo 8 mission?",
+    "answer": "McDivitt declined a lunar-orbit assignment, preferring to keep his crew on the lunar-module test mission redesignated Apollo 9.",
+    "source_title": "Apollo 9",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1774",
+    "evidence": "Low proposed that if Apollo7 in October went well, Apollo8 would go to lunar orbit without a LM. Until then, Apollo8 was the Dmission with Apollo9 the \"E mission\", testing in medium Earth orbit. After NASA approved sending Apollo8 to the Moon, while making Apollo9 the Dmission, Slayton offered McDivitt the opportunity to stay with Apollo8 and thus go to lunar orbit. McDivitt turned it down on behalf of his crew, preferring to stay with the Dmission, now Apollo9. Apollo7 went well, and the crews were switched.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_12_08",
+    "question": "How did the swap of the Apollo 8 and Apollo 9 crews affect who made the first Moon landing attempt?",
+    "answer": "The backup crews were swapped too, putting Armstrong's crew in line for Apollo 11's first landing attempt instead of Conrad's.",
+    "source_title": "Apollo 9",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1774",
+    "evidence": "The crew swap also affected who would be the first astronauts to land on the Moon, for when the crews for Apollo8 and9 were swapped, so were the backup crews. Since the rule of thumb was for backup crews to fly as prime crew three missions later, this put Neil Armstrong's crew (Borman's backup) in position to make the first landing attempt on Apollo 11 instead of Pete Conrad's crew, who made the second landing on Apollo 12.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_12_09",
+    "question": "Where did the Apollo 9 call signs \"Gumdrop\" and \"Spider\" come from?",
+    "answer": "Gumdrop came from the command module's blue protective wrapping; Spider came from the lunar module's deployed landing legs.",
+    "source_title": "Apollo 9",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1774",
+    "evidence": "In simulations, they began to refer to the CSM as \"Gumdrop\", a name inspired by the CM's appearance while in the blue protective wrapping in which it was transported from the manufacturer, and the LM as \"Spider\", inspired by the LM's appearance with landing legs deployed.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_12_10",
+    "question": "Which backup propulsion mode tested on Apollo 9 was later required during Apollo 13?",
+    "answer": "Using the lunar module's descent engine to propel the combined spacecraft as backup propulsion.",
+    "source_title": "Apollo 9",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1774",
+    "evidence": "Other objectives of the flight included firing the LM descent engine to propel the spacecraft stack as a backup mode (as was required on the Apollo 13 mission), and use of the portable life support system backpack outside the LM cabin. ... The descent engine was the backup to the SPS; the ability to use it in this manner later proved critical during the Apollo 13 mission.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_12_11",
+    "question": "What caused the explosion in Apollo 13's service module?",
+    "answer": "A routine oxygen-tank stir ignited damaged wire insulation, causing an explosion and venting both oxygen tanks.",
+    "source_title": "Apollo 13",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1770",
+    "evidence": "A routine stir of an oxygen tank ignited damaged wire insulation inside it, causing an explosion that vented the contents of both of the SM's oxygen tanks to space.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_12_12",
+    "question": "Why did the Apollo 13 crew have to use the lunar module as a lifeboat?",
+    "answer": "The explosion deprived the service module of oxygen and power, while the lunar module still had full oxygen tanks and charged batteries.",
+    "source_title": "Apollo 13",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1770",
+    "evidence": "The craft was launched from Kennedy Space Center on April 11, 1970, but the landing was aborted after an oxygen tank in the service module (SM) exploded two days into the mission, disabling its electrical and life-support system. ... A routine stir of an oxygen tank ignited damaged wire insulation inside it, causing an explosion that vented the contents of both of the SM's oxygen tanks to space. Without oxygen, needed for breathing and for generating electrical power, the SM's propulsion and life support systems could not operate. ... The lunar module had charged batteries and full oxygen tanks for use on the lunar surface, so Kranz directed that the astronauts power up the LM and use it as a \"lifeboat\"a scenario anticipated but considered unlikely.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_12_13",
+    "question": "Why was only Ken Mattingly replaced on Apollo 13 rather than the whole prime crew being swapped for the backup crew?",
+    "answer": "Backup crew member Charles Duke had rubella, so a full crew swap was impossible; only the nonimmune Mattingly was replaced.",
+    "source_title": "Apollo 13",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1770",
+    "evidence": "Seven days before launch, Duke contracted rubella from his son's friend. This exposed both the prime and backup crews, who trained together. Of the five, only Mattingly was not immune through prior exposure. Normally, if any member of the prime crew had to be grounded, the remaining crew would be replaced as well, and the backup crew substituted, but Duke's illness ruled this out, so two days before launch, Mattingly was replaced by Swigert.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_12_14",
+    "question": "What does the Apollo 13 lunar module call sign \"Aquarius\" refer to?",
+    "answer": "Aquarius, the bringer of water.",
+    "source_title": "Apollo 13",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1770",
+    "evidence": "The mission's motto was in Lovell's mind when he chose the call sign \"Aquarius\" for the lunar module, taken from Aquarius, the bringer of water.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_12_15",
+    "question": "How did Apollo 13's plan for lowering the lunar module's orbit differ from Apollo 11 and 12?",
+    "answer": "The command/service module would lower the lunar module's orbit, whereas Apollo 11 and 12 used the lunar module's own engine for that burn.",
+    "source_title": "Apollo 13",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1770",
+    "evidence": "Concerned about how close Apollo 11's LM, \"Eagle\", had come to running out of propellant during its lunar descent, mission planners decided that beginning with Apollo 13, the CSM would bring the LM to the low orbit from which the landing attempt would commence. This was a change from Apollo 11 and 12, on which the LM made the burn to bring it to the lower orbit. The change was part of an effort to increase the amount of hover time available to the astronauts as the missions headed into rougher terrain.",
+    "question_type": "comparison"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "wiki_81_01",
+    "question": "What is a diplomatic mission?",
+    "answer": "A group from a state or organization officially representing it in another state.",
+    "source_title": "Diplomatic mission",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8970",
+    "evidence": "A diplomatic mission or foreign mission is a group of people from a state or organization present in another state to represent the sending state or organization officially in the receiving or host state.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_81_02",
+    "question": "Strictly speaking, what is the difference between an embassy and a chancery?",
+    "answer": "The embassy is the diplomatic delegation itself; the chancery is its office space and the diplomatic work conducted there.",
+    "source_title": "Diplomatic mission",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8970",
+    "evidence": "The term \"embassy\" is commonly used also as a section of a building in which the work of the diplomatic mission is carried out, but strictly speaking, it is the diplomatic delegation itself that is the embassy, while the office space and the diplomatic work done is called the \"chancery\".",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_81_03",
+    "question": "What are diplomatic missions between Commonwealth countries called, and who heads them?",
+    "answer": "High commissions, headed by high commissioners.",
+    "source_title": "Diplomatic mission",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8970",
+    "evidence": "Missions between Commonwealth countries are known as \"high commissions\", and their heads are high commissioners.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_81_04",
+    "question": "Who heads a diplomatic mission after a country recalls its head of mission in a dispute?",
+    "answer": "A chargé d'affaires, usually the deputy chief of mission.",
+    "source_title": "Diplomatic mission",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8970",
+    "evidence": "In cases of dispute, it is common for a country to recall its head of mission as a sign of its displeasure. This is less drastic than cutting diplomatic relations completely, and the mission will continue operating more or less normally, but it will now be headed by a \"chargé d'affaires\" (usually the deputy chief of mission) who may have limited powers.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_81_05",
+    "question": "Why do refugees sometimes seek sanctuary inside foreign embassies?",
+    "answer": "Host-country authorities cannot enter without permission, and diplomatic channels may help arrange the refugees' departure to another country.",
+    "source_title": "Diplomatic mission",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8970",
+    "evidence": "As the host country's authorities may not enter the representing country's embassy without permission, embassies are sometimes used by refugees escaping from either the host country or a third country. ... Once inside the embassy, diplomatic channels can be used to solve the issue and send the refugees to another country.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_81_06",
+    "question": "Is an embassy normally the sovereign territory of the country it represents?",
+    "answer": "No. Diplomatic premises are generally not the sovereign territory of the represented country.",
+    "source_title": "Diplomatic mission",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8970",
+    "evidence": "Contrary to popular belief, diplomatic missions sometimes do not enjoy full extraterritorial status and are generally not sovereign territory of the represented state.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_81_07",
+    "question": "Why are offices such as the Taipei Economic and Cultural Representative Offices not considered diplomatic missions, even though they assist their citizens?",
+    "answer": "They represent states not recognized by the host or territories not claiming sovereignty and lack official diplomatic status under the Vienna Convention.",
+    "source_title": "Diplomatic mission",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8970",
+    "evidence": "Governments of states not recognized by the receiving state and of territories that make no claim to be sovereign states may set up offices abroad that do not have official diplomatic status as defined by the Vienna Convention. Examples are the Taipei Economic and Cultural Representative Offices that represent the government of the Republic of China; Somaliland's Representative Offices in London, Addis Ababa, Rome, Taipei, and Washington, D.C.; the Hong Kong and Macau economic and trade offices that represent the governments of those two territories. Such offices assume some of the non-diplomatic functions of diplomatic posts, such as promoting trade interests and providing assistance to their citizens and residents.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_81_08",
+    "question": "Which treaty both grants embassy premises their special privileges and largely governs modern diplomatic immunity?",
+    "answer": "The 1961 Vienna Convention on Diplomatic Relations.",
+    "source_title": "Diplomatic immunity",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8921",
+    "evidence": "Modern practices of diplomatic immunity have largely conformed to the 1961 Vienna Convention on Diplomatic Relations, which formally codified the legal and political status of diplomats, and has been ratified by the vast majority of sovereign states.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_81_09",
+    "question": "What can a host country do to a diplomat who commits a crime but whose immunity is not waived?",
+    "answer": "Declare the diplomat persona non grata and inform the sending country that the diplomat is no longer welcome.",
+    "source_title": "Diplomatic immunity",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8921",
+    "evidence": "Nevertheless, on some occasions, protected diplomats have violated laws (including those that would be violations at home as well) of the host country, and that country has been essentially limited to informing the diplomat's nation that the diplomat is no longer welcome (\"persona non grata\").",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_81_10",
+    "question": "What prompted the British Parliament to pass the Diplomatic Privileges Act guaranteeing immunity to foreign ambassadors?",
+    "answer": "British bailiffs verbally and physically abused the Russian representative Count Andrey Matveyev in London.",
+    "source_title": "Diplomatic immunity",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8921",
+    "evidence": "The British Parliament first guaranteed diplomatic immunity to foreign ambassadors under the Diplomatic Privileges Act in 1709, after Count Andrey Matveyev, a Russian resident in London, was subjected to verbal and physical abuse by British bailiffs.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_81_11",
+    "question": "Why does the United States tend to be generous in granting diplomatic immunity to visiting diplomats?",
+    "answer": "To help protect its own diplomats abroad through reciprocity, especially in countries with weaker protections for individual rights.",
+    "source_title": "Diplomatic immunity",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8921",
+    "evidence": "The United States tends to be generous when granting diplomatic immunity to visiting diplomats, because a large number of US diplomats work in host countries less protective of individual rights. If the United States were to punish a visiting diplomat without sufficient grounds, US representatives in other countries could receive harsher treatment.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_81_12",
+    "question": "How does the immunity of consular officials compare with that of full diplomats?",
+    "answer": "Consular officials without full diplomatic accreditation have narrower immunity, generally confined to their official duties.",
+    "source_title": "Diplomatic immunity",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8921",
+    "evidence": "Consular officials (that do not have concurrent diplomatic accreditation) formally have a more limited form of immunity, generally limited to their official duties.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_81_13",
+    "question": "Why was Iranian diplomat Asadollah Asadi not protected by diplomatic immunity when he was arrested in Germany?",
+    "answer": "He was on holiday in Germany, outside Austria, the country where he was posted and protected.",
+    "source_title": "Diplomatic immunity",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8921",
+    "evidence": "Asadollah Asadi, an Iranian diplomat, was arrested while returning to his residence in Austria on a highway in Germany on June 10, 2018, accused of being involved in an attempted bombing at a gathering of the National Council of Resistance of Iran (a political organisation opposing the Iranian regime). While Assadi was entitled to diplomatic immunity where applicable, it was deemed that he was not protected when he was arrested as he was on holiday (in Germany) outside the country where he was posted and hence protected.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_81_14",
+    "question": "How does the protection of a diplomatic mission's property make it hard for landlords to recover unpaid rent from diplomats?",
+    "answer": "Creditors cannot sue missions individually, and protected diplomatic property cannot be entered or seized to evict occupants or enforce rent debts.",
+    "source_title": "Diplomatic immunity",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8921",
+    "evidence": "Creditors cannot sue missions individually to collect money they owe. Landlords and creditors have found that the only thing they can do is contact a city agency to see if they can try to get some money back. They cannot enter the offices or apartments of diplomats to evict them because the Foreign Sovereign Immunities Act says that \"the property in the United States of a foreign state shall be immune from attachment, arrest and execution\" ().",
+    "question_type": "cause_effect"
+  }
+]

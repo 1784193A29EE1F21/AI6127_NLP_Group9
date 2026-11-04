@@ -1,0 +1,128 @@
+[
+  {
+    "id": "wiki_87_01",
+    "question": "Who first proposed the European Coal and Steel Community, and through what declaration?",
+    "answer": "French foreign minister Robert Schuman, through the Schuman Declaration of 9 May 1950.",
+    "source_title": "European Coal and Steel Community",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9577",
+    "evidence": "The ECSC was first proposed via the Schuman Declaration by French foreign minister Robert Schuman on 9 May 1950 (commemorated in the EU as Europe Day), the day after the fifth anniversary of the end of World War II, to prevent another war between France and Germany.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_87_02",
+    "question": "Why did Schuman believe pooling coal and steel production would prevent war between France and Germany?",
+    "answer": "Coal and steel were essential to munitions, so placing both countries' industries under a common supranational system would make war materially impossible.",
+    "source_title": "European Coal and Steel Community",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9577",
+    "evidence": "Portraying the coal and steel industries as integral to the production of munitions, Schuman proposed that uniting these two industries across France and Germany under an innovative supranational system (that also included a European anti-cartel agency) would \"make war between France and Germany [...] not only unthinkable but materially impossible\".",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_87_03",
+    "question": "What is supranationalism as applied to the ECSC's High Authority?",
+    "answer": "Appointed representatives would decide in the interests of the Community as a whole rather than represent their national interests.",
+    "source_title": "European Coal and Steel Community",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9577",
+    "evidence": "The European Coal and Steel Community (ECSC) was a European organization created after World War II to integrate Europe's coal and steel industries into a single common market based on the principle of supranationalism which would be governed by the creation of a High Authority made up of appointed representatives from the member states who would not represent their national interest, but would take and make decisions in the general interests of the Community as a whole.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_87_04",
+    "question": "Which modern EU institutions grew out of the ECSC's four institutions?",
+    "answer": "The European Commission, European Parliament, Council of the European Union and Court of Justice of the European Union, respectively.",
+    "source_title": "European Coal and Steel Community",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9577",
+    "evidence": "Its terms were enforced by four institutions: a High Authority composed of independent appointees, a Common Assembly composed of national parliamentarians, a Special Council composed of national ministers, and a Court of Justice. These would ultimately form the blueprint for today's European Commission, European Parliament, the Council of the European Union, and the Court of Justice of the European Union, respectively.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_87_05",
+    "question": "Why did UK Prime Minister Clement Attlee oppose Britain joining the ECSC?",
+    "answer": "He viewed the proposed authority as undemocratic and unaccountable and opposed handing Britain's economy over to it.",
+    "source_title": "European Coal and Steel Community",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9577",
+    "evidence": "The UK Prime Minister Clement Attlee opposed Britain joining the proposed European Coal and Steel Community, saying that he 'would not accept the [UK] economy being handed over to an authority that is utterly undemocratic and is responsible to nobody.'",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_87_06",
+    "question": "Which treaty created the European Economic Community, and how did it relate to the ECSC?",
+    "answer": "The 1957 Treaty of Rome; the EEC followed the ECSC's example and shared its membership and some institutions.",
+    "source_title": "European Coal and Steel Community",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9577",
+    "evidence": "The ECSC set an example for the pan-European organizations created by the Treaty of Rome in 1957: the European Economic Community and European Atomic Energy Community, with whom it shared its membership and some institutions.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_87_07",
+    "question": "Why did Jean Monnet resign from the ECSC High Authority and turn to economic rather than political integration?",
+    "answer": "He resigned in protest after the French Parliament rejected the proposed European Defence Community, then pursued alternative communities based on economic integration.",
+    "source_title": "European Economic Community",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9578",
+    "evidence": "With the aim of creating a federal Europe two further communities were proposed: a European Defence Community and a European Political Community. While the treaty for the latter was being drawn up by the Common Assembly, the ECSC parliamentary chamber, the proposed defence community was rejected by the French Parliament. ECSC President Jean Monnet, a leading figure behind the communities, resigned from the High Authority in protest and began work on alternative communities, based on economic integration rather than political integration.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_87_08",
+    "question": "What was the \"empty chair policy\"?",
+    "answer": "France withdrew its representatives from European institutions until its veto was restored, reflecting de Gaulle's opposition to supranationalism and concerns about agricultural policy.",
+    "source_title": "European Economic Community",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9578",
+    "evidence": "Then-French President Charles de Gaulle's opposition to supranationalism and fear of the other members challenging the CAP led to an \"empty chair policy\" whereby French representatives were withdrawn from the European institutions until the French veto was reinstated.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_87_09",
+    "question": "Why did Charles de Gaulle veto British membership of the European Communities?",
+    "answer": "He regarded British membership as a Trojan horse for US influence.",
+    "source_title": "European Economic Community",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9578",
+    "evidence": "However, President Charles de Gaulle saw British membership as a Trojan Horse for U.S. influence and vetoed membership, and the applications of all four countries were suspended.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_87_10",
+    "question": "How did the EEC's executive arrangements differ from those of the ECSC?",
+    "answer": "The EEC's Council had a greater executive role, limiting the supranational Commission relative to the ECSC's High Authority.",
+    "source_title": "European Economic Community",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9578",
+    "evidence": "In place of the ECSC's Council of Ministers was the Council of the European Economic Community, and in place of the High Authority was the Commission of the European Communities. There was greater difference between these than name: the French government of the day had grown suspicious of the supranational power of the High Authority and sought to curb its powers in favour of the intergovernmental style Council. Hence the council had a greater executive role in the running of the EEC than was the situation in the ECSC.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_87_11",
+    "question": "Why was the European Free Trade Association established?",
+    "answer": "To provide an alternative trading bloc for European states unable or unwilling to join the EEC.",
+    "source_title": "European Free Trade Association",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9580",
+    "evidence": "It was established on 3 May 1960 to serve as an alternative trade bloc for those European states that were unable or unwilling to join the then European Economic Community (EEC), the main predecessor of the EU.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_87_12",
+    "question": "What was the main difference between the early EEC and EFTA?",
+    "answer": "The EEC had common external tariffs; EFTA members retained their own external duties and trade agreements.",
+    "source_title": "European Free Trade Association",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9580",
+    "evidence": "The main difference between the early EEC and the EFTA was that the latter did not operate common external customs tariffs unlike the former: each EFTA member was free to establish its individual customs duties against, or its individual free trade agreements with, non-EFTA countries.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_87_13",
+    "question": "Why did the EEA agreement end up with an EFTA Court rather than giving that role to the European Court of Justice?",
+    "answer": "The European Court of Justice ruled in Opinion 1/91 that assigning EU institutions those powers over non-EU states would violate the treaties.",
+    "source_title": "European Free Trade Association",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9580",
+    "evidence": "The original plan for the EEA lacked the EFTA Court: the European Court of Justice was to exercise those roles. However, during the negotiations for the EEA agreement, the European Court of Justice ruled by the Opinion 1/91 that it would be a violation of the treaties to give to the EU institutions these powers with respect to non-EU member states. Therefore, the current arrangement was developed instead.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_87_14",
+    "question": "What were the \"Outer Seven\" and the \"Inner Six\"?",
+    "answer": "The Outer Seven were EFTA's original seven members, contrasted with the EEC's six founding members, the Inner Six.",
+    "source_title": "European Free Trade Association",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9580",
+    "evidence": "The Stockholm Convention (1960), to establish the EFTA, was signed on 4 January 1960 in the Swedish capital by seven countries (known as the \"Outer Seven\": Austria, Denmark, Norway, Portugal, Sweden, Switzerland and the United Kingdom). ... During the 1960s, these countries were often referred to as the \"Outer Seven\", as opposed to the Inner Six of the then European Economic Community (EEC).",
+    "question_type": "definition"
+  }
+]

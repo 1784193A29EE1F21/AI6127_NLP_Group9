@@ -1,0 +1,110 @@
+[
+  {
+    "id": "wiki_49_01",
+    "question": "What is a currency?",
+    "answer": "A standardized form or system of money used as a medium of exchange.",
+    "source_title": "Currency",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5665",
+    "evidence": "A currency is a standardized form of money, in use or circulation as a medium of exchange, for example banknotes, coins, electronic balances in online bank accounts, and central bank digital currencies (CBDCs). A more general definition is that a currency is a \"system of money\" in common use within a specific environment over time, especially for people in a nation state.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_49_02",
+    "question": "Why did premodern China introduce paper money?",
+    "answer": "To facilitate lending and provide a less cumbersome means of exchange than large quantities of copper coins.",
+    "source_title": "Currency",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5665",
+    "evidence": "In premodern China, the need for lending and for a medium of exchange that was less physically cumbersome than large numbers of copper coins led to the introduction of paper money, i.e. banknotes.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_49_03",
+    "question": "Why did paper money tend to create inflationary pressures?",
+    "answer": "Issuers could print notes beyond their specie backing, expanding the money supply and inflationary pressure.",
+    "source_title": "Currency",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5665",
+    "evidence": "First, since a note has no intrinsic value, there was nothing to stop issuing authorities from printing more notes than they had specie to back them with. Second, because this increased the money supply, it increased inflationary pressures, a fact observed by David Hume in the 18th century.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_49_04",
+    "question": "What advantage do polymer banknotes have over paper banknotes?",
+    "answer": "Longer life spans and less counterfeiting.",
+    "source_title": "Currency",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5665",
+    "evidence": "Polymer banknotes had already been introduced in the Isle of Man in 1983. polymer currency is used in over 20 countries (over 40 if counting commemorative issues), and dramatically increases the life span of banknotes and reduces counterfeiting.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_49_05",
+    "question": "How does a central bank differ from a commercial bank?",
+    "answer": "Unlike commercial banks, it manages monetary policy and has a monopoly on increasing the monetary base, often also regulating other banks.",
+    "source_title": "Central bank",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5666",
+    "evidence": "A central bank, reserve bank, national bank, state bank, or monetary authority is a financial institution that manages the monetary policy of a country or monetary union. In contrast to a commercial bank, a central bank possesses a monopoly on increasing the monetary base. Many central banks also have supervisory or regulatory powers to ensure the stability of commercial banks in their jurisdiction, to prevent bank runs, and, in some cases, to enforce policies on financial consumer protection, and against bank fraud, money laundering, or terrorism financing.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_49_06",
+    "question": "Why were central banks often created in the 20th century?",
+    "answer": "To attract foreign capital, since lenders favored countries with central banks on the gold standard.",
+    "source_title": "Central bank",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5666",
+    "evidence": "In the 20th century, central banks were often created with the intent to attract foreign capital, as bankers preferred to lend to countries with a central bank on the gold standard.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_49_07",
+    "question": "Which institution is the first example of the municipal, mostly public banks that pioneered central banking?",
+    "answer": "The Taula de canvi de Barcelona, founded in 1401.",
+    "source_title": "Central bank",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5666",
+    "evidence": "The Taula de canvi de Barcelona, established in 1401, is the first example of municipal, mostly public banks which pioneered central banking on a limited scale.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_49_08",
+    "question": "Why is government-issued paper money, as in Yuan dynasty China, not the same as central banking?",
+    "answer": "Government-issued money is typically not freely convertible and may produce hyperinflation; issuing it alone does not constitute central banking.",
+    "source_title": "Central bank",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5666",
+    "evidence": "The mere issuance of paper currency or other types of financial money by a government is not the same as central banking. The difference is that government-issued financial money, as present e.g. in China during the Yuan dynasty in the form of paper currency, is typically not freely convertible and thus of inferior quality, occasionally leading to hyperinflation.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_49_09",
+    "question": "What does the CFA franc refer to?",
+    "answer": "Two currencies: the West African CFA franc used in eight countries and the Central African CFA franc used in six.",
+    "source_title": "CFA franc",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5663",
+    "evidence": "CFA franc (,) is the name of two currencies used by 227 million people (as of 2026) in fourteen African countries: the West African CFA franc (where \"CFA\" stands for, i.e. \"African Financial Community\" in English), used in eight West African countries, and the Central African CFA franc (where \"CFA\" stands for, i.e. \"Financial Cooperation in Central Africa\" in English), used in six Central African countries.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_49_10",
+    "question": "Why are the two CFA francs not considered a common monetary zone?",
+    "answer": "They are not interchangeable despite sharing a name and equal value.",
+    "source_title": "CFA franc",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5663",
+    "evidence": "Although the two currencies are commonly called \"CFA franc\" and (currently) have the same value, they are not interchangeable. It is therefore not a common monetary zone but two juxtaposed zones.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_49_11",
+    "question": "Why was the CFA franc created?",
+    "answer": "To spare French colonies the French franc's postwar devaluation, easing imports from France while making exports to France harder.",
+    "source_title": "CFA franc",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5663",
+    "evidence": "The CFA franc was created on 26 December 1945, along with the CFP franc. The reason for their creation was the weakness of the French franc immediately after World War II. When France ratified the Bretton Woods Agreement in December 1945, the French franc was devalued in order to set a fixed exchange rate with the US dollar. New currencies were created in the French colonies to spare them the strong devaluation, thereby making it easier for them to import goods from France (and simultaneously making it harder for them to export goods to France).",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_49_12",
+    "question": "What currency is planned to replace the West African CFA franc?",
+    "answer": "The Eco.",
+    "source_title": "CFA franc",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5663",
+    "evidence": "On 21 December 2019, President Alassane Ouattara of the Ivory Coast and President Emmanuel Macron of France announced an initiative to replace the West African CFA Franc with the Eco.",
+    "question_type": "factual"
+  }
+]

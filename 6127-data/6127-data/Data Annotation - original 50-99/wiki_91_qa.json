@@ -1,0 +1,110 @@
+[
+  {
+    "id": "wiki_91_01",
+    "question": "Whom did Æthelberht of Kent marry, building an alliance with the Franks?",
+    "answer": "Bertha, the Christian daughter of Charibert I, king of the Franks.",
+    "source_title": "Æthelberht of Kent",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9941",
+    "evidence": "He married Bertha, the Christian daughter of Charibert I, king of the Franks, thus building an alliance with the most powerful state in contemporary Western Europe; the marriage probably took place before he came to the throne.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_91_02",
+    "question": "Why did Æthelberht insist on meeting Augustine's monks under the open sky?",
+    "answer": "Because he distrusted them and wanted to prevent them from performing sorcery.",
+    "source_title": "Æthelberht of Kent",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9941",
+    "evidence": "According to Bede, Æthelberht was sufficiently distrustful of the newcomers to insist on meeting them under the open sky, to prevent them from performing sorcery.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_91_03",
+    "question": "What distinguishes Æthelberht's law for Kent among written law codes?",
+    "answer": "It is the earliest written code in any Germanic language, instituting a complex system of fines.",
+    "source_title": "Æthelberht of Kent",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9941",
+    "evidence": "Æthelberht's law for Kent, the earliest written code in any Germanic language, instituted a complex system of fines; the law code is preserved in the \"Textus Roffensis\".",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_91_04",
+    "question": "Under Æthelberht's laws, what determined how severe a fine for a transgression would be?",
+    "answer": "The social rank of the victim.",
+    "source_title": "Æthelberht of Kent",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9941",
+    "evidence": "The laws are concerned with setting and enforcing the penalties for transgressions at all levels of society; the severity of the fine depended on the social rank of the victim.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_91_05",
+    "question": "Which Kentish king helped convert King Sæberht of Essex to Christianity, and how were the two related?",
+    "answer": "Æthelberht of Kent, who was Sæberht's uncle (Sæberht was his nephew).",
+    "source_title": "Kingdom of Essex",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9937",
+    "evidence": "Æthelberht (King of Kent and overlord of southern England according to Bede) was in a position to exercise some authority in Essex shortly after 604, when his intervention helped in the conversion of King Sæberht of Essex (son of Sledd), his nephew, to Christianity.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_91_06",
+    "question": "Was St. Paul's in London built and endowed by the Kentish king Æthelberht or by the East Saxon king Sæberht?",
+    "answer": "Æthelberht, not Sæberht.",
+    "source_title": "Kingdom of Essex",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9937",
+    "evidence": "It was Æthelberht, and not Sæberht, who built and endowed St. Paul's in London, where St. Paul's Cathedral now stands.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_91_07",
+    "question": "Why may the Kingdom of Essex have reverted to paganism after Sæberht's death?",
+    "answer": "Possibly due to opposition to Kentish influence in Essex affairs, rather than specifically anti-Christian feeling.",
+    "source_title": "Kingdom of Essex",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9937",
+    "evidence": "After the death of Sæberht in 616, Mellitus was driven out and the kingdom reverted to paganism. This may have been the result of opposition to Kentish influence in Essex affairs rather than being specifically anti-Christian.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_91_08",
+    "question": "To which king did the last king of Essex, Sigered, cede his kingdom?",
+    "answer": "Ecgberht, King of Wessex.",
+    "source_title": "Kingdom of Essex",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9937",
+    "evidence": "The last king of Essex was Sigered of Essex, who in 825 ceded the kingdom to Ecgberht, King of Wessex.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_91_09",
+    "question": "Eadgyth, a member of the House of Wessex who became East Frankish queen, was the granddaughter of which English king?",
+    "answer": "King Alfred the Great.",
+    "source_title": "Eadgyth",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9935",
+    "evidence": "She was born to the reigning English king Edward the Elder by his second wife, Ælfflæd, and hence was a granddaughter of King Alfred the Great.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_91_10",
+    "question": "Why did Henry the Fowler ask King Æthelstan to send his sisters to Germany?",
+    "answer": "He wished to stake a claim to equality and to seal the alliance between the two Saxon kingdoms.",
+    "source_title": "Eadgyth",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9935",
+    "evidence": "At the request of the East Frankish king Henry the Fowler, who wished to stake a claim to equality and to seal the alliance between the two Saxon kingdoms, her half-brother King Æthelstan sent his sisters Edith and Edgiva to Germany.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_91_11",
+    "question": "How did Eadgyth's recorded charitable activity compare with that of her mother-in-law, Queen Matilda?",
+    "answer": "Eadgyth seems to have been more diligent; Matilda's charitable activities achieve only a single recorded mention from that period.",
+    "source_title": "Eadgyth",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9935",
+    "evidence": "In this respect she seems to have been more diligent than her now widowed and subsequently sainted mother-in-law, Queen Matilda, whose own charitable activities only achieve a single recorded mention from the period of Eadgyth's time as queen.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_91_12",
+    "question": "What did isotope testing of tooth enamel reveal about the remains entombed at Magdeburg believed to be Eadgyth's?",
+    "answer": "That the individual had spent time as a youth in the chalky uplands of Wessex, consistent with Eadgyth's English upbringing.",
+    "source_title": "Eadgyth",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9935",
+    "evidence": "Testing of the enamel revealed that the individual entombed at Magdeburg had spent time as a youth in the chalky uplands of Wessex.",
+    "question_type": "cause_effect"
+  }
+]

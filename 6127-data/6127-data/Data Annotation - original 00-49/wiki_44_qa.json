@@ -1,0 +1,110 @@
+[
+  {
+    "id": "wiki_44_01",
+    "question": "Why does Canada rank second in the world by total area but only fourth by land area?",
+    "answer": "Because it has the world's largest proportion of fresh water lakes.",
+    "source_title": "Geography of Canada",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5192",
+    "evidence": "By total area (including its waters), Canada is the second-largest country in the world, after Russia. By land area alone, however, Canada ranks fourth, the difference being due to it having the world's largest proportion of fresh water lakes.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_44_02",
+    "question": "What is the Canadian Shield, and why is it called the \"mineral house\"?",
+    "answer": "A vast rock base of eroded hilly terrain with many lakes and rivers covering much of northern Canada; it is called the \"mineral house\" for its vast mineral reserves such as emeralds, diamonds and copper.",
+    "source_title": "Geography of Canada",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5192",
+    "evidence": "The Shield mostly consists of eroded hilly terrain and contains many lakes and important rivers used for hydroelectric production, particularly in northern Quebec and Ontario. The Canadian Shield is known for its vast mineral reserves such as emeralds, diamonds and copper, and is there also called the \"mineral house\".",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_44_03",
+    "question": "Which two Canadian provinces are landlocked?",
+    "answer": "Alberta and Saskatchewan.",
+    "source_title": "Geography of Canada",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5192",
+    "evidence": "Of Canada's thirteen provinces and territories, only two are landlocked (Alberta and Saskatchewan) while the other eleven all directly border one of three oceans.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_44_04",
+    "question": "Who exercises executive authority in Canada in practice, given that the monarch is head of state?",
+    "answer": "The Cabinet, a committee of ministers chaired by the prime minister and responsible to the elected House of Commons.",
+    "source_title": "Politics of Canada",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5194",
+    "evidence": "Canada is a constitutional monarchy where the monarch is the ceremonial head of state. In practice, executive authority is entrusted to the Cabinet, a committee of ministers of the Crown chaired by the prime minister of Canada that act as the executive committee of the King's Privy Council for Canada and are responsible to the democratically elected House of Commons.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_44_05",
+    "question": "How does party discipline in Canada compare with that in the United States and United Kingdom, and what is its effect?",
+    "answer": "It is stronger, and with more votes treated as confidence motions, this tends to diminish the role of non-Cabinet MPs.",
+    "source_title": "Politics of Canada",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5194",
+    "evidence": "While many of its legislative practices derive from the unwritten conventions of and precedents set by the Westminster parliament of the United Kingdom, Canada has evolved variations: party discipline is stronger than in the United States or United Kingdom, and more parliamentary votes are considered motions of confidence, which tends to diminish the role of non-Cabinet members of parliament (MPs).",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_44_06",
+    "question": "What did the Statute of Westminster accomplish for Canada, and why did it not end the British role in amending Canada's constitution?",
+    "answer": "It legally recognized Canada's autonomy, but because Canadian politicians could not agree on an amending process, constitutional amendments still required British approval until patriation in 1982.",
+    "source_title": "Politics of Canada",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5194",
+    "evidence": "In 1931, after further consultations and agreements between the British government and the governments of the Dominions, the British Parliament passed the Statute of Westminster, giving legal recognition to the autonomy of Canada and other Dominions. However, Canadian politicians were unable to obtain consensus on a process for amending the constitution, which was therefore not affected by the Statute of Westminster, meaning amendments to Canada's constitution continued to require the approval of the British parliament until that date. Similarly, the Judicial Committee of the Privy Council in Britain continued to make the final decision on criminal appeals until 1933 and on civil appeals until 1949. It was not until 1982, with the Patriation of the Constitution, that the role of the British Parliament was ended.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_44_07",
+    "question": "What has transformed Canada's economy from a largely rural one to an urbanized, industrial one?",
+    "answer": "The growth of Canada's manufacturing, mining, and service sectors since the early 20th century.",
+    "source_title": "Economy of Canada",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5195",
+    "evidence": "Since the early 20th century, the growth of Canada's manufacturing, mining, and service sectors has transformed the nation from a largely rural economy to an urbanized, industrial one.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_44_08",
+    "question": "What is the mandate of the Bank of Canada?",
+    "answer": "To conduct monetary policy that preserves the value of money by keeping inflation low and stable.",
+    "source_title": "Economy of Canada",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5195",
+    "evidence": "The mandate of the central bank—the Bank of Canada—is to conduct monetary policy that \"preserves the value of money by keeping inflation low and stable\".",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_44_09",
+    "question": "Why did the Canadian government create the National Energy Program and the Foreign Investment Review Agency in the 1970s?",
+    "answer": "Because of concerns over energy self-sufficiency and foreign ownership in the manufacturing sectors.",
+    "source_title": "Economy of Canada",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5195",
+    "evidence": "In the 1970s, concerns over energy self-sufficiency and foreign ownership in the manufacturing sectors prompted the federal government to enact the National Energy Program (NEP) and the Foreign Investment Review Agency (FIRA).",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_44_10",
+    "question": "Which agreements have played a pivotal role in economic integration between Canada and the United States?",
+    "answer": "The North American Free Trade Agreement (NAFTA) and its successor, the United States–Mexico–Canada Agreement (USMCA).",
+    "source_title": "Canada–United States relations",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5199",
+    "evidence": "The North American Free Trade Agreement (NAFTA) and its successor, the United States–Mexico–Canada Agreement (USMCA), have played a pivotal role in fostering economic cooperation and integration between the two nations.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_44_11",
+    "question": "How has Canada's approach to US military operations differed from that of the United States?",
+    "answer": "Canada has been reluctant to join US operations not sanctioned by the UN, and Canadians see peacekeeping as setting their military foreign policy apart.",
+    "source_title": "Canada–United States relations",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5199",
+    "evidence": "However, Canada has long been reluctant to participate in U.S. military operations that are not sanctioned by the United Nations, such as the Vietnam War, the 2003 invasion of Iraq and 2026 Iran war. Canadian peacekeeping is a distinguishing feature that Canadians feel sets their military foreign policy apart from the United States.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_44_12",
+    "question": "What role did fears of an American takeover play in Canadian history?",
+    "answer": "As Britain decided to disengage, fears of an American takeover played a role in Canadian Confederation in 1867.",
+    "source_title": "Canada–United States relations",
+    "source_url": "https://en.wikipedia.org/wiki?curid=5199",
+    "evidence": "As Britain decided to disengage, fears of an American takeover played a role in the Canadian Confederation (1867).",
+    "question_type": "cause_effect"
+  }
+]

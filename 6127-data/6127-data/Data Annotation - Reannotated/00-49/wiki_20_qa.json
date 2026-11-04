@@ -1,0 +1,110 @@
+[
+  {
+    "id": "wiki_20_01",
+    "question": "What is the adversarial system of law?",
+    "answer": "A common-law system in which opposing advocates present their parties' cases to an impartial judge or jury that determines the truth and judgment.",
+    "source_title": "Adversarial system",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2598",
+    "evidence": "The adversarial system, also called adversary system, accusatorial system, or accusatory system, is a legal system used in the common law countries where two advocates represent their parties' case or position before an impartial person or group of people, usually a judge or jury, who attempt to determine the truth and pass judgment accordingly.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_20_02",
+    "question": "How does the effect of a criminal defendant's confession differ between the adversarial and inquisitorial systems?",
+    "answer": "In an adversarial system a valid confession generally ends the dispute and leads to sentencing; in an inquisitorial system it is only evidence and the prosecution must still present its case.",
+    "source_title": "Adversarial system",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2598",
+    "evidence": "One of the most significant differences between the adversarial system and the inquisitorial system occurs when a criminal defendant admits to the crime. In an adversarial system, there is no more controversy and the case proceeds to sentencing; though in many jurisdictions the defendant must have allocution of her or his crime; an obviously false confession will not be accepted even in common law courts. By contrast, in an inquisitorial system, the fact that the defendant has confessed is merely one more fact that is entered into evidence, and a confession by the defendant does not remove the requirement that the prosecution present a full case.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_20_03",
+    "question": "Why was the right to counsel in criminal trials initially not accepted in some adversarial systems?",
+    "answer": "It was thought that facts should speak for themselves and lawyers would obscure them.",
+    "source_title": "Adversarial system",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2598",
+    "evidence": "The right to counsel in criminal trials was initially not accepted in some adversarial systems. It was believed that the facts should speak for themselves, and that lawyers would just blur the matters.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_20_04",
+    "question": "In the United States, what does the Fifth Amendment prohibit a jury from doing when a defendant chooses not to testify?",
+    "answer": "Drawing an adverse inference from the defendant's decision not to testify.",
+    "source_title": "Adversarial system",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2598",
+    "evidence": "In the United States, the Fifth Amendment has been interpreted to prohibit a jury from drawing a negative inference based on the defendant's invocation of his or her right not to testify, and the jury must be so instructed if the defendant requests.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_20_05",
+    "question": "Why did merchants during the Industrial Revolution oppose the common law rule that agreements to arbitrate were unenforceable?",
+    "answer": "Lengthy, costly adversarial litigation damaged business relationships and used rules unlike business conventions; arbitration promised a faster, cheaper, less hostile alternative.",
+    "source_title": "Arbitration in the United States",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2597",
+    "evidence": "During the Industrial Revolution, merchants became increasingly opposed to this rule. They argued that too many valuable business relationships were being destroyed through years of expensive adversarial litigation, in courts whose rules differed significantly from the informal norms and conventions of businesspeople. Arbitration was promoted as being faster, less adversarial, and cheaper.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_20_06",
+    "question": "What is interest arbitration in US labor disputes?",
+    "answer": "Arbitration in which a neutral arbitrator determines the terms of a collective bargaining agreement.",
+    "source_title": "Arbitration in the United States",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2597",
+    "evidence": "Interest arbitration. Governments have relied on arbitration to resolve particularly large labor disputes, such as the Coal Strike of 1902. This type of arbitration, wherein a neutral arbitrator decides the terms of the collective bargaining agreement, is commonly known as interest arbitration.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_20_07",
+    "question": "What effect did the Supreme Court's ruling in \"Lamps Plus, Inc. v. Varela\" have on class arbitrations?",
+    "answer": "It required explicit permission for class arbitration, making such proceedings nearly nonexistent.",
+    "source_title": "Arbitration in the United States",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2597",
+    "evidence": "Since the Supreme Court ruled in \"Lamps Plus, Inc. v. Varela\" that class arbitrations could not be filed unless explicitly permitted, class arbitrations have been near non-existent.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_20_08",
+    "question": "Which Supreme Court case established the \"separability principle\" for arbitration clauses, and what does the principle require?",
+    "answer": "Prima Paint Corp. v. Flood & Conklin Mfg. Co.; challenges to the contract's enforceability go first to arbitration unless the arbitration clause itself is challenged.",
+    "source_title": "Arbitration in the United States",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2597",
+    "evidence": "In \"Prima Paint Corp. v. Flood & Conklin Mfg. Co.\", the U.S. Supreme Court established the \"separability principle\", under which enforceability of a contract must be challenged in arbitration before any court action, unless the arbitration clause itself has been challenged.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_20_09",
+    "question": "What is administrative law?",
+    "answer": "The branch of law governing executive agencies' activities, including rulemaking, adjudication and enforcement.",
+    "source_title": "Administrative law",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2560",
+    "evidence": "Administrative law is a division of law governing the activities of executive branch agencies of government. Administrative law includes executive branch rulemaking (executive branch rules are generally referred to as \"regulations\"), adjudication, and the enforcement of laws.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_20_10",
+    "question": "Why did administrative law expand greatly during the 20th century?",
+    "answer": "Legislatures created more agencies to regulate social, economic and political activity.",
+    "source_title": "Administrative law",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2560",
+    "evidence": "Administrative law expanded greatly during the 20th century, as legislative bodies worldwide created more government agencies to regulate the social, economic and political spheres of human interaction.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_20_11",
+    "question": "How do most civil law jurisdictions differ from most common law jurisdictions in handling administrative cases?",
+    "answer": "Most civil-law jurisdictions use specialized administrative courts or sections with distinct procedures, unlike most common-law jurisdictions.",
+    "source_title": "Administrative law",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2560",
+    "evidence": "Unlike most common law jurisdictions, most civil law jurisdictions have specialized courts or sections to deal with administrative cases that as a rule apply procedural rules that are specifically designed for such cases and distinct from those applied in private law proceedings, such as contract or tort claims.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_20_12",
+    "question": "In France, which body serves as the court of last resort for administrative courts?",
+    "answer": "The Conseil d'État, or Council of State.",
+    "source_title": "Administrative law",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2560",
+    "evidence": "Most claims against the national or local governments as well as claims against private bodies providing public services are handled by administrative courts, which use the \"Conseil d'État\" (Council of State) as a court of last resort for both ordinary and special courts.",
+    "question_type": "factual"
+  }
+]

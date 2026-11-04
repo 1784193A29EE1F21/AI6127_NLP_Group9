@@ -1,0 +1,128 @@
+[
+  {
+    "id": "wiki_79_01",
+    "question": "Which collection did Daniel Dennett co-edit and co-author with Douglas Hofstadter?",
+    "answer": "\"The Mind's I\".",
+    "source_title": "Daniel Dennett",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8756",
+    "evidence": "Dennett co-edited and co-authored the 1981 collection \"The Mind's I\" with Douglas Hofstadter.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_79_02",
+    "question": "Under which philosopher did Daniel Dennett study for his DPhil at Oxford?",
+    "answer": "Gilbert Ryle.",
+    "source_title": "Daniel Dennett",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8756",
+    "evidence": "In 1965, Dennett received his DPhil in philosophy at the University of Oxford, where he studied under Gilbert Ryle and was a member of Hertford College.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_79_03",
+    "question": "In Dennett's multiple drafts model of consciousness, what is the \"Self\"?",
+    "answer": "A \"Center of Narrative Gravity\" — a useful fiction the brain constructs to make sense of its own behaviour, not a physical organ or soul.",
+    "source_title": "Daniel Dennett",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8756",
+    "evidence": "By this logic, Dennett argues that the \"Self\" is not a physical organ or a soul, but a \"Center of Narrative Gravity\"—a useful fiction that the brain constructs to make sense of its own behavior to itself and others.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_79_04",
+    "question": "What is a \"deepity\" as Dennett used the term?",
+    "answer": "A statement with two meanings: one true but trivial, and another that sounds profound but is actually false or meaningless.",
+    "source_title": "Daniel Dennett",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8756",
+    "evidence": "Dennett used \"deepity\" for a statement that has two meanings: one that is true but trivial, and another that sounds profound and would be important if true, but is actually false or meaningless.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_79_05",
+    "question": "How did Dennett's view of evolution differ from that of Stephen Jay Gould?",
+    "answer": "Dennett saw natural selection as an algorithmic process, while Gould stressed the pluralism of evolution, in which natural selection is only one of many crucial factors.",
+    "source_title": "Daniel Dennett",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8756",
+    "evidence": "Dennett saw evolution by natural selection as an algorithmic process (though he spelt out that algorithms as simple as long division often incorporate a significant degree of randomness). This idea is in conflict with the evolutionary philosophy of paleontologist Stephen Jay Gould, who preferred to stress the \"pluralism\" of evolution (i.e., its dependence on many crucial factors, of which natural selection is only one).",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_79_06",
+    "question": "Why did Dennett believe artificial intelligence was dangerous?",
+    "answer": "Because people may anthropomorphize AI systems and attribute intellectual powers to them that they do not possess, misunderstanding their basically \"parasitic\" nature.",
+    "source_title": "Daniel Dennett",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8756",
+    "evidence": "He believed the relevant danger from artificial intelligence (AI) is that people will misunderstand the nature of basically \"parasitic\" AI systems, rather than employing them constructively to challenge and develop the human user's powers of comprehension.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_79_07",
+    "question": "According to \"Darwin's Dangerous Idea\", what is Darwin's dangerous idea?",
+    "answer": "That design might not need a designer, because natural selection is a mindless, algorithmic process powerful enough to explain the evolution of life.",
+    "source_title": "Darwin's Dangerous Idea",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8757",
+    "evidence": "The crux of the argument is that, whether or not Darwin's theories are overturned, there is no going back from the dangerous idea that design (purpose or what something is for) might not need a designer.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_79_08",
+    "question": "What is the difference between \"skyhooks\" and \"cranes\" in \"Darwin's Dangerous Idea\"?",
+    "answer": "A skyhook is a miraculous source of design complexity not built on simpler layers, while a crane permits greater complexity but is grounded in physical science.",
+    "source_title": "Darwin's Dangerous Idea",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8757",
+    "evidence": "Dennett contrasts theories of complexity that require such miracles with those based on \"cranes\", structures that permit the construction of entities of greater complexity but are themselves founded solidly \"on the ground\" of physical science.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_79_09",
+    "question": "Why did Dennett write \"Darwin's Dangerous Idea\"?",
+    "answer": "He noticed discomfort with Darwinism among lay people and even academics, and wanted thinkers in other disciplines to take evolutionary theory seriously.",
+    "source_title": "Darwin's Dangerous Idea",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8757",
+    "evidence": "Dennett noted discomfort with Darwinism among not only lay people but also even academics and decided it was time to write a book dealing with the subject.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_79_10",
+    "question": "What does Dennett's \"universal acid\" metaphor say about Darwin's idea?",
+    "answer": "That it eats through almost every traditional concept and leaks beyond biology, leaving a revolutionized world-view.",
+    "source_title": "Darwin's Dangerous Idea",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8757",
+    "evidence": "While there are people who would like to see Darwin's idea contained within the field of biology, Dennett asserts that this dangerous idea inevitably “leaks” out to transform other fields as well.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_79_11",
+    "question": "What is a \"strange loop\" according to Douglas Hofstadter?",
+    "answer": "A level-crossing feedback loop, an abstract pattern he says gives rise to our sense of having an \"I\".",
+    "source_title": "Douglas Hofstadter",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8758",
+    "evidence": "In particular, Hofstadter claims that our sense of having (or being) an \"I\" comes from the abstract pattern he terms a \"strange loop\", an abstract cousin of such concrete phenomena as audio and video feedback that Hofstadter has defined as \"a level-crossing feedback loop\".",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_79_12",
+    "question": "What discovery resulted from Hofstadter's graduate studies on Bloch electrons in a magnetic field?",
+    "answer": "The fractal known as Hofstadter's butterfly.",
+    "source_title": "Douglas Hofstadter",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8758",
+    "evidence": "His graduate studies on the energy levels of Bloch electrons in a magnetic field led to his discovery of the fractal known as Hofstadter's butterfly.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_79_13",
+    "question": "Why did Hofstadter become a vegetarian?",
+    "answer": "As a consequence of his attitudes about consciousness and empathy.",
+    "source_title": "Douglas Hofstadter",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8758",
+    "evidence": "As a consequence of his attitudes about consciousness and empathy, Hofstadter became a vegetarian in his teenage years, and has remained primarily so since that time.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_79_14",
+    "question": "How did Hofstadter's 2023 view of AI progress compare with his earlier skepticism about AI?",
+    "answer": "Earlier he doubted AI claims and the singularity, but in 2023 he said rapid AI progress made some of his core beliefs about AI's limitations collapse.",
+    "source_title": "Douglas Hofstadter",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8758",
+    "evidence": "Hofstadter expressed doubt that the singularity will occur in the foreseeable future. In a 2023 interview, Hofstadter said that rapid progress in AI made some of his \"core beliefs\" about AI's limitations \"collapse\".",
+    "question_type": "comparison"
+  }
+]

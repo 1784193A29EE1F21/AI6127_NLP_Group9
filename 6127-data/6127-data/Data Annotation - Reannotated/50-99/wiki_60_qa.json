@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki_60_01",
+    "question": "What are \"coywolf\" hybrids, and which wolves do coyotes interbreed with to produce them?",
+    "answer": "Coyote-wolf hybrids produced by interbreeding with eastern wolves or red wolves.",
+    "source_title": "Coyote",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6710",
+    "evidence": "While coyotes have never been known to mate with gray wolves in the wild, they do interbreed with eastern wolves and red wolves, producing \"coywolf\" hybrids.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_60_02",
+    "question": "How is the coyote typically portrayed in Native American folklore?",
+    "answer": "As a trickster that alternates between the form of a coyote and a human.",
+    "source_title": "Coyote",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6710",
+    "evidence": "The coyote is a prominent character in Native American folklore, mainly in Aridoamerica, usually depicted as a trickster that alternately assumes the form of an actual coyote or a man.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_60_03",
+    "question": "How does the coyote's appearance and gait differ from the gray wolf's?",
+    "answer": "Coyotes are smaller and slimmer with longer ears and narrower faces and muzzles; they carry their tail downward when moving rather than horizontally.",
+    "source_title": "Coyote",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6710",
+    "evidence": "The coyote is typically smaller than the gray wolf, but has longer ears and a relatively larger braincase, as well as a thinner frame, face, and muzzle. ... The coyote also carries its tail downwards when running or walking, rather than horizontally as the wolf does.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_60_04",
+    "question": "What does the coyote's binomial name Canis latrans mean, and why was it chosen?",
+    "answer": "Barking dog, referring to its numerous and varied vocalizations.",
+    "source_title": "Coyote",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6710",
+    "evidence": "Its binomial name \"Canis latrans\" translates to \"barking dog\", a reference to the many vocalizations they produce.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_60_05",
+    "question": "Why did Pleistocene coyotes shrink into the smaller modern form?",
+    "answer": "Large prey disappeared, and gray wolves occupied the large-prey niche and likely killed large coyotes, favoring a smaller, more gracile form.",
+    "source_title": "Coyote",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6710",
+    "evidence": "Their reduction in size occurred within 1,000 years of the Quaternary extinction event, when their large prey died out. Furthermore, Pleistocene coyotes were unable to exploit the big-game hunting niche left vacant after the extinction of the dire wolf (\"Aenocyondirus\"), as it was rapidly filled by gray wolves, which likely actively killed off the large coyotes, with natural selection favoring the modern gracile morph.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_60_06",
+    "question": "Why does the coyote's skull indicate that it is a more primitive form of Canis than the gray wolf?",
+    "answer": "Its smaller size and narrower skull and jaws lack the gripping power specialized wolves need for large prey.",
+    "source_title": "Coyote",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6710",
+    "evidence": "The coyote represents a more primitive form of \"Canis\" than the gray wolf, as shown by its relatively small size and its comparatively narrow skull and jaws, which lack the grasping power necessary to hold the large prey in which wolves specialize.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_60_07",
+    "question": "What are the three subfamilies of Canidae, and which one survives today?",
+    "answer": "Hesperocyoninae, Borophaginae and Caninae; only Caninae survives.",
+    "source_title": "Canidae",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6736",
+    "evidence": "Canidae soon divided into three subfamilies, each of which diverged during the Eocene: Hesperocyoninae (about 39.74–15 Mya), Borophaginae (about 34–32 Mya), and Caninae (about 34–30 Mya; the only surviving subfamily).",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_60_08",
+    "question": "What allowed canids to invade South America?",
+    "answer": "The formation of the Isthmus of Panama joined North and South America about three million years ago.",
+    "source_title": "Canidae",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6736",
+    "evidence": "The formation of the Isthmus of Panama, about 3 Mya, joined South America to North America, allowing canids to invade South America, where they diversified.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_60_09",
+    "question": "Why might the dire wolf have gone extinct?",
+    "answer": "It may have depended on carcasses of large herbivores that disappeared during the extinction event.",
+    "source_title": "Canidae",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6736",
+    "evidence": "The dire wolf shared its habitat with the gray wolf, but became extinct in a large-scale extinction event that occurred around 11,500 years ago. It may have been more of a scavenger than a hunter; its molars appear to be adapted for crushing bones and it may have gone extinct as a result of the extinction of the large herbivorous animals on whose carcasses it relied.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_60_10",
+    "question": "What does it mean that all canids are digitigrade?",
+    "answer": "They walk on their toes.",
+    "source_title": "Canidae",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6736",
+    "evidence": "All canids are digitigrade, meaning they walk on their toes.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_60_11",
+    "question": "How does a ligament in the neck help living canids when tracking prey?",
+    "answer": "It supports the head and neck with little muscle work, conserving energy while following scent trails with the nose low.",
+    "source_title": "Canidae",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6736",
+    "evidence": "All living canids (Caninae) have a ligament analogous to the nuchal ligament of ungulates used to maintain the posture of the head and neck with little active muscle exertion; this ligament allows them to conserve energy while running long distances following scent trails with their nose to the ground.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_60_12",
+    "question": "What traits of wolves may explain why they developed a partnership with humans?",
+    "answer": "Their pack behavior and cooperative social structures.",
+    "source_title": "Canidae",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6736",
+    "evidence": "The fact that wolves are pack animals with cooperative social structures may have been the reason that the relationship developed.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_60_13",
+    "question": "Why did Linnaeus classify the domestic dog as a separate species from the wolf?",
+    "answer": "Differences in head and body and the dog's upturned tail, which he considered absent in other canids.",
+    "source_title": "Subspecies of Canis lupus",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6739",
+    "evidence": "Linnaeus considered the dog to be a separate species from the wolf because of its head, body, and \"cauda recurvata\" – its upturning tail – which is not found in any other canid.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_60_14",
+    "question": "What is the nominate subspecies of Canis lupus?",
+    "answer": "The Eurasian wolf, Canis lupus lupus.",
+    "source_title": "Subspecies of Canis lupus",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6739",
+    "evidence": "The nominate subspecies is the Eurasian wolf (\"Canis lupus lupus\").",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_60_15",
+    "question": "What are the two competing proposals for the origin of the red wolf?",
+    "answer": "Either a distinct species later admixed with coyotes, or a hybrid lineage originating from coyotes and gray wolves rather than a distinct species.",
+    "source_title": "Subspecies of Canis lupus",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6739",
+    "evidence": "The red wolf is an enigmatic taxon, of which there are two proposals over its origin. One is that the red wolf is a distinct species (\"C. rufus\") that has undergone human-influenced admixture with coyotes. The other is that it was never a distinct species but was derived from past admixture between coyotes and gray wolves, due to the gray wolf population being eliminated by humans.",
+    "question_type": "comparison"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "wiki_82_01",
+    "question": "What is the major work of Diophantus of Alexandria?",
+    "answer": "The \"Arithmetica\", a collection of arithmetical problems solved through algebraic equations.",
+    "source_title": "Diophantus",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9110",
+    "evidence": "Diophantus of Alexandria (; ;) was a Greek mathematician who was the author of the \"Arithmetica\" in thirteen books, ten of which are still extant, made up of arithmetical problems that are solved through algebraic equations.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_82_02",
+    "question": "Which mathematician called Diophantus \"the inventor of algebra\"?",
+    "answer": "Joseph-Louis Lagrange.",
+    "source_title": "Diophantus",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9110",
+    "evidence": "Joseph-Louis Lagrange called Diophantus \"the inventor of algebra\"; his exposition became the standard within the Neoplatonic schools of Late antiquity,",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_82_03",
+    "question": "Did Diophantus actually invent algebra?",
+    "answer": "No; algebra existed before him and was practiced orally, and Diophantus picked up these techniques to solve arithmetic problems.",
+    "source_title": "Diophantus",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9110",
+    "evidence": "Diophantus however did not invent the method of algebra, which existed before him. Algebra was practiced and diffused orally by practitioners, with Diophantus picking up technique to solve problems in arithmetic.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_82_04",
+    "question": "What is the main difference between Diophantus's algebraic notation and modern algebraic notation?",
+    "answer": "Diophantus's notation lacked special symbols for operations, relations and exponentials.",
+    "source_title": "Diophantus",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9110",
+    "evidence": "The main difference between Diophantine notation and modern algebraic notation is that the former lacked special symbols for operations, relations, and exponentials.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_82_05",
+    "question": "Why did Diophantus treat three separate cases of quadratic equations when today there is only one?",
+    "answer": "He had no notion of zero and avoided negative coefficients by taking all given numbers to be positive.",
+    "source_title": "Diophantus",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9110",
+    "evidence": "The reason why there were three cases to Diophantus, while today we have only one case, is that he did not have any notion for zero and he avoided negative coefficients by considering the given numbers, to all be positive in each of the three cases above.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_82_06",
+    "question": "How did Diophantus regard negative or irrational square-root solutions?",
+    "answer": "He considered them \"useless\", \"meaningless\" and even \"absurd\".",
+    "source_title": "Diophantus",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9110",
+    "evidence": "Diophantus considered negative or irrational square root solutions \"useless\", \"meaningless\", and even \"absurd\".",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_82_07",
+    "question": "What term did Diophantus coin for approximate equality, and what technique did it later become?",
+    "answer": "\"Parisotēs\", rendered in Latin as \"adaequalitas\", which became Fermat's technique of adequality for finding maxima of functions and tangent lines to curves.",
+    "source_title": "Diophantus",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9110",
+    "evidence": "He coined the term παρισότης (\"parisotēs\") to refer to an approximate equality. This term was rendered as \"adaequalitas\" in Latin, and became the technique of adequality developed by Pierre de Fermat to find maxima for functions and tangent lines to curves.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_82_08",
+    "question": "Why were four rediscovered books of the \"Arithmetica\" in Mashhad not catalogued under Diophantus's name?",
+    "answer": "The librarian apparently could not read the main line of the cover page, where Diophantus's name appeared in geometric Kufi calligraphy, so they were catalogued under Qusta ibn Luqa.",
+    "source_title": "Diophantus",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9110",
+    "evidence": "It was not catalogued under the name of Diophantus (but under that of Qusta ibn Luqa) because the librarian was apparently not able to read the main line of the cover page where Diophantus’s name appears in geometric Kufi calligraphy.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_82_09",
+    "question": "What is a Diophantine equation?",
+    "answer": "A polynomial equation with integer coefficients for which only integer solutions are of interest.",
+    "source_title": "Diophantine equation",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9109",
+    "evidence": "In mathematics, a Diophantine equation is a polynomial equation with integer coefficients, for which only integer solutions are of interest.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_82_10",
+    "question": "How did Diophantus give his name to Diophantine equations and Diophantine analysis?",
+    "answer": "He studied such equations and was one of the first mathematicians to introduce symbolism into algebra; the study of these problems that he initiated is now called Diophantine analysis.",
+    "source_title": "Diophantine equation",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9109",
+    "evidence": "The word \"Diophantine\" refers to the Hellenistic mathematician of the 3rd century, Diophantus of Alexandria, who made a study of such equations and was one of the first mathematicians to introduce symbolism into algebra. The mathematical study of Diophantine problems that Diophantus initiated is now called Diophantine analysis.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_82_11",
+    "question": "What claim did Pierre de Fermat write in the margin of his copy of Diophantus's \"Arithmetica\"?",
+    "answer": "That it is impossible to separate any power higher than the second into two like powers, the statement later known as Fermat's Last Theorem.",
+    "source_title": "Diophantine equation",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9109",
+    "evidence": "In 1637, Pierre de Fermat scribbled on the margin of his copy of \"Arithmetica\": \"It is impossible to separate a cube into two cubes, or a fourth power into two fourth powers, or in general, any power higher than the second into two like powers.\"",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_82_12",
+    "question": "What did Hilbert's tenth problem show about Diophantine equations?",
+    "answer": "That no general algorithm can exist that decides whether an arbitrary Diophantine equation has an integer solution.",
+    "source_title": "Diophantine equation",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9109",
+    "evidence": "However, Hilbert's tenth problem shows that there cannot exist a general algorithm that can decide whether an arbitrary Diophantine equation has an integer solution (much less to find or characterize all such solutions).",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_82_13",
+    "question": "How does the Hermite normal form compare with the Smith normal form for solving linear Diophantine equations?",
+    "answer": "The Hermite normal form only makes the system triangular rather than diagonal and is substantially easier to compute, though it does not directly give the solutions.",
+    "source_title": "Diophantine equation",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9109",
+    "evidence": "Instead of reducing the equation to diagonal form, we only need to make it triangular, which is called the Hermite normal form. The Hermite normal form is substantially easier to compute than the Smith normal form.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_82_14",
+    "question": "What is the oldest general method for solving a Diophantine equation or proving it has no solution, and who introduced it?",
+    "answer": "The method of infinite descent, introduced by Pierre de Fermat.",
+    "source_title": "Diophantine equation",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9109",
+    "evidence": "The oldest general method for solving a Diophantine equationor for proving that there is no solution is the method of infinite descent, which was introduced by Pierre de Fermat.",
+    "question_type": "factual"
+  }
+]

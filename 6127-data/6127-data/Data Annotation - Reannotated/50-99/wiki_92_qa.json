@@ -1,0 +1,110 @@
+[
+  {
+    "id": "wiki_92_01",
+    "question": "Which organisation originally designed and adopted the flag of Europe?",
+    "answer": "The Council of Europe, in 1955.",
+    "source_title": "Flag of Europe",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10025",
+    "evidence": "It was designed and adopted in 1955 by the Council of Europe (CoE) as a symbol for the whole of Europe.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_92_02",
+    "question": "Why did Turkey reject Richard von Coudenhove-Kalergi's proposed red-cross flag for the Council of Europe?",
+    "answer": "Turkey objected to the cross's religious associations, even with a proposed crescent alongside it.",
+    "source_title": "Flag of Europe",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10025",
+    "evidence": "Kalergi was very committed to defending the cross as \"the great symbol of Europe's moral unity\", the Red Cross in particular being \"recognized by the whole world, by Christian and non-Christian nations[,] as a symbol of international charity and of the brotherhood of man\", but the proposal was rejected by Turkey (a member of the Council of Europe since 1949) on grounds of its religious associations in spite of Kalergi's suggestion of adding a crescent alongside the cross to overcome the Muslim objections.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_92_03",
+    "question": "Why did West Germany object to a fifteen-star design for the Council of Europe flag?",
+    "answer": "A separate star for the Saar Protectorate would imply that the region was sovereign.",
+    "source_title": "Flag of Europe",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10025",
+    "evidence": "West Germany objected to the fifteen-star design, as one of the members was Saar Protectorate, and to have its own star would imply sovereignty for the region.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_92_04",
+    "question": "What religious inspiration did Arsène Heitz claim for the circle of twelve stars on the European flag?",
+    "answer": "The twelve-star crown of the Woman of the Apocalypse, a motif in Marian imagery.",
+    "source_title": "Flag of Europe",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10025",
+    "evidence": "In 1987, Heitz would claim that his inspiration had been the crown of twelve stars of the Woman of the Apocalypse, often found in Marian iconography (see above).",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_92_05",
+    "question": "Why did the European Communities in 1985 adopt the Council of Europe's design only with the official status of a \"logo\" rather than a flag?",
+    "answer": "A flag suggested statehood and was controversial among member states, particularly the United Kingdom, so the design received official logo status instead.",
+    "source_title": "Flag of Europe",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10025",
+    "evidence": "But as the adoption of a flag was strongly reminiscent of a national flag representing statehood and was extremely controversial with some member states (in particular the United Kingdom, as the proposed flag closely resembled the Queen's personal standard), the Council of Europe's \"flag of Europe\" design was adopted, without the letter E, only with the official status of a \"logo\".",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_92_06",
+    "question": "From which musical work is the Anthem of Europe adapted?",
+    "answer": "The prelude to the final movement of Beethoven's Ninth Symphony.",
+    "source_title": "Anthem of Europe",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10026",
+    "evidence": "The European Anthem or Anthem of Europe, also known as Ode to Joy, is a piece of instrumental music adapted from the prelude of the final movement of Beethoven's 9th Symphony composed in 1823, originally set to words adapted from Friedrich Schiller's 1785 poem \"Ode to Joy\".",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_92_07",
+    "question": "Which figure both proposed a red-cross flag for the Council of Europe and made the suggestion that led to \"Ode to Joy\" becoming the European anthem?",
+    "answer": "Richard von Coudenhove-Kalergi.",
+    "source_title": "Anthem of Europe",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10026",
+    "evidence": "In 1971 the Parliamentary Assembly of the Council of Europe decided to propose adopting the prelude to the \"Ode to Joy\" from Beethoven's 9th Symphony as the anthem, taking up a suggestion made by Richard von Coudenhove-Kalergi in 1955.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_92_08",
+    "question": "How did Herbert von Karajan's tempo for the official recording of the European anthem differ from Beethoven's original?",
+    "answer": "Karajan used the slower marking of quarter note = 120, instead of Beethoven's half note = 80.",
+    "source_title": "Anthem of Europe",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10026",
+    "evidence": "Conductor Herbert von Karajan was asked to write three instrumental arrangementsfor solo piano, for wind instruments and for symphony orchestra and he conducted the performance used to make the official recording. Karajan decided on a decidedly slower tempo, using crotchet (quarter note) = 120 whereas Beethoven had written minim (half note) = 80.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_92_09",
+    "question": "What happened to both the European flag and the European anthem when the European Constitution failed ratification?",
+    "answer": "The symbols were omitted from the replacement Treaty of Lisbon, though sixteen member states recognized them in an attached declaration.",
+    "source_title": "Anthem of Europe",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10026",
+    "evidence": "It was to have been included in the European Constitution along with the other European symbols; however, the treaty failed ratification and was replaced by the Treaty of Lisbon, which does not include any symbols. A declaration was attached to the treaty, in which sixteen member states formally recognised the proposed symbols.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_92_10",
+    "question": "What was the European Currency Unit (ECU)?",
+    "answer": "A non-circulating EEC unit of account based on a basket of member-country currencies.",
+    "source_title": "European Currency Unit",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10087",
+    "evidence": "The European Currency Unit (, ; ⟨⟩, ECU, or XEU) was a unit of account used by the European Economic Community and composed of a basket of member country currencies. ... As a unit of account, the ECU was not a circulating currency and did not replace or override the value of the currency of EEC member countries.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_92_11",
+    "question": "Why was British Chancellor John Major's 'hard' ECU proposal abandoned?",
+    "answer": "France and Germany saw it as a wrecking tactic, especially after Thatcher openly opposed economic and monetary union.",
+    "source_title": "European Currency Unit",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10087",
+    "evidence": "In 1990 the British Chancellor of the Exchequer John Major proposed the creation of a 'hard' ECU, which different national currencies could compete against and, if the ECU was successful, could lead to a single currency. The move was seen by France and Germany as a wrecking tactic, especially when Margaret Thatcher, the increasingly Eurosceptic British Prime Minister, announced her outright opposition to the European Economic and Monetary Union (EMU), and the idea was abandoned.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_92_12",
+    "question": "How did the euro differ from the ECU it replaced?",
+    "answer": "The ECU was a basket-based accounting unit; the euro is a real currency and replaced it one-for-one on 1 January 1999.",
+    "source_title": "European Currency Unit",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10087",
+    "evidence": "The European Currency Unit (, ; ⟨⟩, ECU, or XEU) was a unit of account used by the European Economic Community and composed of a basket of member country currencies. ... As a unit of account, the ECU was not a circulating currency and did not replace or override the value of the currency of EEC member countries. ... On 1 January 1999, the euro (with the code EUR and symbol ⟨€⟩) replaced the ECU at par (one-to-one). Unlike the ECU, the euro is a real currency, although not all member states participate (for details on euro membership see Eurozone).",
+    "question_type": "comparison"
+  }
+]

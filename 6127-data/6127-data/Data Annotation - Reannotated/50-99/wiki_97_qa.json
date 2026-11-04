@@ -1,0 +1,119 @@
+[
+  {
+    "id": "wiki_97_01",
+    "question": "What is a play from scrimmage in gridiron football?",
+    "answer": "A sequence in which one team tries to advance the ball, gain a first down or score while the other tries to stop it or take possession.",
+    "source_title": "Play from scrimmage",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10668",
+    "evidence": "A play from scrimmage is the sequence in the game of gridiron football during which one team tries to advance the ball, get a first down, or score, and the other team tries to stop them or take the ball away.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_97_02",
+    "question": "Why are planned plays in gridiron football designated by obscure words, letters or numbers?",
+    "answer": "So outsiders cannot infer the play's execution from its name.",
+    "source_title": "Play from scrimmage",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10668",
+    "evidence": "They will be designated by obscure words, letters and/or numbers so that the name of a play does not reveal its exact execution to outsiders.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_97_03",
+    "question": "By what two routine ways can possession change during a play from scrimmage?",
+    "answer": "Interception or fumble, collectively called turnovers.",
+    "source_title": "Play from scrimmage",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10668",
+    "evidence": "Change of possession during a routine play may occur by interception or by fumble (often collectively referred to as \"turnovers\").",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_97_04",
+    "question": "What is a punt in gridiron football?",
+    "answer": "A kick by the offensive team to give up possession, usually when scoring or gaining a first down seems unlikely within the remaining attempts.",
+    "source_title": "Play from scrimmage",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10668",
+    "evidence": "Another way is through a change of possession play, when the offensive team (having perhaps surmised the unlikelihood of scoring or of achieving a first down within the allowed consecutive attempts to do so) kicks the ball away in what is known as a punt.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_97_05",
+    "question": "From which earlier sport does the modern football use of the word \"tackle\" come?",
+    "answer": "Rugby.",
+    "source_title": "Tackle (football move)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10667",
+    "evidence": "Modern use in football comes from the earlier sport of rugby, where the word was used in the 19th century.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_97_06",
+    "question": "How do tackles in association football differ from those in other football codes?",
+    "answer": "Association-football tackles must principally target the ball rather than the player carrying it.",
+    "source_title": "Tackle (football move)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10667",
+    "evidence": "Unlike other codes, tackles in association football have to be predominantly directed against the ball rather than the player in possession of it.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_97_07",
+    "question": "In gridiron football, what is a quarterback sack?",
+    "answer": "Tackling the quarterback at or behind the line of scrimmage while he is trying to throw a pass.",
+    "source_title": "Tackle (football move)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10667",
+    "evidence": "A tackle is known as a quarterback sack when the quarterback is tackled at or behind the line of scrimmage while attempting to throw a pass.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_97_08",
+    "question": "Why is a player not allowed to use his helmet to tackle an opponent in gridiron football?",
+    "answer": "It can seriously injure both players, especially the tackler through forces beyond what the neck can withstand.",
+    "source_title": "Tackle (football move)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10667",
+    "evidence": "Although spear tackles are allowed in gridiron football, a player may not use his helmet to tackle an opponent as the technique can cause serious injury to both players (more often the tackler, due to the force of reaction on the tackler, which is apt to be beyond the limit that the neck can handle) and also warrants a 15-yard penalty as well as a fresh set of downs if committed by the defending team; this is known as \"spearing the player\".",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_97_09",
+    "question": "What does the legal and widespread use of the forward pass distinguish gridiron football from?",
+    "answer": "Rugby union and rugby league, where forward passing is illegal.",
+    "source_title": "Forward pass",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10654",
+    "evidence": "The legal and widespread use of the forward pass distinguishes gridiron football (American football and Canadian football) from rugby football (union and league) in which the play is illegal.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_97_10",
+    "question": "When a passer drops the ball, what determines whether it is a fumble or a forward pass?",
+    "answer": "Whether the throwing arm has begun moving forward: a drop before then is a fumble; during forward motion it is a forward pass.",
+    "source_title": "Forward pass",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10654",
+    "evidence": "The pass begins the moment the passer's arm begins to move forward. If the passer drops the ball before this moment it is a fumble and therefore a loose ball. ... If the passer drops the ball while his arm is moving forward it is a forward pass, regardless of where the ball lands or is first touched.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_97_11",
+    "question": "Which US president intervened to demand reform of football's rules after a violent season, leading to the legalisation of the forward pass?",
+    "answer": "Theodore Roosevelt.",
+    "source_title": "Forward pass",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10654",
+    "evidence": "There were moves to outlaw the game, but United States President Theodore Roosevelt personally intervened and demanded that the rules of the game be reformed.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_97_12",
+    "question": "Why was Eddie Cochems' pass-oriented offensive strategy at Saint Louis not picked up by the major teams?",
+    "answer": "Saint Louis was geographically isolated from the dominant teams and major sports newspapers, which were concentrated in the East.",
+    "source_title": "Forward pass",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10654",
+    "evidence": "Because St. Louis was geographically isolated from both the dominant teams and the major sports media (newspapers) of the era, all centered in and focused on the East, Cochems' groundbreaking offensive strategy was not picked up by the major teams.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_97_13",
+    "question": "What effect did increased use of the forward pass have on the shape of the American football?",
+    "answer": "It encouraged a narrower ball, with changes from the 1920s improving rifled throws and spiral punts.",
+    "source_title": "Forward pass",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10654",
+    "evidence": "Increased use of the forward pass encouraged adoption of a narrower ball, starting with changes in the 1920s which enhanced rifled throwing and also spiral punting.",
+    "question_type": "cause_effect"
+  }
+]

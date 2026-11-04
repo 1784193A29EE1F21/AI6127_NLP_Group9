@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki_15_01",
+    "question": "Where was André Weil when he completed the work that made his reputation?",
+    "answer": "In the military prison in Bonne-Nouvelle, a district of Rouen, where he was held for failing to report for duty.",
+    "source_title": "André Weil",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2019",
+    "evidence": "Weil returned to France via Sweden and the United Kingdom and was detained at Le Havre in January 1940. He was charged with failure to report for duty, and was imprisoned in Le Havre and then Rouen. While Weil was in the military prison in Bonne-Nouvelle, a district of Rouen, from February to May, he completed the work that made his reputation.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_15_02",
+    "question": "Why did André Weil's choice of symbol for the empty set come from the Norwegian alphabet?",
+    "answer": "He derived it from the Norwegian letter Ø, which he alone among the Bourbaki group was familiar with.",
+    "source_title": "André Weil",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2019",
+    "evidence": "Other significant results were on Pontryagin duality and differential geometry. He introduced the concept of a uniform space in general topology, as a by-product of his collaboration with Nicolas Bourbaki (of which he was a Founding Father). His work on sheaf theory hardly appears in his published papers, but correspondence with Henri Cartan in the late 1940s, and reprinted in his collected papers, proved most influential. He also chose the symbol ∅, derived from the letter Ø in the Norwegian alphabet (which he alone among the Bourbaki group was familiar with), to represent the empty set.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_15_03",
+    "question": "What was André Weil's attitude toward calling a mathematical guess a conjecture, as shown in the Taniyama case?",
+    "answer": "He believed one should not dignify a guess as a conjecture lightly; in the Taniyama case the evidence only came after extensive computational work.",
+    "source_title": "André Weil",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2019",
+    "evidence": "His attitude towards conjectures was that one should not dignify a guess as a conjecture lightly, and in the Taniyama case, the evidence was only there after extensive computational work carried out from the late 1960s.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_15_04",
+    "question": "Which mathematicians proved the Weil conjectures, and who completed the most difficult step?",
+    "answer": "Bernard Dwork, Alexander Grothendieck, Michael Artin and Pierre Deligne, with Deligne completing the most difficult step.",
+    "source_title": "André Weil",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2019",
+    "evidence": "The so-called Weil conjectures were hugely influential from around 1950; these statements were later proved by Bernard Dwork, Alexander Grothendieck, Michael Artin, and finally by Pierre Deligne, who completed the most difficult step in 1973.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_15_05",
+    "question": "What analogy does the Selberg trace formula draw in its simplest form?",
+    "answer": "Its duality between the lengths of closed geodesics on a compact Riemann surface and the eigenvalues of the Laplacian is analogous to the duality between the prime numbers and the zeros of the zeta function.",
+    "source_title": "Atle Selberg",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2021",
+    "evidence": "C.L. Siegel invited Selberg to visit the Institute for Advanced Study in Princeton, New Jersey in 1947. He moved to the United States and was an associate professor at Syracuse University briefly. He returned to the IAS in 1949, where he remained until his death. During the 1950s, he worked on introducing spectral theory into number theory, culminating in his development of the Selberg trace formula, the most famous and influential of his results. In its simplest form, this establishes a duality between the lengths of closed geodesics on a compact Riemann surface and the eigenvalues of the Laplacian, which is analogous to the duality between the prime numbers and the zeros of the zeta function.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_15_06",
+    "question": "Why were Atle Selberg's 1948 proofs about primes in arithmetic progression and the density of primes significant?",
+    "answer": "He proved them by elementary means, challenging the widely held view that certain theorems could only be obtained with advanced complex analysis.",
+    "source_title": "Atle Selberg",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2021",
+    "evidence": "In 1948, Selberg submitted two papers in \"Annals of Mathematics\" in which he proved by elementary means the theorems for primes in arithmetic progression and the density of primes. This challenged the widely held view of his time that certain theorems are only obtainable with the advanced methods of complex analysis.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_15_07",
+    "question": "What is the Selberg sieve?",
+    "answer": "A method in sieve theory introduced by Selberg, well adapted to providing auxiliary upper bounds, which contributed to Chen's theorem.",
+    "source_title": "Atle Selberg",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2021",
+    "evidence": "After the war, he turned to sieve theory, a previously neglected topic which Selberg's work brought into prominence. In a 1947 paper he introduced the Selberg sieve, a method well adapted in particular to providing auxiliary upper bounds, and which contributed to Chen's theorem, among other important results.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_15_08",
+    "question": "What led Andrew Wiles back to his childhood dream of proving Fermat's Last Theorem?",
+    "answer": "Ken Ribet's proof of the epsilon conjecture, which Gerhard Frey had previously linked to Fermat's equation.",
+    "source_title": "Andrew Wiles",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2027",
+    "evidence": "Fascinated by the existence of a theorem that was so easy to state that he, a ten-year-old, could understand it, but that no one had proven, he decided to be the first person to prove it. However, he soon realised that his knowledge was too limited, so he abandoned his childhood dream until it was brought back to his attention at the age of 33 by Ken Ribet's 1986 proof of the epsilon conjecture, which Gerhard Frey had previously linked to Fermat's equation.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_15_09",
+    "question": "Why did Andrew Wiles receive a silver plaque from the International Mathematical Union instead of a Fields Medal?",
+    "answer": "Because the Fields Medal is restricted to those under the age of 40, and Wiles was older than that when he proved the theorem.",
+    "source_title": "Andrew Wiles",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2027",
+    "evidence": "In 1998, Wiles was awarded a silver plaque from the International Mathematical Union recognising his achievements, in place of the Fields Medal, which is restricted to those under the age of 40 (Wiles was 41 when he proved the theorem in 1994).",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_15_10",
+    "question": "How did Andrew Wiles keep his work on Fermat's Last Theorem secret?",
+    "answer": "He released his prior work in small segments as separate papers and confided only in his wife.",
+    "source_title": "Andrew Wiles",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2027",
+    "evidence": "Despite this, Wiles, with his from-childhood fascination with Fermat's Last Theorem, decided to undertake the challenge of proving the conjecture, at least to the extent needed for Frey's curve. He dedicated all of his research time to this problem for over six years in near-total secrecy, covering up his efforts by releasing prior work in small segments as separate papers and confiding only in his wife.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_15_11",
+    "question": "How did Andrew Wiles overcome the flaw found in his first proof of Fermat's Last Theorem?",
+    "answer": "He circumvented it using Galois representations in place of elliptic curves, reducing the problem to a class number formula using Kolyvagin's ideas, and published the fix with his former student Richard Taylor.",
+    "source_title": "Andrew Wiles",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2027",
+    "evidence": "According to Wiles, the crucial idea for circumventing—rather than closing—this area came to him on 19 September 1994, when he was on the verge of giving up. The circumvention used Galois representations to replace elliptic curves, reduced the problem to a class number formula and solved it, among other matters, all using Victor Kolyvagin's ideas as a basis for fixing Matthias Flach's approach with Iwasawa theory. Together with his former student Richard Taylor, Wiles published a second paper which contained the circumvention and thus completed the proof.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_15_12",
+    "question": "Why did Alexander Grothendieck retire from scientific life around 1970?",
+    "answer": "He found out that the IHÉS, where he worked, was partly funded by the military, which clashed with his radical pacifist views.",
+    "source_title": "Alexander Grothendieck",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2042",
+    "evidence": "Grothendieck's political views were radical and pacifistic. He strongly opposed both United States intervention in Vietnam and Soviet military expansionism. To protest against the Vietnam War, he gave lectures on category theory in the forests surrounding Hanoi while the city was being bombed. In 1966, he had declined to attend the International Congress of Mathematicians (ICM) in Moscow, where he was to receive the Fields Medal. He retired from scientific life around 1970 after he had found out that IHÉS was partly funded by the military.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_15_13",
+    "question": "Which observation by André Weil did Grothendieck's étale and l-adic cohomology theories explain?",
+    "answer": "Weil's observation of a connection between the topological characteristics of a variety and its number-theoretic properties, which Weil realized needed a new cohomology theory to prove.",
+    "source_title": "Alexander Grothendieck",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2042",
+    "evidence": "Grothendieck's work includes the invention of the étale and l-adic cohomology theories, which explain an observation made by André Weil that argued for a connection between the topological characteristics of a variety and its diophantine (number theoretic) properties. For example, the number of solutions of an equation over a finite field reflects the topological nature of its solutions over the complex numbers. Weil had realized that to prove such a connection, one needed a new cohomology theory, but neither he nor any other expert saw how to accomplish this until such a theory was expressed by Grothendieck.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_15_14",
+    "question": "How did Grothendieck's \"relative point of view\" differ from earlier approaches in algebraic geometry?",
+    "answer": "Instead of studying individual varieties, it studied pairs of varieties related by a morphism, allowing broad generalizations of many classical theorems.",
+    "source_title": "Alexander Grothendieck",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2042",
+    "evidence": "Homological methods and sheaf theory had already been introduced in algebraic geometry by Jean-Pierre Serre and others, after sheaves had been defined by Jean Leray. Grothendieck took them to a higher level of abstraction and turned them into a key organising principle of his theory. He shifted attention from the study of individual varieties to his \"relative point of view\" (pairs of varieties related by a morphism), allowing a broad generalization of many classical theorems.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_15_15",
+    "question": "What is a scheme in Grothendieck's foundation of algebraic geometry, informally?",
+    "answer": "A topological space on which a commutative ring is associated to every open subset of the space.",
+    "source_title": "Alexander Grothendieck",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2042",
+    "evidence": "Grothendieck laid a new foundation for algebraic geometry by making intrinsic spaces (\"spectra\") and associated rings the primary objects of study. To that end, he developed the theory of schemes that informally can be thought of as topological spaces on which a commutative ring is associated to every open subset of the space. Schemes have become the basic objects of study for practitioners of modern algebraic geometry.",
+    "question_type": "definition"
+  }
+]

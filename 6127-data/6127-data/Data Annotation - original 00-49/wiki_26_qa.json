@@ -1,0 +1,110 @@
+[
+  {
+    "id": "wiki_26_01",
+    "question": "What is the Burgess Shale famous for?",
+    "answer": "The exceptional preservation of the soft parts of its fossils.",
+    "source_title": "Burgess Shale",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3422",
+    "evidence": "The Burgess Shale is a fossil-bearing deposit exposed in the Canadian Rockies of British Columbia, Canada. It is famous for the exceptional preservation of the soft parts of its fossils.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_26_02",
+    "question": "Why were Charles Walcott's Burgess Shale fossils regarded as little more than curiosities in his time?",
+    "answer": "Because Walcott, following the scientific opinion of the time, tried to fit all the fossils into living taxa.",
+    "source_title": "Burgess Shale",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3422",
+    "evidence": "Walcott, led by scientific opinion at the time, attempted to categorise all fossils into living taxa, and as a result, the fossils were regarded as little more than curiosities at the time.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_26_03",
+    "question": "How did Stephen Jay Gould's interpretation of the Burgess Shale fauna differ from Simon Conway Morris's?",
+    "answer": "Gould argued the fossils showed far greater disparity of body forms, with many extinct evolutionary experiments, while Conway Morris argued almost all Cambrian fauna fit into modern phyla.",
+    "source_title": "Burgess Shale",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3422",
+    "evidence": "Gould suggests that the extraordinary diversity of the fossils indicates that life forms at the time were much more disparate in body form than those that survive today, and that many of the unique lineages were evolutionary experiments that became extinct. Gould's interpretation of the diversity of Cambrian fauna relied heavily on Simon Conway Morris's reinterpretation of Charles Walcott's original publications. However, Conway Morris strongly disagreed with Gould's conclusions, arguing that almost all the Cambrian fauna could be classified into modern-day phyla.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_26_04",
+    "question": "Why are soft-bodied fossil assemblages (lagerstätten) far more common in the Cambrian than in other periods?",
+    "answer": "Mainly because burrowing activity was limited; as bioturbation became more widespread, environments able to preserve soft parts became much rarer.",
+    "source_title": "Burgess Shale",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3422",
+    "evidence": "There are many other comparable Cambrian \"lagerstätten\"; indeed, such assemblages are far more common in the Cambrian than in any other period. This is mainly due to the limited extent of burrowing activity; as such bioturbation became more prevalent throughout the Cambrian, and environments capable of preserving organisms' soft parts became much rarer.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_26_05",
+    "question": "What feature unifies the members of the Branchiopoda and gives the group its name?",
+    "answer": "The presence of gills on many of their appendages, including some mouthparts; the name means \"gill foot\".",
+    "source_title": "Branchiopoda",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3406",
+    "evidence": "Members of the Branchiopoda are unified by the presence of gills on many of the animals' appendages, including some of the mouthparts. This is also responsible for the name of the group (from the, gills, akin to, windpipe;, foot).",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_26_06",
+    "question": "Why are branchiopods thought to have moved from the seas into temporary pools and hypersaline lakes?",
+    "answer": "They were forced into those habitats by the evolution of bony fishes.",
+    "source_title": "Branchiopoda",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3406",
+    "evidence": "It is thought that the group evolved in the seas, but was forced into temporary pools and hypersaline lakes by the evolution of bony fishes.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_26_07",
+    "question": "Why are the tadpole shrimp genera \"Triops\" and \"Lepidurus\" considered living fossils?",
+    "answer": "Because they have not changed significantly in outward form since the Triassic.",
+    "source_title": "Branchiopoda",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3406",
+    "evidence": "The two genera, \"Triops\" and \"Lepidurus\", are considered living fossils, having not changed significantly in outward form since the Triassic.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_26_08",
+    "question": "What is cyclical parthenogenesis in water fleas, and what advantage does it give them?",
+    "answer": "Asexual reproduction occasionally supplemented by sexual reproduction, which produces resting eggs that let the species survive harsh conditions and disperse to distant habitats.",
+    "source_title": "Branchiopoda",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3406",
+    "evidence": "Most species show cyclical parthenogenesis, where asexual reproduction is occasionally supplemented by sexual reproduction, which produces resting eggs that allow the species to survive harsh conditions and disperse to distant habitats.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_26_09",
+    "question": "What is the lophophore of bryozoans?",
+    "answer": "A special feeding structure: a \"crown\" of tentacles used for filter feeding.",
+    "source_title": "Bryozoa",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3416",
+    "evidence": "Typically about long, they have a special feeding structure called a lophophore, a \"crown\" of tentacles used for filter feeding.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_26_10",
+    "question": "What are zooids in a bryozoan colony?",
+    "answer": "The single animals living throughout the colony, which are not fully independent and can have diverse functions.",
+    "source_title": "Bryozoa",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3416",
+    "evidence": "Single animals, called zooids, live throughout the colony and are not fully independent. These individuals can have unique and diverse functions.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_26_11",
+    "question": "How can a bryozoan colony be distinguished from a coral, even though some look very alike?",
+    "answer": "A bryozoan colony is founded by a round ancestrula unlike its normal zooids, whereas a coral's founding polyp is shaped like its daughter polyps, and coral zooids lack a coelom and lophophore.",
+    "source_title": "Bryozoa",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3416",
+    "evidence": "Some encrusting bryozoan colonies with mineralized exoskeletons look very like small corals. However, bryozoan colonies are founded by an ancestrula, which is round rather than shaped like a normal zooid of that species. On the other hand, the founding polyp of a coral has a shape like that of its daughter polyps, and coral zooids have no coelom or lophophore.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_26_12",
+    "question": "What effect has the invasive bryozoan \"Membranipora membranacea\" had off the northeast and northwest coasts of the US?",
+    "answer": "It has reduced kelp forests so much that local fish and invertebrate populations have been affected.",
+    "source_title": "Bryozoa",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3416",
+    "evidence": "\"Membranipora membranacea\", a fast-growing invasive bryozoan off the northeast and northwest coasts of the US, has reduced kelp forests so much that it has affected local fish and invertebrate populations.",
+    "question_type": "cause_effect"
+  }
+]

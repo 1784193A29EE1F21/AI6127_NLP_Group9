@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki_00_01",
+    "question": "What is the essence of Objectivism as described by its founder, Ayn Rand?",
+    "answer": "Man as a heroic being, his happiness as life's moral purpose, productive achievement as his noblest activity, and reason as his only absolute.",
+    "source_title": "Ayn Rand",
+    "source_url": "https://en.wikipedia.org/wiki?curid=339",
+    "evidence": "Rand called her philosophy \"Objectivism\", describing its essence as \"the concept of man as a heroic being, with his own happiness as the moral purpose of his life, with productive achievement as his noblest activity, and reason as his only absolute\".",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_00_02",
+    "question": "Why did Ayn Rand reject anarchism and denounce libertarianism, even though she is often associated with the modern libertarian movement?",
+    "answer": "She considered anarchism a naive, subjectivist theory that would produce collectivism, and associated libertarianism with anarchism.",
+    "source_title": "Ayn Rand",
+    "source_url": "https://en.wikipedia.org/wiki?curid=339",
+    "evidence": "Rand rejected anarchism as a naive theory based in subjectivism that would lead to collectivism in practice, and denounced libertarianism, which she associated with anarchism.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_00_03",
+    "question": "How did the 2008 financial crisis affect public interest in Ayn Rand's work and in her hero John Galt?",
+    "answer": "The crisis revived interest, particularly in Atlas Shrugged as supposedly foreshadowing it; signs invoking Rand and John Galt appeared at Tea Party protests.",
+    "source_title": "Ayn Rand",
+    "source_url": "https://en.wikipedia.org/wiki?curid=339",
+    "evidence": "The 2008 financial crisis renewed interest in her works, especially \"Atlas Shrugged\", which some saw as foreshadowing the crisis. ... Signs mentioning Rand and her fictional hero John Galt appeared at Tea Party protests.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_00_04",
+    "question": "How does Ayn Rand typically portray the villains in her fiction, and which Atlas Shrugged character is cited as an example of a villain whose name suggests negative traits?",
+    "answer": "Her villains support duty and collectivist moral ideals, are often unattractive, and may have negatively suggestive names such as Wesley Mouch.",
+    "source_title": "Ayn Rand",
+    "source_url": "https://en.wikipedia.org/wiki?curid=339",
+    "evidence": "Her villains support duty and collectivist moral ideals. Rand often describes them as unattractive, and some have names that suggest negative traits, such as Wesley Mouch in \"Atlas Shrugged\".",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_00_05",
+    "question": "Ayn Rand called Victor Hugo the greatest novelist in world literature; which Atlas Shrugged character's name did she say was a tribute to a Hugo novel, and which novel was it?",
+    "answer": "Ragnar Danneskjöld; his name paid tribute to Hugo's Hans of Iceland.",
+    "source_title": "List of Atlas Shrugged characters",
+    "source_url": "https://en.wikipedia.org/wiki?curid=359",
+    "evidence": "In a 1974 comment at a lecture, Rand said that Danneskjöld's name was a tribute to Victor Hugo's novel \"Hans of Iceland\", wherein the hero becomes the first of the Counts of Danneskjöld.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_00_06",
+    "question": "In Atlas Shrugged, how does James Taggart, president of Taggart Transcontinental, compare with his sister Dagny in running the railroad?",
+    "answer": "James cannot make operational decisions and depends on Dagny, the operations vice president who actually runs the railroad, while frequently opposing her.",
+    "source_title": "List of Atlas Shrugged characters",
+    "source_url": "https://en.wikipedia.org/wiki?curid=359",
+    "evidence": "She is vice president in charge of operations for Taggart Transcontinental, under her brother, James Taggart. Given James's incompetence, Dagny is responsible for all the workings of the railroad. ... Taggart is an expert influence peddler but incapable of making operational decisions on his own. He relies on his sister, Dagny Taggart, to actually run the railroad, but nonetheless opposes her in almost every endeavor because of his various anti-capitalist moral and political beliefs.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_00_07",
+    "question": "What did John Galt secretly invent while working at the Twentieth Century Motor Company, and why did he abandon it?",
+    "answer": "A generator producing usable electricity from ambient static electricity; he abandoned it and his job because he disliked an easily corrupted new payment system.",
+    "source_title": "List of Atlas Shrugged characters",
+    "source_url": "https://en.wikipedia.org/wiki?curid=359",
+    "evidence": "Before working for Taggart Transcontinental, Galt worked as an engineer for the Twentieth Century Motor Company, where he secretly invented a generator of usable electric energy from ambient static electricity, but abandoned his prototype, and his employment, when dissatisfied by an easily corrupted novel system of payment.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_00_08",
+    "question": "Ayn Rand condemned ethical altruism; as a deontological ethical doctrine, what does altruism claim, and which opposing doctrine is it usually contrasted with?",
+    "answer": "It holds that people are morally obliged to benefit others, in contrast to deontological egoism's duty to serve oneself first.",
+    "source_title": "Altruism",
+    "source_url": "https://en.wikipedia.org/wiki?curid=336",
+    "evidence": "The term \"altruism\" can also refer to a deontological ethical doctrine that claims that individuals are morally obliged to benefit others. Used in this sense, it is usually contrasted with deontological egoism, which claims individuals are morally obligated to serve themselves first.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_00_09",
+    "question": "Ayn Rand counted Thomas Aquinas among the few philosophers she admired; which Aquinas doctrine was Auguste Comte probably opposing when he coined the word \"altruism\"?",
+    "answer": "Aquinas's view that self-love is the model and root of love for others, with no obligation to love others more than oneself.",
+    "source_title": "Altruism",
+    "source_url": "https://en.wikipedia.org/wiki?curid=336",
+    "evidence": "Thomas Aquinas interprets the biblical phrase \"You should love your neighbour as yourself\" as meaning that love for ourselves is the exemplar of love for others. Considering that \"the love with which a man loves himself is the form and root of friendship\", he quotes Aristotle that \"the origin of friendly relations with others lies in our relations to ourselves\". Aquinas concluded that though we are not bound to love others more than ourselves, we naturally seek the common good, the good of the whole, more than any private good, the good of a part. ... In coining the word \"altruism\", as stated above, Comte was probably opposing this Thomistic doctrine, which is present in some theological schools within Catholicism.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_00_10",
+    "question": "Why does the theory of psychological egoism hold that no act of sharing, helping, or sacrificing can be truly altruistic?",
+    "answer": "The actor can receive an intrinsic reward such as personal gratification, so the action may still serve self-interest.",
+    "source_title": "Altruism",
+    "source_url": "https://en.wikipedia.org/wiki?curid=336",
+    "evidence": "The theory of psychological egoism suggests that no act of sharing, helping, or sacrificing can be \"truly\" altruistic, as the actor may receive an intrinsic reward in the form of personal gratification.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_00_11",
+    "question": "What distinguishes effective altruism from traditional altruism or charity?",
+    "answer": "Its broad, evidence-based and cause-neutral approach uses reason to identify the most effective ways to benefit others.",
+    "source_title": "Altruism",
+    "source_url": "https://en.wikipedia.org/wiki?curid=336",
+    "evidence": "Effective altruism is a philosophy and social movement that uses evidence and reasoning to determine the most effective ways to benefit others. ... It is the broad, evidence-based, and cause-neutral approach that distinguishes effective altruism from traditional altruism or charity.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_00_12",
+    "question": "Although Ayn Rand rejected anarchism, which two philosophical currents, one of them her own, have provided arguments drawn on in favour of philosophical anarchism?",
+    "answer": "Objectivism and Kantianism.",
+    "source_title": "Anarchism",
+    "source_url": "https://en.wikipedia.org/wiki?curid=12",
+    "evidence": "Philosophical currents as diverse as Objectivism and Kantianism have provided arguments drawn on in favour of philosophical anarchism, including Wolff's defence of anarchism against formal methods for legitimating it.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_00_13",
+    "question": "Why do anarchists argue that even the most altruistic officials cannot keep a state from becoming corrupt?",
+    "answer": "Government officials inevitably seek additional power, which leads to corruption even if they initially have altruistic motives.",
+    "source_title": "Anarchism",
+    "source_url": "https://en.wikipedia.org/wiki?curid=12",
+    "evidence": "Another anarchist argument against states is that the people constituting a government, even the most altruistic among officials, will unavoidably seek to gain more power, leading to corruption.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_00_14",
+    "question": "How does individualist anarchism differ from social anarchism in the kind of liberty it emphasises?",
+    "answer": "Individualist anarchism emphasizes negative liberty from restraints, while social anarchism stresses positive liberty through equality and social ownership.",
+    "source_title": "Anarchism",
+    "source_url": "https://en.wikipedia.org/wiki?curid=12",
+    "evidence": "The individualist current emphasises negative liberty in opposing restraints upon the free individual, while the social current emphasises positive liberty in aiming to achieve the free potential of society through equality and social ownership.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_00_15",
+    "question": "Robert Nozick, an early academic critic of Ayn Rand, argued in Anarchy, State, and Utopia that what would emerge from anarchy, and through what process?",
+    "answer": "A minimal night-watchman state would emerge through an invisible-hand process as people bought protection from agencies.",
+    "source_title": "Anarchism",
+    "source_url": "https://en.wikipedia.org/wiki?curid=12",
+    "evidence": "In Anarchy, State, and Utopia, the philosopher Robert Nozick argued that a \"night-watchman state\", or minarchy, would emerge from anarchy through the process of an invisible hand, in which people would exercise their liberty and buy protection from protection agencies, evolving into a minimal state.",
+    "question_type": "cause_effect"
+  }
+]

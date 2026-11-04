@@ -1,0 +1,119 @@
+[
+  {
+    "id": "wiki_84_01",
+    "question": "What are the three main branches of ethics?",
+    "answer": "Normative ethics, applied ethics, and metaethics.",
+    "source_title": "Ethics",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9258",
+    "evidence": "Its main branches include normative ethics, applied ethics, and metaethics.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_84_02",
+    "question": "What is metaethics?",
+    "answer": "The branch of ethics that examines the nature, foundations, and scope of moral judgments, concepts, and values rather than which actions are right.",
+    "source_title": "Ethics",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9258",
+    "evidence": "Metaethics is the branch of ethics that examines the nature, foundations, and scope of moral judgments, concepts, and values. It is not interested in which actions are right but in what it means for an action to be right and whether moral judgments are objective and can be true at all.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_84_03",
+    "question": "How does deontology differ from consequentialism in judging whether an action is right?",
+    "answer": "Consequentialism judges actions by their consequences, while deontology holds that moral principles must be followed regardless of consequences because actions are inherently right or wrong.",
+    "source_title": "Ethics",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9258",
+    "evidence": "Unlike consequentialists, deontologists hold that the validity of general moral principles does not directly depend on their consequences. They state that these principles should be followed in every case since they express how actions are inherently right or wrong.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_84_04",
+    "question": "According to Aristotle, how is each virtue related to vices?",
+    "answer": "Each virtue is a golden mean between two vices, one of excess and one of deficiency, as courage lies between cowardice and recklessness.",
+    "source_title": "Ethics",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9258",
+    "evidence": "According to Aristotle (384–322 BCE), each virtue is a golden mean between two types of vices: excess and deficiency. For example, courage is a virtue that lies between the deficient state of cowardice and the excessive state of recklessness.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_84_05",
+    "question": "How does error theory combine cognitivism with moral nihilism?",
+    "answer": "It claims moral statements are truth-apt but all false, because there are no moral facts.",
+    "source_title": "Ethics",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9258",
+    "evidence": "An exception is error theory, which combines cognitivism with moral nihilism by claiming that all moral statements are false because there are no moral facts.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_84_06",
+    "question": "What is ethical naturalism?",
+    "answer": "The metaethical position that moral properties or facts are reducible to, or constituted by, natural properties and can in principle be investigated empirically.",
+    "source_title": "Ethical naturalism",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9285",
+    "evidence": "Ethical naturalism (also called moral naturalism or naturalistic definism) is a position in metaethics that holds that moral properties or facts are reducible to, or constituted by, natural properties (as understood within philosophical naturalism) and can in principle be investigated using empirical or scientific methods.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_84_07",
+    "question": "Why is ethical naturalism generally regarded as a form of moral realism?",
+    "answer": "Because it holds that moral statements can be objectively true or false depending on features of the natural world.",
+    "source_title": "Ethical naturalism",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9285",
+    "evidence": "It is generally regarded as a form of moral realism, since it maintains that moral statements can be true or false depending on features of the natural world.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_84_08",
+    "question": "How do reductive and non-reductive ethical naturalists differ?",
+    "answer": "Reductive naturalists define moral properties in terms of descriptive natural properties, while non-reductive naturalists hold moral properties are natural but cannot be reduced through simple analytic definitions.",
+    "source_title": "Ethical naturalism",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9285",
+    "evidence": "Reductive naturalists attempt to define moral properties in terms of descriptive natural properties, whereas non-reductive naturalists maintain that moral properties are part of the natural world but cannot be reduced through simple analytic definitions.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_84_09",
+    "question": "Why did R. M. Hare argue that moral language cannot be reduced to natural properties?",
+    "answer": "Because moral language functions prescriptively rather than descriptively.",
+    "source_title": "Ethical naturalism",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9285",
+    "evidence": "R. M. Hare argued that moral language functions prescriptively rather than descriptively and therefore cannot be reduced to purely descriptive natural properties.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_84_10",
+    "question": "Which philosophers developed Cornell realism, a non-reductive form of ethical naturalism?",
+    "answer": "Richard Boyd, Nicholas Sturgeon, and David O. Brink, among others.",
+    "source_title": "Ethical naturalism",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9285",
+    "evidence": "One influential form of non-reductive ethical naturalism is associated with Cornell realism, a position developed by philosophers including Richard Boyd, Nicholas Sturgeon, and David O. Brink.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_84_11",
+    "question": "What did G. E. Moore mean by calling goodness a \"non-natural\" property?",
+    "answer": "Not that it is supernatural, but that goodness cannot be reduced to natural properties such as needs, wants or pleasures.",
+    "source_title": "Ethical non-naturalism",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9286",
+    "evidence": "To call goodness \"non-natural\" does not mean that it is supernatural or divine. It does mean, however, that goodness cannot be reduced to natural properties such as needs, wants or pleasures.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_84_12",
+    "question": "How does Moore's open-question argument challenge ethical naturalism?",
+    "answer": "For any natural definition of \"good\", such as \"pleasure-causing\", one can still meaningfully ask whether that thing is good, so goodness cannot be reduced to it.",
+    "source_title": "Ethical non-naturalism",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9286",
+    "evidence": "Suppose a definition of \"good\" is \"pleasure-causing.\" In other words, if something is good, it causes pleasure; if it causes pleasure, then it is, by definition, good. Moore asserted, however, that we could always ask, \"But are pleasure-causing things good?\" This would always be an open question.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_84_13",
+    "question": "If goodness is non-natural, how do ethical intuitionists say people come to know what is good?",
+    "answer": "Through a special faculty of moral intuition, attuned to non-natural properties and roughly comparable to a conscience.",
+    "source_title": "Ethical non-naturalism",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9286",
+    "evidence": "British epistemologists, following Moore, suggested that humans have a special faculty, a faculty of moral intuition, which tells us what is good and bad, right and wrong. The faculty is attuned to those non-natural properties. Perhaps the best ordinary notion that approximates moral intuition would be the idea of a conscience.",
+    "question_type": "why"
+  }
+]

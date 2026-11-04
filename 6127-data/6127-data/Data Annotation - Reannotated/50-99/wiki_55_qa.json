@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki_55_01",
+    "question": "What is the staple of Chinese Islamic cuisine, and how does this compare with other northern Chinese cuisines?",
+    "answer": "Wheat noodles rather than rice, as in other northern Chinese cuisines.",
+    "source_title": "Chinese Islamic cuisine",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6181",
+    "evidence": "Much like other northern Chinese cuisines, Chinese Islamic cuisine uses wheat noodles as the staple, rather than rice.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_55_02",
+    "question": "Why does northern Chinese Islamic cuisine rely heavily on beef while southern Chinese Islamic cuisine does not?",
+    "answer": "Ingredient availability differed: the north could obtain beef from nearby minority regions without slaughter restrictions, while its dry climate made ducks, geese and shrimp less common.",
+    "source_title": "Chinese Islamic cuisine",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6181",
+    "evidence": "Northern Chinese Islamic cuisine relies heavily on beef, but rarely ducks, geese, shrimp or seafood, while southern Islamic cuisine is the reverse. This difference is due to availability of the ingredients. Oxen have been long used for farming and Chinese governments have frequently strictly prohibited the slaughter of oxen for food. However, due to the geographic proximity of the northern part of China to minority-dominated regions that were not subjected to such restrictions, beef could be easily purchased and transported to Northern China. At the same time, ducks, geese and shrimp are rare in comparison to Southern China due to the arid climate of Northern China.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_55_03",
+    "question": "Which group created beef noodle soup?",
+    "answer": "The Hui people during the Qing dynasty.",
+    "source_title": "Chinese Islamic cuisine",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6181",
+    "evidence": "It was created by the Hui people during the Qing dynasty of China.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_55_04",
+    "question": "What is lamian, and how are its noodles made?",
+    "answer": "A hand-made noodle dish, with noodles made by repeatedly stretching a lump of dough into a very long noodle.",
+    "source_title": "Chinese Islamic cuisine",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6181",
+    "evidence": "Lamian (,) is a Chinese dish of hand-made noodles, usually served in a beef or mutton-flavored soup (,), but sometimes stir-fried (,) and served with a tomato-based sauce. means to pull or stretch, while means noodle. The hand-making process involves taking a lump of dough and repeatedly stretching it to produce a single very long noodle.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_55_05",
+    "question": "Why is Cantonese cuisine so prominent outside China?",
+    "answer": "Large-scale Cantonese emigration spread the cuisine abroad.",
+    "source_title": "Cantonese cuisine",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6182",
+    "evidence": "Its prominence outside China is due to the large number of Cantonese emigrants; until the late 20th century, most Chinese restaurants in the West served largely Cantonese dishes.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_55_06",
+    "question": "How did Guangzhou's role as China's only port for foreign trade influence Cantonese cuisine?",
+    "answer": "Foreign trade brought European customers, prompting cooks to adapt to their tastes and absorb European dishes and techniques.",
+    "source_title": "Cantonese cuisine",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6182",
+    "evidence": "During the early to middle Qing dynasty period from 1757 to 1842, Guangdong, known as Canton at the time, was the only port where trade was permitted between Chinese and foreign merchants. Cantonese cooks aimed to serve European tastes in restaurants, lending to an ongoing European influence on Cantonese cuisine. Staples of the European nobility diet at the time, particularly turtle soup, were available to British merchants and dignitaries visiting Guangdong. The British taught Cantonese cooks how to make the dish, with the Caribbean sea turtle typically used in Europe replaced by the Chinese softshell turtle.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_55_07",
+    "question": "What is \"wok hay\" in Cantonese cooking?",
+    "answer": "A cooking technique emphasizing the wok's energy and the balancing of multiple flavors through ingredients.",
+    "source_title": "Cantonese cuisine",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6182",
+    "evidence": "\"Wok hay\" is the name given to the unique Cantonese cooking technique, emphasizing the energy, or \"hay\", of the cooking vessel itself. \"Wok hay\" emphasizes the multiple flavors at play when cooking, using certain ingredients to balance the harshness of others.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_55_08",
+    "question": "In Cantonese cuisine, why is the freshest seafood best cooked by steaming with only light seasoning?",
+    "answer": "Light seasoning and steaming bring out the seafood's natural sweetness without masking it.",
+    "source_title": "Cantonese cuisine",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6182",
+    "evidence": "In Cantonese cuisine, as in cuisines from other parts of Asia, if seafood has a repugnant odour, strong spices and marinating juices are added; the freshest seafood is odourless and, in Cantonese culinary arts, is best cooked by steaming. ... In Cantonese cuisine, the light seasoning is used only to bring out the natural sweetness of the seafood.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_55_09",
+    "question": "Which regional cuisine is Teochew cuisine most similar to, and why?",
+    "answer": "Fujian cuisine, especially Southern Min, because of related cultures and languages and geographic proximity.",
+    "source_title": "Teochew cuisine",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6183",
+    "evidence": "Teochew cuisine bears more similarities to that of Fujian cuisine, particularly Southern Min cuisine, due to the similarity of Teochew's and Fujian's culture, language, and their geographic proximity to each other.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_55_10",
+    "question": "How does Teochew congee differ from Cantonese congee?",
+    "answer": "Teochew congee is watery with loose rice at the bottom, while Cantonese congee is a thin gruel.",
+    "source_title": "Teochew cuisine",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6183",
+    "evidence": "The Teochew \"\" is rather different from the Cantonese counterpart, being very watery with the rice sitting loosely at the bottom of the bowl, while the Cantonese dish is more a thin gruel.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_55_11",
+    "question": "Why is frozen Teochew crab served with crab vinegar made from brown sugar and galangal powder?",
+    "answer": "The ingredients are considered warming and therefore neutralize the crab's perceived cold nature.",
+    "source_title": "Teochew cuisine",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6183",
+    "evidence": "Crab vinegar is made by mixing brown sugar and galangal powder. Brown sugar and galangal powder are warming in nature, which can neutralize the \"cold\" nature of the crab.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_55_12",
+    "question": "What is the Dharmic concept on which Buddhist cuisine's vegetarianism is based?",
+    "answer": "Ahimsa, or non-violence.",
+    "source_title": "Buddhist cuisine",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6188",
+    "evidence": "It is vegetarian or vegan, and it is based on the Dharmic concept of ahimsa (non-violence).",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_55_13",
+    "question": "How does the approach of Theravada monks to eating meat differ from that of the Mahayana monastic community in Chinese Buddhism?",
+    "answer": "Theravada monastics generally accept offered alms, including meat; the Chinese Mahayana monastic community strictly observes vegetarianism.",
+    "source_title": "Buddhist cuisine",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6188",
+    "evidence": "The Mahayana monastic community in Chinese Buddhism, Vietnamese Buddhism and most of Korean Buddhism strictly adhere to vegetarianism. Theravada Buddhist monks and nuns consume food by gathering alms themselves, and generally must eat whatever foods are offered to them, including meat.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_55_14",
+    "question": "Why do many Mahayana monastics avoid the \"five pungent vegetables\" such as garlic and shallot?",
+    "answer": "They are believed to excite the senses.",
+    "source_title": "Buddhist cuisine",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6188",
+    "evidence": "In addition to the ban on garlic, practically all Mahayana monastics in China, Korea, Vietnam and Japan specifically avoid eating strong-smelling plants, traditionally asafoetida, shallot, mountain leek and Chinese onion, which together with garlic are referred to as \"wǔ hūn\" (五葷, or 'Five Acrid, pungent and Strong-smelling Vegetables') or \"wǔ xīn\" (五辛 or 'Five Spices') as they tend to excite senses.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_55_15",
+    "question": "What materials do Buddhist vegetarian chefs use to imitate meat, and why are soy and wheat gluten especially suitable?",
+    "answer": "Wheat gluten, soy products, agar, konnyaku and other plants; soy and gluten take varied shapes and textures and absorb flavors while contributing little taste themselves.",
+    "source_title": "Buddhist cuisine",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6188",
+    "evidence": "Buddhist vegetarian chefs have become extremely creative in imitating meat using prepared wheat gluten, also known as seitan, kao fu (烤麸) or wheat meat, soy (such as tofu or tempeh), agar, konnyaku and other plant products. ... Soy and wheat gluten are very versatile materials, because they can be manufactured into various shapes and textures, and they absorb flavorings (including, but not limited to, meat-like flavorings), while having very little flavor of their own.",
+    "question_type": "factual"
+  }
+]

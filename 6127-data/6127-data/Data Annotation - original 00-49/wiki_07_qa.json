@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki_07_01",
+    "question": "How do physicists distinguish atomic physics from nuclear physics?",
+    "answer": "Atomic physics deals with the atom as a system consisting of a nucleus and electrons, while nuclear physics studies nuclear reactions and special properties of atomic nuclei.",
+    "source_title": "Atomic physics",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1200",
+    "evidence": "Physicists distinguish between atomic physics—which deals with the atom as a system consisting of a nucleus and electrons—and nuclear physics, which studies nuclear reactions and special properties of atomic nuclei.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_07_02",
+    "question": "Why can atoms in a gas or plasma be treated as if each were in isolation?",
+    "answer": "Because the time-scales for atom-atom interactions are huge compared with the atomic processes being considered, so atoms are isolated for the vast majority of the time.",
+    "source_title": "Atomic physics",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1200",
+    "evidence": "While modelling atoms in isolation may not seem realistic, if one considers atoms in a gas or plasma then the time-scales for atom-atom interactions are huge in comparison to the atomic processes that are generally considered. This means that the individual atoms can be treated as if each were in isolation, as the vast majority of the time they are.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_07_03",
+    "question": "What is the Auger effect?",
+    "answer": "A process in which energy released when an outer electron fills an inner vacancy is transferred to another bound electron, which is ejected into the continuum.",
+    "source_title": "Atomic physics",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1200",
+    "evidence": "If an inner electron has absorbed more than the binding energy (so that the atom ionizes), then a more outer electron may undergo a transition to fill the inner orbital. In this case, a visible photon or a characteristic X-ray is emitted, or a phenomenon known as the Auger effect may take place, where the released energy is transferred to another bound electron, causing it to go into the continuum.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_07_04",
+    "question": "What happens when a bound electron absorbs an amount of energy smaller than its binding energy?",
+    "answer": "It moves to an excited state, and later transitions to a lower state, emitting a photon carrying the energy difference.",
+    "source_title": "Atomic physics",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1200",
+    "evidence": "If the electron absorbs a quantity of energy less than the binding energy, it will be transferred to an excited state. After a certain time, the electron in an excited state will \"jump\" (undergo a transition) to a lower state. In a neutral atom, the system will emit a photon of the difference in energy, since energy is conserved.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_07_05",
+    "question": "What discovery is said to mark the true beginning of atomic physics?",
+    "answer": "The discovery of spectral lines and the attempts to describe them, most notably by Joseph von Fraunhofer.",
+    "source_title": "Atomic physics",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1200",
+    "evidence": "The true beginning of atomic physics is marked by the discovery of spectral lines and attempts to describe the phenomenon, most notably by Joseph von Fraunhofer.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_07_06",
+    "question": "What is an atomic orbital in quantum mechanics?",
+    "answer": "A function describing the location and wave-like behavior of an electron in an atom, which can be used to calculate the probability of finding the electron in a region around the nucleus.",
+    "source_title": "Atomic orbital",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1206",
+    "evidence": "In quantum mechanics, an atomic orbital is a function describing the location and wave-like behavior of an electron in an atom. This function describes an electron's charge distribution around the atom's nucleus, and can be used to calculate the probability of finding an electron in a specific region around the nucleus.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_07_07",
+    "question": "Where do the names of the s, p, d and f orbitals come from?",
+    "answer": "From early spectroscopists' descriptions of series of alkali metal spectral lines as sharp, principal, diffuse and fundamental.",
+    "source_title": "Atomic orbital",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1206",
+    "evidence": "These names, together with their n values, are used to describe electron configurations of atoms. They are derived from description by early spectroscopists of certain series of alkali metal spectroscopic lines as sharp, principal, diffuse, and fundamental.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_07_08",
+    "question": "What fundamental defect did Hantaro Nagaoka recognize in his own \"Saturnian\" model of the atom?",
+    "answer": "A classical charged object cannot sustain orbital motion, because it is accelerating and therefore loses energy through electromagnetic radiation.",
+    "source_title": "Atomic orbital",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1206",
+    "evidence": "Few people took notice of Nagaoka's work at the time, and Nagaoka himself recognized a fundamental defect in the theory even at its conception, namely that a classical charged object cannot sustain orbital motion because it is accelerating and therefore loses energy due to electromagnetic radiation.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_07_09",
+    "question": "What feature of the periodic table could the Bohr model not explain?",
+    "answer": "Similarities between different atoms, such as the similar chemical inertness of helium, neon and argon.",
+    "source_title": "Atomic orbital",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1206",
+    "evidence": "However, this did not explain similarities between different atoms, as expressed by the periodic table, such as the fact that helium (two electrons), neon (10 electrons), and argon (18 electrons) exhibit similar chemical inertness.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_07_10",
+    "question": "How do relativistic effects on electrons lower the melting temperature of mercury?",
+    "answer": "Relativistic contraction lowers the energy of 6s valence electrons, so these electrons are not available for metal bonding.",
+    "source_title": "Atomic orbital",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1206",
+    "evidence": "This relativistic increase in momentum for high speed electrons causes a corresponding decrease in wavelength and contraction of 6s orbitals relative to 5d orbitals (by comparison to corresponding s and d electrons in lighter elements in the same column of the periodic table); this results in 6s valence electrons becoming lowered in energy.\nExamples of significant physical outcomes of this effect include the lowered melting temperature of mercury (which results from 6s electrons not being available for metal bonding) and the golden color of gold and caesium.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_07_11",
+    "question": "Why is the Bohr model described as a semi-classical model in current physics?",
+    "answer": "Primarily because of its quantization of angular momentum, not because of its relationship with electron wavelength.",
+    "source_title": "Atomic orbital",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1206",
+    "evidence": "In our current understanding of physics, the Bohr model is called a semi-classical model because of its quantization of angular momentum, not primarily because of its relationship with electron wavelength, which appeared in hindsight a dozen years after the Bohr model was proposed.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_07_12",
+    "question": "Why is alpha decay the most common form of cluster decay?",
+    "answer": "Because of the alpha particle's combination of extremely high nuclear binding energy and relatively small mass.",
+    "source_title": "Alpha decay",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1267",
+    "evidence": "It is the most common form because of the combined extremely high nuclear binding energy and relatively small mass of the alpha particle.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_07_13",
+    "question": "According to the quantum tunneling theory, how does an alpha particle escape from the nucleus?",
+    "answer": "It tunnels through the confining potential barrier rather than acquiring enough energy to pass over it.",
+    "source_title": "Alpha decay",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1267",
+    "evidence": "Essentially, the alpha particle escapes from the nucleus not by acquiring enough energy to pass over the wall confining it, but by tunneling through the wall.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_07_14",
+    "question": "What is the main source of the helium produced on Earth?",
+    "answer": "The alpha decay of underground mineral deposits containing uranium or thorium; the helium is brought up as a by-product of natural gas production.",
+    "source_title": "Alpha decay",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1267",
+    "evidence": "Approximately 99% of the helium produced on Earth is the result of the alpha decay of underground deposits of minerals containing uranium or thorium. The helium is brought to the surface as a by-product of natural gas production.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_07_15",
+    "question": "How does the danger of alpha radiation differ between an external source and internal contamination?",
+    "answer": "Externally it is typically harmless because alpha particles are stopped by air, paper or dead skin, but internally they deposit their energy in a small volume, increasing the chance of DNA double-strand breaks.",
+    "source_title": "Alpha decay",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1267",
+    "evidence": "Highly charged and heavy, alpha particles lose their several MeV of energy within a small volume of material, along with a very short mean free path. This increases the chance of double-strand breaks to the DNA in cases of internal contamination, when ingested, inhaled, injected or introduced through the skin. Otherwise, touching an alpha source is typically not harmful, as alpha particles are effectively shielded by a few centimeters of air, a piece of paper, or the thin layer of dead skin cells that make up the epidermis;",
+    "question_type": "comparison"
+  }
+]

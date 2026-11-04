@@ -1,0 +1,128 @@
+[
+  {
+    "id": "wiki_69_01",
+    "question": "What does the \"CV\" in the abbreviation CVBG stand for?",
+    "answer": "It is the United States Navy hull classification code for an aircraft carrier.",
+    "source_title": "Carrier battle group",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7772",
+    "evidence": "The \"CV\" in \"CVBG\" is the United States Navy hull classification code for an aircraft carrier.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_69_02",
+    "question": "How did the Imperial Japanese Navy's use of carriers in World War II differ from the early United States Navy approach?",
+    "answer": "Japan assembled many carriers into a single task force (the Kido Butai), while the US deployed its large carriers in separate formations, each with its own cruiser and destroyer escorts.",
+    "source_title": "Carrier battle group",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7772",
+    "evidence": "The Imperial Japanese Navy (IJN) was the first to assemble many carriers into a single task force, known as the \"Kido Butai\". ... In contrast, the United States Navy deployed its large carriers in separate formations, with each carrier assigned its own cruiser and destroyer escorts.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_69_03",
+    "question": "Why did Cold War carrier battle groups devote enormous resources to anti-submarine warfare?",
+    "answer": "Because a primary mission of the Soviet Navy's attack submarines was to track every allied battle group and sink the carriers if hostilities broke out.",
+    "source_title": "Carrier battle group",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7772",
+    "evidence": "However, a primary mission of the Soviet Navy's attack submarines was to track every allied battle group and, on the outbreak of hostilities, sink the carriers. Understanding this threat, the CVBG expended enormous resources in its own anti-submarine warfare mission.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_69_04",
+    "question": "Which helicopters were traditionally part of a US Navy expeditionary strike group alongside its Marine expeditionary unit?",
+    "answer": "CH-53E Super Stallion and CH-46E Sea Knight helicopters, or more recently MV-22B tiltrotors.",
+    "source_title": "Carrier battle group",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7772",
+    "evidence": "An expeditionary strike group is composed of an amphibious assault ship (landing helicopter assault/landing helicopter dock), a dock landing ship, an amphibious transport dock, a Marine expeditionary unit, AV-8B Harrier II or, more the newer Lockheed Martin F-35B Lightning II aircraft, CH-53E Super Stallion and CH-46E Sea Knight helicopters or, more recently, MV-22B tiltrotors.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_69_05",
+    "question": "What do opponents argue makes carrier battle groups increasingly vulnerable in 21st-century naval warfare?",
+    "answer": "Arsenal ships and cruise missiles, especially supersonic or hypersonic ones able to make radical trajectory changes to avoid anti-missile systems.",
+    "source_title": "Carrier battle group",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7772",
+    "evidence": "Opponents argue that CVBGs are increasingly vulnerable to arsenal ships and cruise missiles, especially those with supersonic or even hypersonic flight and the ability to perform radical trajectory changes to avoid anti-missile systems.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_69_06",
+    "question": "What type of aircraft is the Boeing Vertol CH-46 Sea Knight?",
+    "answer": "A medium-lift tandem-rotor transport helicopter powered by twin turboshaft engines.",
+    "source_title": "Boeing Vertol CH-46 Sea Knight",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7773",
+    "evidence": "The Boeing Vertol CH-46 Sea Knight is an American medium-lift tandem-rotor transport helicopter powered by twin turboshaft engines.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_69_07",
+    "question": "How did the Vertol Model 107 differ from earlier tandem-rotor helicopters such as the H-21 \"Flying Banana\"?",
+    "answer": "It used the newly developed turboshaft engine instead of piston engines.",
+    "source_title": "Boeing Vertol CH-46 Sea Knight",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7773",
+    "evidence": "During 1956, the new design received the internal company designation of \"Vertol Model 107\", or simply \"V-107\"; this rotorcraft differed from its predecessors by harnessing the newly developed turboshaft engine instead of piston-based counterparts.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_69_08",
+    "question": "What caused the series of CH-46 Sea Knight crashes in 1967, according to the joint Naval Air Systems Command and Boeing Vertol investigation?",
+    "answer": "Structural failures in the area of the rear pylon, which caused the rear rotor to tear off in flight.",
+    "source_title": "Boeing Vertol CH-46 Sea Knight",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7773",
+    "evidence": "An investigation conducted by a joint Naval Air Systems Command/Boeing Vertol accident investigation team revealed that structural failures were occurring in the area of the rear pylon resulting in the rear rotor tearing off in flight and may have been the cause of several earlier losses.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_69_09",
+    "question": "Which aircraft replaced the CH-46 Sea Knight in the US Navy and in the US Marine Corps?",
+    "answer": "The Navy replaced it with the MH-60S Seahawk, and the Marine Corps with the MV-22 Osprey.",
+    "source_title": "Boeing Vertol CH-46 Sea Knight",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7773",
+    "evidence": "The U.S. Navy retired the type on 24 September 2004, replacing it with the MH-60S Seahawk; the Marine Corps maintained its fleet as the MV-22 Osprey was fielded.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_69_10",
+    "question": "Does the chief of naval operations have operational command authority over US naval forces?",
+    "answer": "No; the CNO is an administrative position, and operational command of naval forces falls to the combatant commanders who report to the secretary of defense.",
+    "source_title": "Chief of Naval Operations",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7774",
+    "evidence": "Despite the title, the CNO does not have operational command authority over naval forces. The CNO is an administrative position based in the Pentagon, and exercises supervision of Navy organizations as the designee of the secretary of the Navy. Operational command of naval forces falls within the purview of the combatant commanders who report to the secretary of defense.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_69_11",
+    "question": "Why did Bradley A. Fiske lose any chance of becoming the first chief of naval operations?",
+    "answer": "Because he \"end-ran\" (went around) Navy Secretary Josephus Daniels.",
+    "source_title": "Chief of Naval Operations",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7774",
+    "evidence": "Fiske's \"end-running\" of Daniels eliminated any possibility of him being named the first CNO.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_69_12",
+    "question": "Why did CNO William V. Pratt remove the chief of naval operations as an ex officio member of the General Board?",
+    "answer": "He was concerned the association could hamper diversity of opinion between the Board and the offices of the Navy secretary and OPNAV.",
+    "source_title": "Chief of Naval Operations",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7774",
+    "evidence": "To this effect, Pratt removed the CNO as an \"ex officio\" member of the General Board, concerned that the office's association with the Board could hamper diversities of opinion between the former and counterparts within the offices of the Navy secretary and OPNAV.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_69_13",
+    "question": "What two concepts did Charles C. Krulak identify as key lessons from deployments in Somalia, Haiti and Bosnia?",
+    "answer": "The \"Strategic Corporal\" and the Three Block War.",
+    "source_title": "Charles C. Krulak",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7740",
+    "evidence": "Krulak famously referred to the \"Strategic Corporal\" and the Three Block War as two of the key lessons identified from the deployments in Somalia, Haiti and Bosnia.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_69_14",
+    "question": "Why was Charles C. Krulak awarded the Silver Star?",
+    "answer": "For conspicuous gallantry and intrepidity in action as commanding officer of Company L, Third Battalion, Third Marines, during combat operations in Vietnam.",
+    "source_title": "Charles C. Krulak",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7740",
+    "evidence": "The President of the United States of America takes pleasure in presenting the Silver Star to Captain Charles Chandler Krulak, United States Marine Corps, for conspicuous gallantry and intrepidity in action while serving as Commanding Officer of Company L, Third Battalion, Third Marines, Third Marine Division, during combat operations against the enemy in the Republic of Vietnam.",
+    "question_type": "why"
+  }
+]

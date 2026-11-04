@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki_13_01",
+    "question": "Why did Alexander Fleming conclude that antiseptics were killing more soldiers than infection itself during World War I?",
+    "answer": "Antiseptics worked only on the surface while deep wounds sheltered anaerobic bacteria, and they removed the body's protective agents as well as bacteria without reaching the bacteria out of reach.",
+    "source_title": "Alexander Fleming",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1937",
+    "evidence": "Antiseptics worked well on the surface, but deep wounds tended to shelter anaerobic bacteria from the antiseptic agent, and antiseptics seemed to remove beneficial agents produced that protected the patients in these cases at least as well as they removed bacteria, and did nothing to remove the bacteria that were out of reach.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_13_02",
+    "question": "How did Alexander Fleming define the substance he named lysozyme?",
+    "answer": "A substance in the body's tissues and secretions that can rapidly dissolve certain bacteria and has properties akin to ferments.",
+    "source_title": "Alexander Fleming",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1937",
+    "evidence": "In this communication I wish to draw attention to a substance present in the tissues and secretions of the body, which is capable of rapidly dissolving certain bacteria. As this substance has properties akin to those of ferments I have called it a \"Lysozyme\", and shall refer to it by this name throughout the communication.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_13_03",
+    "question": "What observation on a contaminated culture plate led Alexander Fleming to discover penicillin?",
+    "answer": "A fungus contaminating a staphylococci culture had destroyed the colonies immediately around it while colonies farther away stayed normal.",
+    "source_title": "Alexander Fleming",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1937",
+    "evidence": "On his return, Fleming noticed that one culture was contaminated with a fungus, and that the colonies of staphylococci immediately surrounding the fungus had been destroyed, whereas other staphylococci colonies farther away were normal, famously remarking \"That's funny\".",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_13_04",
+    "question": "Under what circumstances did Alexander Fleming find that bacteria developed resistance to penicillin?",
+    "answer": "When too little penicillin was used or when it was used for too short a period.",
+    "source_title": "Alexander Fleming",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1937",
+    "evidence": "Fleming also discovered very early that bacteria developed antibiotic resistance whenever too little penicillin was used or when it was used for too short a period.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_13_05",
+    "question": "What was the \"Fleming myth\" surrounding the development of penicillin?",
+    "answer": "The misconception that Fleming alone was responsible for discovering and developing penicillin, which arose because Florey barred the Oxford team from media coverage so only Fleming was publicised.",
+    "source_title": "Alexander Fleming",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1937",
+    "evidence": "Wright wrote to the editor of \"The Times\", which eagerly interviewed Fleming, but Florey prohibited the Oxford team from seeking media coverage. As a consequence, only Fleming was widely publicised in the media, which led to the misconception that he was entirely responsible for the discovery and development of the drug. Fleming himself referred to this incident as \"the Fleming myth.\"",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_13_06",
+    "question": "How does ampicillin differ chemically from penicillin G, and what advantage does the difference give it?",
+    "answer": "It differs only by an amino group, which helps it pass through the pores of the outer membrane of gram-negative bacteria.",
+    "source_title": "Ampicillin",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1912",
+    "evidence": "Ampicillin is able to penetrate gram-positive and some gram-negative bacteria. It differs from penicillin G, or benzylpenicillin, only by the presence of an amino group. This amino group, present on both ampicillin and amoxicillin, helps these antibiotics pass through the pores of the outer membrane of gram-negative bacteria, such as \"Escherichia coli\", \"Proteus mirabilis\", \"Salmonella enterica\", and \"Shigella\".",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_13_07",
+    "question": "How does ampicillin kill bacteria?",
+    "answer": "It irreversibly inhibits transpeptidase, the enzyme bacteria need to build their cell wall, leading to cell lysis.",
+    "source_title": "Ampicillin",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1912",
+    "evidence": "Ampicillin acts as an irreversible inhibitor of the enzyme transpeptidase, which is needed by bacteria to make the cell wall. It inhibits the third and final stage of bacterial cell wall synthesis in binary fission, which ultimately leads to cell lysis; therefore, ampicillin is usually bacteriolytic.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_13_08",
+    "question": "Why is ampicillin sometimes co-administered with sulbactam?",
+    "answer": "Sulbactam inhibits beta-lactamase, the bacterial enzyme that inactivates ampicillin, so it enhances ampicillin's spectrum of activity.",
+    "source_title": "Ampicillin",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1912",
+    "evidence": "Activity against gram-negative bacteria includes \"Neisseria meningitidis\", some \"Haemophilus influenzae\", and some of the Enterobacteriaceae (though most Enterobacteriaceae and \"Pseudomonas\" are resistant). Its spectrum of activity is enhanced by co-administration of sulbactam, a drug that inhibits beta lactamase, an enzyme produced by bacteria to inactivate ampicillin and related antibiotics.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_13_09",
+    "question": "Why is ampicillin no longer used to treat gonorrhea?",
+    "answer": "Too many gonorrhea strains are now resistant to penicillins.",
+    "source_title": "Ampicillin",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1912",
+    "evidence": "Ampicillin used to also be used to treat gonorrhea, but there are now too many strains resistant to penicillins.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_13_10",
+    "question": "How did ampicillin, introduced by Beecham, broaden penicillin therapy compared with earlier penicillins?",
+    "answer": "Earlier penicillin therapies worked only against gram-positive organisms such as staphylococci and streptococci, while ampicillin was also active against gram-negative organisms such as H. influenzae and coliforms.",
+    "source_title": "Ampicillin",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1912",
+    "evidence": "Until the introduction of ampicillin by the British company Beecham, penicillin therapies had only been effective against gram-positive organisms such as staphylococci and streptococci. Ampicillin (originally branded as \"Penbritin\") also demonstrated activity against gram-negative organisms such as \"H. influenzae\", coliforms, and \"Proteus\" spp.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_13_11",
+    "question": "How does microbiological antibiotic resistance differ from clinical antibiotic resistance?",
+    "answer": "Microbiological resistance comes from mutated or inherited genes that let bacteria resist an antibiotic's killing mechanism, while clinical resistance is shown when normally susceptible bacteria become resistant after surviving treatment.",
+    "source_title": "Antimicrobial resistance",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1914",
+    "evidence": "Microbiological resistance is the most common and occurs from genes, mutated or inherited, that allow the bacteria to resist the mechanism to kill the microbe associated with certain antibiotics. Clinical resistance is shown through the failure of many therapeutic techniques where the bacteria that are normally susceptible to a treatment become resistant after surviving the outcome of the treatment.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_13_12",
+    "question": "What is horizontal gene transfer in the context of antimicrobial resistance?",
+    "answer": "The swapping of genes between microbes, through which a resistance gene can spread from one microbe to others, even from harmless microbes to disease-causing ones.",
+    "source_title": "Antimicrobial resistance",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1914",
+    "evidence": "Antimicrobial resistance can be acquired from other microbes through swapping genes in a process termed horizontal gene transfer. This means that once a gene for resistance to an antibiotic appears in a microbial community, it can then spread to other microbes, potentially moving from a non-disease causing microbe to a disease-causing microbe.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_13_13",
+    "question": "How can stopping a course of antibiotics once a patient feels better contribute to antibiotic resistance?",
+    "answer": "Less susceptible microbes may remain in the body and continue to reproduce, leading to an infection by bacteria that are less susceptible or resistant to the antibiotic.",
+    "source_title": "Antimicrobial resistance",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1914",
+    "evidence": "Many individuals stop taking antibiotics when they begin to feel better. When this occurs, it is possible that the microbes that are less susceptible to treatment still remain in the body. If these microbes are able to continue to reproduce, this can lead to an infection by bacteria that are less susceptible or even resistant to an antibiotic.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_13_14",
+    "question": "Why does the WHO AWaRe guidance prefer narrow-spectrum antibiotics?",
+    "answer": "Because they have lower resistance potential, with broad-spectrum antibiotics recommended only for more severe symptoms.",
+    "source_title": "Antimicrobial resistance",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1914",
+    "evidence": "The WHO AWaRe (Access, Watch, Reserve) guidance and antibiotic book has been introduced to guide antibiotic choice for the 30 most common infections in adults and children to reduce inappropriate prescribing in primary care and hospitals. Narrow-spectrum antibiotics are preferred due to their lower resistance potential, and broad-spectrum antibiotics are only recommended for people with more severe symptoms.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_13_15",
+    "question": "What happened to the clinical effectiveness of the original penicillin discovered by Alexander Fleming?",
+    "answer": "It rapidly lost clinical effectiveness in treating humans, and none of the other natural penicillins are currently in clinical use.",
+    "source_title": "Antimicrobial resistance",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1914",
+    "evidence": "Also, many soil fungi and bacteria are natural competitors and the original antibiotic penicillin discovered by Alexander Fleming rapidly lost clinical effectiveness in treating humans and, furthermore, none of the other natural penicillins (F, K, N, X, O, U1 or U6) are currently in clinical use.",
+    "question_type": "factual"
+  }
+]

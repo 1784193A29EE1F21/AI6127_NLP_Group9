@@ -1,0 +1,110 @@
+[
+  {
+    "id": "wiki_31_01",
+    "question": "Why did John G. Kemeny and Thomas E. Kurtz create BASIC?",
+    "answer": "To enable students in non-scientific fields to use computers, at a time when nearly all computers required custom software that mainly scientists and mathematicians learned.",
+    "source_title": "BASIC",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4015",
+    "evidence": "The original version was created by John G. Kemeny and Thomas E. Kurtz at Dartmouth College in 1964. They wanted to enable students in non-scientific fields to use computers. At the time, nearly all computers required writing custom software, which only scientists and mathematicians tended to learn.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_31_02",
+    "question": "Why was BASIC usually implemented as an interpreter rather than a compiler on minicomputers?",
+    "answer": "Because interpreters required less working memory, and these machines had small main memory and lacked high-performance storage.",
+    "source_title": "BASIC",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4015",
+    "evidence": "BASIC, by its very nature of being small, was naturally suited to porting to the minicomputer market, which was emerging at the same time as the time-sharing services. These machines had small main memory, perhaps as little as 4 KB in modern terminology, and lacked high-performance storage like hard drives that make compilers practical. On these systems, BASIC was normally implemented as an interpreter rather than a compiler due to its lower requirement for working memory.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_31_03",
+    "question": "What led Bill Gates to write his Open Letter to Hobbyists?",
+    "answer": "Members of the Homebrew Computer Club circulating copies of Micro-Soft's BASIC, an early example of software piracy.",
+    "source_title": "BASIC",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4015",
+    "evidence": "Members of the Homebrew Computer Club began circulating copies of the program, causing Gates to write his Open Letter to Hobbyists, complaining about this early example of software piracy.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_31_04",
+    "question": "What caused BASIC to decline in popularity in the 1990s?",
+    "answer": "More powerful microcomputers made languages with advanced features such as Pascal and C practical, and most nontechnical users relied on pre-written applications.",
+    "source_title": "BASIC",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4015",
+    "evidence": "BASIC declined in popularity in the 1990s, as more powerful microcomputers came to market and programming languages with advanced features (such as Pascal and C) became tenable on such computers. By then, most nontechnical personal computer users relied on pre-written applications rather than writing their own programs.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_31_05",
+    "question": "What is BCPL, and what was it originally intended for?",
+    "answer": "A procedural, imperative, structured programming language originally intended for writing compilers for other languages.",
+    "source_title": "BCPL",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4052",
+    "evidence": "BCPL (Basic Combined Programming Language) is a procedural, imperative, and structured programming language. Originally intended for writing compilers for other languages, BCPL is no longer in common use.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_31_06",
+    "question": "How is BCPL connected to the C programming language?",
+    "answer": "A stripped-down, syntactically changed version of BCPL called B was the language on which C was based.",
+    "source_title": "BCPL",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4052",
+    "evidence": "However, its influence is still felt because a stripped down and syntactically changed version of BCPL, called B, was the language on which the C programming language was based.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_31_07",
+    "question": "Why was the BCPL compiler so easily portable to new machines?",
+    "answer": "It was split into a front end that generated an intermediate O-code and a back end that translated O-code into machine code, so only part of the compiler had to be rewritten.",
+    "source_title": "BCPL",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4052",
+    "evidence": "A major reason for the compiler's portability lay in its structure. It was split into two parts: the front end parsed the source and generated O-code, an intermediate language. The back end took the O-code and translated it into the machine code for the target machine.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_31_08",
+    "question": "Why did BCPL's single word data type become a problem on later hardware?",
+    "answer": "Because it caused difficulties on machines where the smallest addressable item was a byte rather than a word, or on machines with larger word sizes.",
+    "source_title": "BCPL",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4052",
+    "evidence": "The language is unusual in having only one data type: a word, a fixed number of bits, usually chosen to align with the same platform architecture's machine word and of adequate capacity to represent any valid storage address. For many machines of the time, this data type was a 16-bit word. This choice later proved to be a significant problem when BCPL was used on machines in which the smallest addressable item was not a word but a byte or on machines with larger word sizes such as 32-bit or 64-bit.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_31_09",
+    "question": "What role did Brian Kernighan have in creating the C programming language?",
+    "answer": "He co-authored the first book on C with Dennis Ritchie but had no part in designing the language, which he said was entirely Ritchie's work.",
+    "source_title": "Brian Kernighan",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4051",
+    "evidence": "Kernighan's name became widely known through co-authorship of the first book on the C programming language (\"The C Programming Language\") with Dennis Ritchie. Kernighan affirmed that he had no part in the design of the C language (\"it's entirely Dennis Ritchie's work\").",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_31_10",
+    "question": "What does Kernighan's phrase \"What You See Is All You Get\" (WYSIAYG) mean?",
+    "answer": "It is a sarcastic variant of WYSIWYG, indicating that WYSIWYG systems might throw away information in a document that could be useful in other contexts.",
+    "source_title": "Brian Kernighan",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4051",
+    "evidence": "Kernighan is also known for coining the expression \"What You See Is All You Get\" (WYSIAYG), which is a sarcastic variant of the original \"What You See Is What You Get\" (WYSIWYG). Kernighan's term is used to indicate that WYSIWYG systems might throw away information in a document that could be useful in other contexts.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_31_11",
+    "question": "How do the names of the two optimization heuristics Kernighan devised with Shen Lin differ?",
+    "answer": "The graph partitioning one is called the Kernighan–Lin algorithm, while the travelling salesman one is called the Lin–Kernighan heuristic.",
+    "source_title": "Brian Kernighan",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4051",
+    "evidence": "In collaboration with Shen Lin he devised well-known heuristics for two NP-complete optimization problems: graph partitioning and the travelling salesman problem. In a display of authorial equity, the former is usually called the Kernighan–Lin algorithm, while the latter is known as the Lin–Kernighan heuristic.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_31_12",
+    "question": "How did Kernighan's 1972 tutorial in the B programming language influence programming examples?",
+    "answer": "He described memory management in strings using \"hello\" and \"world\", which became the iconic example known today.",
+    "source_title": "Brian Kernighan",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4051",
+    "evidence": "In 1972, Kernighan described memory management in strings using \"hello\" and \"world\", in the B programming language, which became the iconic example we know today.",
+    "question_type": "cause_effect"
+  }
+]

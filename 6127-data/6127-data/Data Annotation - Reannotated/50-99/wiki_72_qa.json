@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki_72_01",
+    "question": "Why is the flow of the Congo River unusually regular?",
+    "answer": "Tributaries on opposite sides of the equator have alternating wet and dry seasons, maintaining a steady water supply.",
+    "source_title": "Geography of the Democratic Republic of the Congo",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8023",
+    "evidence": "Its flow is unusually regular because it is fed by rivers and streams from both sides of the equator; the complementary alternation of rainy and dry seasons on each side of the equator guarantees a regular supply of water for the main channel.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_72_02",
+    "question": "What creates the Congo River system's exceptionally large hydroelectric potential?",
+    "answer": "Sudden river descents at rapids and waterfalls.",
+    "source_title": "Geography of the Democratic Republic of the Congo",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8023",
+    "evidence": "At points where navigation is blocked by rapids and waterfalls, the sudden descent of the river creates a hydroelectric potential greater than that found in any other river system on earth.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_72_03",
+    "question": "What are Lac Mai-Ndombe and Lac Tumba remnants of?",
+    "answer": "A huge interior lake that once filled the basin before the Congo breached its edge and drained it.",
+    "source_title": "Geography of the Democratic Republic of the Congo",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8023",
+    "evidence": "In the west are Lac Mai-Ndombe and Lac Tumba, which are remnants of a huge interior lake that once occupied the entire basin prior to the breach of the basin's edge by the Congo River and the subsequent drainage of the interior.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_72_04",
+    "question": "Where do most of the Democratic Republic of the Congo's greenhouse gas emissions come from?",
+    "answer": "Land-use change and deforestation.",
+    "source_title": "Geography of the Democratic Republic of the Congo",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8023",
+    "evidence": "As of 2023, the DRC is the 18th highest emitting nation of greenhouse gases and the highest emitter on the African continent. The majority of these emissions arise from land use change and deforestation, as the country uses little fossil fuel and only one-fifth of the population has access to electricity.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_72_05",
+    "question": "What has held back the Democratic Republic of the Congo's growth since independence, when it was Africa's second most industrialized country?",
+    "answer": "Decades of corruption, war and political instability.",
+    "source_title": "Economy of the Democratic Republic of the Congo",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8025",
+    "evidence": "At the time of its independence in 1960, the Democratic Republic of the Congo was the second most industrialized country in Africa after South Africa. ... Since then, decades of corruption, war, and political instability have been a severe detriment to further growth, today leaving DRC with a GDP per capita and a HDI rating that rank among the world's lowest and make the DRC one of the most fragile and, according to the United Nations, least developed countries in the world.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_72_06",
+    "question": "Why did the departure of Belgians at independence cripple the Congolese government?",
+    "answer": "Most officials and educated residents left, depriving the government of institutional knowledge and human capital; very few government posts had been held by Congolese people.",
+    "source_title": "Economy of the Democratic Republic of the Congo",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8025",
+    "evidence": "When the Belgians left, most of the government officials and educated residents left with them. Before independence, there were just 3 out of 5000 government jobs held by Congolese people. The resulting loss of institutional knowledge and human capital crippled the government.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_72_07",
+    "question": "What did IMF envoy Erwin Blumenthal's 1982 report conclude about Zaire under Mobutu?",
+    "answer": "Zaire's entrenched corruption, mismanagement and fraud would undermine international efforts at economic recovery.",
+    "source_title": "Economy of the Democratic Republic of the Congo",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8025",
+    "evidence": "This was not a secret, as the 1982 report by IMF's envoy, Erwin Blumenthal, documented. He stated, \"It is alarmingly clear that the corruptive system in Zaire, with all its wicked and ugly manifestations, its mismanagement and fraud, will destroy all endeavors of international institutions, of friendly governments, and of the commercial banks towards recovery and rehabilitation of Zaire’s economy\".",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_72_08",
+    "question": "What is coltan, and how has its smuggling affected the eastern Congo?",
+    "answer": "Coltan is tantalum ore; smuggling it and other conflict minerals helped fuel war in eastern Congo.",
+    "source_title": "Economy of the Democratic Republic of the Congo",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8025",
+    "evidence": "Smuggling of the conflict minerals, coltan and cassiterite (ores of tantalum and tin, respectively), has helped fuel the war in the Eastern Congo.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_72_09",
+    "question": "What system of government does the Democratic Republic of the Congo have under its current constitution?",
+    "answer": "A decentralized semi-presidential republic with separated executive, legislative and judicial powers and powers divided between central government and provinces.",
+    "source_title": "Politics of the Democratic Republic of the Congo",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8026",
+    "evidence": "The constitution, adopted by referendum in 2005, and promulgated by President Joseph Kabila in February 2006, establishes a decentralized semi-presidential republic, with a separation of powers between the three branches of government – executive, legislative and judiciary, and a distribution of prerogatives between the central government and the provinces.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_72_10",
+    "question": "Which event do the conflicts in the Democratic Republic of the Congo since 1996 originate from?",
+    "answer": "The 1994 Rwandan genocide and the subsequent destabilization of eastern Congo.",
+    "source_title": "Politics of the Democratic Republic of the Congo",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8026",
+    "evidence": "These conflicts originated from the 1994 Rwandan genocide and subsequent destabilization of the DRC's eastern region.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_72_11",
+    "question": "What was the \"authentic\" system that Mobutu Sese Seko's regime claimed to pursue in Zaire?",
+    "answer": "A supposedly authentic political system distinct from both Western and Soviet influences.",
+    "source_title": "Politics of the Democratic Republic of the Congo",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8026",
+    "evidence": "The regime of President Mobutu Sese Seko lasted 32 years (1965–1997), during which all but the first seven years the country was named Zaire. His dictatorship operated as a one-party state, which saw most of the powers concentrated between President Mobutu, who was simultaneously the head of both the party and the state through the Popular Movement of the Revolution (MPR), and a series of essentially rubber-stamping institutions. One particularity of the Regime was the claim to be thriving for an \"authentic\" system, different from Western or Soviet influences.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_72_12",
+    "question": "Why have critics called the Congo's semi-presidential system \"conflictogenic\"?",
+    "answer": "Opposing political affiliations of president and prime minister can produce friction and slow government activity.",
+    "source_title": "Politics of the Democratic Republic of the Congo",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8026",
+    "evidence": "The semi-presidential system has been described by some as \"conflictogenic\" and \"dictatogenic\", as it ensures frictions, and a reduction of pace in government life, should the President and the Prime Minister be from different sides of the political arena.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_72_13",
+    "question": "Why is private road transport almost non-existent outside Kinshasa, Matadi and Lubumbashi?",
+    "answer": "Wars destroyed infrastructure and vehicles, militias commandeered transport, and fuel supplies were badly disrupted.",
+    "source_title": "Transport in the Democratic Republic of the Congo",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8028",
+    "evidence": "The First and Second Congo Wars saw great destruction of transport infrastructure from which the country has not yet recovered. Many vehicles were destroyed or commandeered by militias, especially in the north and east of the country, and the fuel supply system was also badly affected. Consequently, outside of Kinshasa, Matadi and Lubumbashi, private and commercial road transport is almost non-existent and traffic is scarce even where roads are in good condition.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_72_14",
+    "question": "How was China's 2007 infrastructure loan to the Democratic Republic of the Congo to be repaid?",
+    "answer": "Through raw-material concessions for copper, cobalt, gold and nickel and toll revenues from the road and railway.",
+    "source_title": "Transport in the Democratic Republic of the Congo",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8028",
+    "evidence": "Loan repayments will be from concessions for raw materials which China desperately needs: copper, cobalt, gold and nickel, as well as by toll revenues from the road and railway.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_72_15",
+    "question": "Why are towns such as Goma and Bukavu often more accessible from neighbouring countries than from Kinshasa?",
+    "answer": "They have paved road links toward Kenya's Mombasa port, enabling imports through neighboring countries despite weak domestic connections.",
+    "source_title": "Transport in the Democratic Republic of the Congo",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8028",
+    "evidence": "Some parts of the DRC are more accessible from neighbouring countries than from Kinshasa. For example, Bukavu itself and Goma and other north-eastern towns are linked by paved road from the DRC border to the Kenyan port of Mombasa, and most goods for these cities have been brought via this route in recent years.",
+    "question_type": "why"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki_56_01",
+    "question": "Who was the first to propose fire, earth, air and water together as a set of four classical elements, and what did he call them?",
+    "answer": "The Greek philosopher Empedocles, who called them the four \"roots\".",
+    "source_title": "Classical element",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6313",
+    "evidence": "The Greek philosopher Empedocles () was the first to propose the four classical elements as a set: fire, earth, air, and water. He called them the four \"roots\" (,).",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_56_02",
+    "question": "How did Empedocles show that air was a separate substance?",
+    "answer": "By observing that a bucket inverted in water did not fill with water, because a pocket of air stayed trapped inside.",
+    "source_title": "Classical element",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6313",
+    "evidence": "Empedocles also proved (at least to his own satisfaction) that air was a separate substance by observing that a bucket inverted in water did not become filled with water, a pocket of air remaining trapped inside.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_56_03",
+    "question": "Why did Aristotle add aether as a fifth element?",
+    "answer": "Because the four elements were earthly and corruptible, while no changes were seen in the heavens, so the stars had to be made of a different, unchangeable heavenly substance.",
+    "source_title": "Classical element",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6313",
+    "evidence": "Aristotle added a fifth element, aether (), as the quintessence, reasoning that whereas fire, earth, air, and water were earthly and corruptible, since no changes had been perceived in the heavenly regions, the stars cannot be made out of any of the four elements but must be made of a different, unchangeable, heavenly substance.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_56_04",
+    "question": "What modern scientific categories roughly correspond to the classical elements, and how do they differ in what they describe?",
+    "answer": "The states of matter (solid, liquid, gas and plasma); unlike the classical elements, they describe how different types of atoms behave at similar energy levels, not the characteristic behaviour of particular substances.",
+    "source_title": "Classical element",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6313",
+    "evidence": "Solid, liquid, gas, and plasma share many attributes with the corresponding classical elements of earth, water, air, and fire, but these states describe the similar behaviour of different types of atoms at similar energy levels, not the characteristic behaviour of certain atoms or substances.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_56_05",
+    "question": "What were Paracelsus's \"tria prima\", and what property did each represent?",
+    "answer": "Sulphur (flammability or combustion), mercury (volatility and stability) and salt (solidity).",
+    "source_title": "Classical element",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6313",
+    "evidence": "The three metallic principles—sulphur to flammability or combustion, mercury to volatility and stability, and salt to solidity—became the \"tria prima\" of the Swiss alchemist Paracelsus.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_56_06",
+    "question": "Which pre-Socratic philosopher held fire to be the most fundamental element, and how did he think it related to the other elements?",
+    "answer": "Heraclitus, who believed fire gave rise to the other three elements through a series of transformations.",
+    "source_title": "Fire (classical element)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6314",
+    "evidence": "Heraclitus considered \"fire\" to be the most fundamental of all elements. He believed fire gave rise to the other three elements: \"All things are an interchange for fire, and fire for all things, just like goods for gold and gold for goods.\"",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_56_07",
+    "question": "Why did Plato associate fire with the tetrahedron?",
+    "answer": "Because the tetrahedron has the fewest sides and least volume for its surface area, which he thought suited the sharp, stabbing heat of fire.",
+    "source_title": "Fire (classical element)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6314",
+    "evidence": "In the \"Timaeus\", Plato's major cosmological dialogue, the Platonic solid he associated with fire was the tetrahedron, which is formed from four triangles and contains the least volume with the greatest surface area. This also makes fire the element with the smallest number of sides, and Plato regarded it as appropriate for the heat of fire, which he felt is sharp and stabbing (like one of the points of a tetrahedron).",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_56_08",
+    "question": "How did Aristotle's explanation of the elements differ from Plato's?",
+    "answer": "Aristotle rejected Plato's geometric view and preferred a more naturalistic explanation based on the elements' traditional qualities, such as hot and dry.",
+    "source_title": "Fire (classical element)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6314",
+    "evidence": "Plato's student Aristotle did not maintain his former teacher's geometric view of the elements, but rather preferred a somewhat more naturalistic explanation for the elements based on their traditional qualities.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_56_09",
+    "question": "In ancient Greek medicine, why was yellow bile identified with fire?",
+    "answer": "Because both were considered hot and dry.",
+    "source_title": "Fire (classical element)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6314",
+    "evidence": "Yellow bile was the humor identified with fire, since both were hot and dry.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_56_10",
+    "question": "What is Agni in Hindu and Vedic tradition, and why is he described as ever-young yet immortal?",
+    "answer": "The god of fire and acceptor of sacrifices; he is ever-young because the fire is re-lit every day, yet he is immortal.",
+    "source_title": "Fire (classical element)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6314",
+    "evidence": "He is the god of fire and the acceptor of sacrifices. The sacrifices made to Agni go to the deities because Agni is a messenger from and to the other gods. He is ever-young, because the fire is re-lit every day, yet he is also immortal.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_56_11",
+    "question": "What two words did the ancient Greeks use for air, and what did each mean?",
+    "answer": "\"Aer\" meant the dim lower atmosphere, and \"aether\" meant the bright upper atmosphere above the clouds.",
+    "source_title": "Air (classical element)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6315",
+    "evidence": "The ancient Greeks used two words for air: \"aer\" meant the dim lower atmosphere, and \"aether\" meant the bright upper atmosphere above the clouds.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_56_12",
+    "question": "Why did Plato consider the octahedron, placing air between fire and water, appropriate for air?",
+    "answer": "Because air is intermediate between fire and water in its mobility, sharpness and ability to penetrate.",
+    "source_title": "Air (classical element)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6315",
+    "evidence": "This places air between fire and water which Plato regarded as appropriate because it is intermediate in its mobility, sharpness, and ability to penetrate.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_56_13",
+    "question": "How did Aristotle distinguish air from aether?",
+    "answer": "Air was a hot and wet earthly element, while aether was an unchanging, almost divine substance found only in the heavens, where it formed celestial spheres.",
+    "source_title": "Air (classical element)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6315",
+    "evidence": "According to Aristotle, air is both hot and wet and occupies a place between fire and water among the elemental spheres. Aristotle definitively separated air from aether. For him, aether was an unchanging, almost divine substance that was found only in the heavens, where it formed celestial spheres.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_56_14",
+    "question": "Why did Plato associate water with the icosahedron?",
+    "answer": "Because it gives water the most sides, which suited the way water flows out of one's hand as if made of tiny balls.",
+    "source_title": "Water (classical element)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6316",
+    "evidence": "In the Timaeus, his major cosmological dialogue, the Platonic solid associated with water is the icosahedron which is formed from twenty equilateral triangles. This makes water the element with the greatest number of sides, which Plato regarded as appropriate because water flows out of one's hand when picked up, as if it is made of tiny little balls.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_56_15",
+    "question": "Which humour was associated with water in ancient Greek medicine, and what season and temperament were linked with them?",
+    "answer": "Phlegm, since both were cold and wet; they were linked with winter and the phlegmatic temperament.",
+    "source_title": "Water (classical element)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6316",
+    "evidence": "Phlegm was the humor identified with water, since both were cold and wet. Other things associated with water and phlegm in ancient and medieval medicine included the season of Winter, since it increased the qualities of cold and moisture, the phlegmatic temperament, the feminine and the western point of the compass.",
+    "question_type": "cause_effect"
+  }
+]

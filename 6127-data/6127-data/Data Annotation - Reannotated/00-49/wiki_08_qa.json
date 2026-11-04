@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki_08_01",
+    "question": "Why was Charles Babbage never able to complete construction of any of his machines, including the analytical engine?",
+    "answer": "Conflicts with his chief engineer and inadequate funding, including withdrawal of British government support.",
+    "source_title": "Analytical engine",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1271",
+    "evidence": "Babbage was never able to complete construction of any of his machines due to conflicts with his chief engineer and inadequate funding. ... Construction of this machine was never completed; Babbage had conflicts with his chief engineer, Joseph Clement, and ultimately the British government withdrew its funding for the project.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_08_02",
+    "question": "What kind of modern programming language did the language designed for the analytical engine resemble?",
+    "answer": "Modern assembly language.",
+    "source_title": "Analytical engine",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1271",
+    "evidence": "The programming language to be employed by users was akin to modern day assembly languages.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_08_03",
+    "question": "Why has Ada Lovelace been described by many as the first computer programmer?",
+    "answer": "Her annotations included an algorithm for calculating Bernoulli numbers, widely regarded as the first complete computer program.",
+    "source_title": "Analytical engine",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1271",
+    "evidence": "In 1843, the description was translated into English and extensively annotated by Ada Lovelace, who had become interested in the engine eight years earlier. In recognition of her additions to Menabrea's paper, which included a way to calculate Bernoulli numbers using the machine (widely considered to be the first complete computer program), she has been described by many as the first computer programmer, although others have challenged this view.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_08_04",
+    "question": "How did the Harvard Mark I compare with the analytical engine in terms of architecture?",
+    "answer": "The Mark I showed no influence from it and lacked its advanced conditional-branching feature.",
+    "source_title": "Analytical engine",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1271",
+    "evidence": "Howard Aiken, who built the quickly-obsoleted electromechanical calculator, the Harvard Mark I, between 1937 and 1945, praised Babbage's work likely as a way of enhancing his own stature, but knew nothing of the analytical engine's architecture during the construction of the Mark I, and considered his visit to the constructed portion of the analytical engine \"the greatest disappointment of my life\". The Mark I showed no influence from the analytical engine and lacked the analytical engine's most prescient architectural feature, conditional branching.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_08_05",
+    "question": "What was the unique contribution of the Atanasoff–Berry computer to computing?",
+    "answer": "It was the first to use vacuum tubes for arithmetic calculations, speeding up computation.",
+    "source_title": "Atanasoff–Berry computer",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1349",
+    "evidence": "Its unique contribution was to make computing faster by being the first to use vacuum tubes to do arithmetic calculations.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_08_06",
+    "question": "Why is the Atanasoff–Berry computer's claim to priority debated among historians?",
+    "answer": "It was neither programmable nor Turing-complete.",
+    "source_title": "Atanasoff–Berry computer",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1349",
+    "evidence": "The ABC's priority is debated among historians of computer technology, because it was neither programmable, nor Turing-complete.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_08_07",
+    "question": "What did the U.S. District Court conclude about the ENIAC patent in the 1973 case Honeywell v. Sperry Rand?",
+    "answer": "The court invalidated the ENIAC patent and found its inventors had derived electronic digital computing subject matter from Atanasoff.",
+    "source_title": "Atanasoff–Berry computer",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1349",
+    "evidence": "Presper Eckert, was considered to be the first computer in the modern sense, but in 1973 a U.S. District Court invalidated the ENIAC patent and concluded that the ENIAC inventors had derived the subject matter of the electronic digital computer from Atanasoff.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_08_08",
+    "question": "What was the \"regenerative capacitor memory\" used in the Atanasoff–Berry computer?",
+    "answer": "A pair of drums rotating once per second on a common shaft, each containing 1,600 capacitors.",
+    "source_title": "Atanasoff–Berry computer",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1349",
+    "evidence": "The memory of the Atanasoff–Berry computer was a system called \"regenerative capacitor memory\", which consisted of a pair of drums, each containing 1600 capacitors that rotated on a common shaft once per second.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_08_09",
+    "question": "How did the Apple I differ from most contemporary hobbyist computers?",
+    "answer": "It came as a preassembled motherboard with video-terminal circuitry, rather than a kit requiring assembly.",
+    "source_title": "Apple I",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1344",
+    "evidence": "Unlike most contemporary hobbyist computers, which were sold as kits requiring assembly, the Apple-1 was delivered as a pre-assembled motherboard with built-in video display terminal circuitry.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_08_10",
+    "question": "Why did Steve Wozniak use the MOS Technology 6502 rather than the Motorola 6800 in the Apple I?",
+    "answer": "The 6502 cost only $25 versus the 6800's $175 and shared enough architecture to adapt his earlier design.",
+    "source_title": "Apple I",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1344",
+    "evidence": "He initially planned to use the Motorola 6800, but its US$175 price made it prohibitively expensive. The introduction of the MOS Technology 6502 in late 1975 for just $25 made the design economically feasible. Because the 6502 shared much of its architecture with the 6800, Wozniak was able to adapt his earlier design.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_08_11",
+    "question": "What did Apple do with Apple I computers returned through its trade-in offers, and how did this affect the machine's availability?",
+    "answer": "Apple destroyed the returned boards, contributing to the Apple I's later rarity.",
+    "source_title": "Apple I",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1344",
+    "evidence": "As Wozniak was the only person who could answer most customer support questions about the computer, the company offered Apple I owners discounts and trade-ins for Apple IIs to persuade them to return their computers. These recovered boards were then destroyed by Apple, contributing to their later rarity.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_08_12",
+    "question": "What is assembly language?",
+    "answer": "A low-level programming language whose instructions closely correspond to a particular architecture's machine code.",
+    "source_title": "Assembly language",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1368",
+    "evidence": "In computing, assembly language (alternatively assembler language or symbolic machine code), often referred to simply as assembly and commonly abbreviated as ASM or asm, is any low-level programming language with a very strong correspondence between the instructions in the language and the architecture's machine code instructions.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_08_13",
+    "question": "Why was assembly language the primary development language for 8-bit home computers such as the Apple II and Commodore 64?",
+    "answer": "Interpreted BASIC could not provide maximum speed or fully exploit the available hardware.",
+    "source_title": "Assembly language",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1368",
+    "evidence": "Assembly language was the primary development language for 8-bit home computers such as the Apple II, Atari 8-bit computers, ZX Spectrum, and Commodore 64. Interpreted BASIC on these systems did not offer maximum execution speed and full use of facilities to take full advantage of the available hardware.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_08_14",
+    "question": "How do assembly languages differ from most high-level programming languages in terms of portability?",
+    "answer": "Assembly is architecture-specific, whereas most high-level languages can be ported across architectures through compilation or interpretation.",
+    "source_title": "Assembly language",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1368",
+    "evidence": "Because assembly depends on the machine code instructions, each assembly language is specific to a particular computer architecture such as x86 or ARM. ... In contrast to assembly languages, most high-level programming languages are generally portable across multiple architectures but require interpreting or compiling, much more complicated tasks than assembling.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_08_15",
+    "question": "Who is credited with inventing assembly language?",
+    "answer": "Kathleen Booth.",
+    "source_title": "Assembly language",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1368",
+    "evidence": "Kathleen Booth \"is credited with inventing assembly language\" based on theoretical work she began in 1947, while working on the ARC2 at Birkbeck, University of London, following consultation by Andrew Booth (later her husband) with mathematician John von Neumann and physicist Herman Goldstine at the Institute for Advanced Study.",
+    "question_type": "factual"
+  }
+]

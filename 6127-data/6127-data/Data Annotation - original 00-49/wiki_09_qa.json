@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki_09_01",
+    "question": "According to Alan Kay, what is the \"big idea\" of object-oriented programming, as opposed to objects?",
+    "answer": "Messaging.",
+    "source_title": "Alan Kay",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1449",
+    "evidence": "Along with some colleagues at PARC, Kay is one of the fathers of the idea of object-oriented programming (OOP), which he named. Some original object-oriented concepts, including the use of the words 'object' and 'class', had been developed for Simula 67 at the Norwegian Computing Center. Kay said:\nI'm sorry that I long ago coined the term \"objects\" for this topic because it gets many people to focus on the lesser idea. The big idea is \"messaging\".",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_09_02",
+    "question": "What was Alan Kay's Dynabook concept?",
+    "answer": "A concept conceived at Xerox PARC as an educational platform that was a key progenitor of laptop and tablet computers and the e-book.",
+    "source_title": "Alan Kay",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1449",
+    "evidence": "While at PARC, Kay conceived the Dynabook concept, a key progenitor of laptop and tablet computers and the e-book.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_09_03",
+    "question": "Why is Alan Kay considered one of the first researchers into mobile learning?",
+    "answer": "Because his Dynabook was conceived as an educational platform.",
+    "source_title": "Alan Kay",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1449",
+    "evidence": "Because the Dynabook was conceived as an educational platform, he is considered one of the first researchers into mobile learning; many features of the Dynabook concept have been adopted in the design of the One Laptop Per Child educational platform, with which Kay was actively involved.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_09_04",
+    "question": "In which earlier programming language were some original object-oriented concepts, such as the words 'object' and 'class', developed?",
+    "answer": "Simula 67, at the Norwegian Computing Center.",
+    "source_title": "Alan Kay",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1449",
+    "evidence": "Some original object-oriented concepts, including the use of the words 'object' and 'class', had been developed for Simula 67 at the Norwegian Computing Center.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_09_05",
+    "question": "Why was the commercial use of ALGOL hindered?",
+    "answer": "By the absence of standard input/output facilities in its description and the lack of interest from large computer vendors other than Burroughs.",
+    "source_title": "ALGOL",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1453",
+    "evidence": "ALGOL was used mostly by research computer scientists in the United States and in Europe; commercial applications were hindered by the absence of standard input/output facilities in its description, and the lack of interest in the language by large computer vendors (other than Burroughs Corporation).",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_09_06",
+    "question": "How did Backus–Naur form come about and get its name?",
+    "answer": "John Backus developed it for ALGOL 58, Peter Naur revised and expanded it for ALGOL 60, and it was renamed Backus–Naur form at Donald Knuth's suggestion.",
+    "source_title": "ALGOL",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1453",
+    "evidence": "John Backus developed the \"Backus normal form\" method of describing programming languages specifically for ALGOL 58. It was revised and expanded by Peter Naur for ALGOL 60, and at Donald Knuth's suggestion renamed Backus–Naur form.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_09_07",
+    "question": "How did ALGOL 60 and ALGOL 68 differ in their input/output facilities?",
+    "answer": "ALGOL 60 as officially defined had no I/O facilities, so implementations defined incompatible ones, while ALGOL 68 offered an extensive library of \"transput\" facilities.",
+    "source_title": "ALGOL",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1453",
+    "evidence": "ALGOL 60 as officially defined had no I/O facilities; implementations defined their own in ways that were rarely compatible with each other. In contrast, ALGOL 68 offered an extensive library of \"transput\" (input/output) facilities.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_09_08",
+    "question": "In what sense was ALGOL arguably more influential than its contemporaries FORTRAN, Lisp and COBOL?",
+    "answer": "The syntax of most modern programming languages is \"Algol-like\".",
+    "source_title": "ALGOL",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1453",
+    "evidence": "In the sense that the syntax of most modern languages is \"Algol-like\", it was arguably more influential than three other high-level programming languages among which it was roughly contemporary: FORTRAN, Lisp, and COBOL.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_09_09",
+    "question": "What feature of APL leads to very concise code?",
+    "answer": "Its use of a large range of special graphic symbols to represent most functions and operators.",
+    "source_title": "APL (programming language)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1451",
+    "evidence": "It uses a large range of special graphic symbols to represent most functions and operators, leading to very concise code.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_09_10",
+    "question": "What development allowed programmers to use APL effectively before cathode-ray tube terminals were widespread?",
+    "answer": "A special IBM Selectric typewriter typing element containing all the special APL characters.",
+    "source_title": "APL (programming language)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1451",
+    "evidence": "A key development in the ability to use APL effectively, before the wide use of cathode-ray tube (CRT) terminals, was the development of a special IBM Selectric typewriter interchangeable typing element with all the special APL characters on it.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_09_11",
+    "question": "Why did many APL symbols still have to be typed by over-striking two characters, even with the APL typing element?",
+    "answer": "Because the APL character set was much larger than the number of characters allowed on the typing element.",
+    "source_title": "APL (programming language)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1451",
+    "evidence": "Many APL symbols, even with the APL characters on the Selectric typing element, still had to be typed in by over-striking two extant element characters. An example is the \"grade up\" character, which had to be made from a \"delta\" (shift-H) and a \"Sheffer stroke\" (shift-M). This was necessary because the APL character set was much larger than the 88 characters allowed on the typing element, even when letters were restricted to upper-case (capitals).",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_09_12",
+    "question": "Why did APL gain a foothold on mainframe timesharing systems from the late 1960s to the early 1980s?",
+    "answer": "Partly because it could support multiple users on lower-specification systems that had no dynamic address translation hardware.",
+    "source_title": "APL (programming language)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1451",
+    "evidence": "APL gained its foothold on mainframe timesharing systems from the late 1960s through the early 1980s, in part because it would support multiple users on lower-specification systems that had no dynamic address translation hardware.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_09_13",
+    "question": "Where does the name of the AWK programming language come from?",
+    "answer": "From the surnames of its authors at Bell Labs: Alfred Aho, Peter Weinberger and Brian Kernighan.",
+    "source_title": "AWK",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1456",
+    "evidence": "AWK was created at Bell Labs in the 1970s, and its name is derived from the surnames of its authors: Alfred Aho (author of egrep), Peter Weinberger (who worked on tiny relational databases), and Brian Kernighan.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_09_14",
+    "question": "How did early AWK programs influence the Perl language?",
+    "answer": "The power and terseness of early AWK programs, especially regular expression handling and conciseness from implicit variables, together with AWK's limitations at the time, were important inspirations for Perl.",
+    "source_title": "AWK",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1456",
+    "evidence": "The power and terseness of early AWK programs – notably the powerful regular expression handling and conciseness due to implicit variables, which facilitate one-liners – together with the limitations of AWK at the time, were important inspirations for the Perl language (1987).",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_09_15",
+    "question": "What do the text-processing tools AWK and sed have in common?",
+    "answer": "Both were designed for text processing, share a line-oriented, data-driven paradigm, and are suited to one-liner programs due to the implicit main loop and current line variables.",
+    "source_title": "AWK",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1456",
+    "evidence": "AWK was preceded by sed (1974). Both were designed for text processing. They share the line-oriented, data-driven paradigm, and are particularly suited to writing one-liner programs, due to the implicit main loop and current line variables.",
+    "question_type": "comparison"
+  }
+]

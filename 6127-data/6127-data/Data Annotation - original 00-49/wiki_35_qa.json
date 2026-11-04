@@ -1,0 +1,110 @@
+[
+  {
+    "id": "wiki_35_01",
+    "question": "Into which three collections did Bernhard Duhm divide the Book of Isaiah?",
+    "answer": "Proto-Isaiah, the words of the 8th-century prophet; Deutero-Isaiah or \"the Book of Consolation\", by an anonymous author during the Exile; and Trito-Isaiah, composed after the return from Exile.",
+    "source_title": "Book of Isaiah",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4364",
+    "evidence": "Bernhard Duhm originated the view, held as a consensus through most of the 20th century, that the book comprises three separate collections of oracles: Proto-Isaiah (chapters 1–39), containing the words of the 8th-century BCE prophet Isaiah; Deutero-Isaiah, or \"the Book of Consolation\", (chapters 40–55), the work of an anonymous 6th-century BCE author writing during the Exile; and Trito-Isaiah (chapters 56–66), composed after the return from Exile.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_35_02",
+    "question": "Who is the messiah described in the Deutero-Isaian part of the Book of Isaiah?",
+    "answer": "Cyrus the Great of Persia, founder of the Achaemenid Empire, presented as the agent of Yahweh's kingship who destroys Babylon.",
+    "source_title": "Book of Isaiah",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4364",
+    "evidence": "The Deutero-Isaian part of the book describes how God will make Jerusalem the centre of his worldwide rule through a royal saviour (a messiah) who will destroy the oppressor (\"Babylon\", the Neo-Babylonian Empire); this messiah is the king Cyrus the Great of Persia, who founded the Achaemenid Empire, who is merely the agent who brings about Yahweh's kingship.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_35_03",
+    "question": "How does Isaiah's basis for righteousness differ from that of the prophets Amos and Micah?",
+    "answer": "Isaiah roots righteousness in God's holiness, whereas Amos and Micah root it in Israel's covenant with God.",
+    "source_title": "Book of Isaiah",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4364",
+    "evidence": "Isaiah speaks out for the poor and the oppressed and against corrupt princes and judges, but unlike the prophets Amos and Micah he roots righteousness not in Israel's covenant with God but in God's holiness.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_35_04",
+    "question": "How does the Book of Jeremiah explain the disaster of the Babylonian exile?",
+    "answer": "As God's response to Israel's pagan worship, with the people's infidelity and rebelliousness making judgment inevitable.",
+    "source_title": "Book of Jeremiah",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4363",
+    "evidence": "His book is intended as a message to the Jews during the Babylonian exile, explaining the disaster of exile as God's response to Israel's pagan worship: the people, says Jeremiah, are like an unfaithful wife and rebellious children, their infidelity and rebelliousness made judgment inevitable, although restoration and a new covenant are foreshadowed.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_35_05",
+    "question": "Why does the superscription of the Book of Jeremiah claim he was active for forty years?",
+    "answer": "To make a theological point comparing Jeremiah to Moses, who spent forty years leading Israel to the Promised Land, while Jeremiah's forty years saw Israel exiled.",
+    "source_title": "Book of Jeremiah",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4363",
+    "evidence": "The book's superscription claims that Jeremiah was active for forty years, from the thirteenth year of Josiah (627 BCE) to the fall of Jerusalem in 587. It is clear from the book's last chapters, however, that he continued to speak in Egypt after the assassination of Gedaliah, the Babylonian-appointed governor of Judah, in 582. This suggests that the superscription is trying to make a theological point about Jeremiah by comparing him to Moses—whereas Moses spent forty years leading Israel from slavery in Egypt to the Promised Land, Jeremiah's forty years saw Israel exiled from the land and Jeremiah himself ultimately in exile in Egypt.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_35_06",
+    "question": "What are the \"confessions\" of Jeremiah?",
+    "answer": "Passages of individual lament in chapters 1–25 in which Jeremiah expresses discontent with the message he must deliver but also steadfast commitment to his divine call.",
+    "source_title": "Book of Jeremiah",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4363",
+    "evidence": "Scholars from Heinrich Ewald onwards have identified several passages in Jeremiah which can be understood as \"confessions\": they occur in the first section of the book (chapters 1–25) and are generally identified as Jeremiah 11:18–12.6, 15:10–21, 17:14–18, 18:18–23, and 20:7–18. In these five passages, Jeremiah expresses his discontent with the message he is to deliver, but also his steadfast commitment to the divine call despite the fact that he had not sought it out. Jeremiah's \"confessions\" are a type of individual lament.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_35_07",
+    "question": "How does the composition of the Book of Ezekiel differ from that of earlier prophetic books?",
+    "answer": "Earlier prophets' messages were transcribed by scribes, whereas scholars agree Ezekiel wrote his prophecy down in his own hand.",
+    "source_title": "Book of Ezekiel",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4390",
+    "evidence": "The prophecies of earlier prophets are the transcripts of messages delivered by the prophets named at the heading of each book of prophecy, later taken down by scribes; in contrast, scholars are agreed that Ezekiel took this prophecy down in his own hand.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_35_08",
+    "question": "How does Ezekiel's view of responsibility for sin differ from that of the Deuteronomistic writers?",
+    "answer": "Ezekiel held each person responsible only for his own sins, while the Deuteronomists held the sins of the nation against all regardless of personal guilt.",
+    "source_title": "Book of Ezekiel",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4390",
+    "evidence": "The theology of Ezekiel is notable for its contribution to the emerging notion of individual responsibility to God – each man would be held responsible only for his own sins. This is in marked contrast to the Deuteronomistic writers, who held that the sins of the nation would be held against all, without regard for an individual's personal guilt.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_35_09",
+    "question": "What does the image of the valley of dry bones returning to life signify in the Book of Ezekiel?",
+    "answer": "The restoration of the purified Israel.",
+    "source_title": "Book of Ezekiel",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4390",
+    "evidence": "The image of the valley of dry bones returning to life in chapter 37 signifies the restoration of the purified Israel.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_35_10",
+    "question": "Why was the prophet Jeremiah traditionally believed to be the author of the Book of Lamentations?",
+    "answer": "Because of the impulse to attribute biblical books to inspired authors, and Jeremiah had prophesied Jerusalem's demise at the time.",
+    "source_title": "Book of Lamentations",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4389",
+    "evidence": "The traditional ascription of authorship to Jeremiah stems from the impulse to attribute all biblical books to inspired authors. Jeremiah, a prophet who prophesied its demise at the time, was an obvious choice.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_35_11",
+    "question": "How does the ending of the Book of Lamentations differ from that of the Sumerian laments it resembles?",
+    "answer": "Sumerian laments were recited at the rebuilding of a temple and end optimistically, while Lamentations was written before the rebuilding and has no response or resolution.",
+    "source_title": "Book of Lamentations",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4389",
+    "evidence": "However, while Lamentations is generically similar to the Sumerian laments of the early 2nd millennium BCE (e.g., \"Lamentation over the Destruction of Ur,\" \"Lament for Sumer and Ur,\" and the \"Nippur Lament\"), the Sumerian laments were recited on the occasion of the rebuilding of a temple and, therefore, have optimistic endings. In contrast, the book of Lamentations was written before the return/rebuilding and thus contains only lamentations and pleas to God with no response or resolution.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_35_12",
+    "question": "What clue suggests that the Book of Lamentations had multiple authors?",
+    "answer": "The gender and situation of the first-person witness changes: the narration is feminine in the first two laments and masculine in the third.",
+    "source_title": "Book of Lamentations",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4389",
+    "evidence": "One clue pointing to multiple authors is that the gender and situation of the first-person witness changes—the narration is feminine in the first and second lamentations, but masculine in the third, while the fourth and fifth are eyewitness reports of Jerusalem's destruction.",
+    "question_type": "factual"
+  }
+]

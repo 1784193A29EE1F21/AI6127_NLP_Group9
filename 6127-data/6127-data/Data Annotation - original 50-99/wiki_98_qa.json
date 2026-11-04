@@ -1,0 +1,119 @@
+[
+  {
+    "id": "wiki_98_01",
+    "question": "Which country is responsible for the military defence and foreign policy of the Falkland Islands?",
+    "answer": "The United Kingdom.",
+    "source_title": "Politics of the Falkland Islands",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10692",
+    "evidence": "The military defence and foreign policy of the islands is the responsibility of the United Kingdom.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_98_02",
+    "question": "Why do members of the Falkland Islands Legislative Assembly stand as independents?",
+    "answer": "Because no political parties currently exist on the islands.",
+    "source_title": "Politics of the Falkland Islands",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10692",
+    "evidence": "No political parties exist on the islands currently and so Members stand as independents, however the governmental and legal proceedings very closely resemble British standards.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_98_03",
+    "question": "What were the consequences of the Falklands War for Argentina's government?",
+    "answer": "The British liberation of the islands led to the collapse of the military dictatorship in Argentina.",
+    "source_title": "Politics of the Falkland Islands",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10692",
+    "evidence": "The islands were subsequently liberated by British forces just 74 days after the start of the war, which led to the collapse of the military dictatorship in Argentina.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_98_04",
+    "question": "If the Governor of the Falkland Islands acts against the advice of the Executive Council, whom must he inform, and what can that person do?",
+    "answer": "The UK Secretary of State for Foreign and Commonwealth Affairs, who can overrule the Governor's actions.",
+    "source_title": "Politics of the Falkland Islands",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10692",
+    "evidence": "The constitution does permit the Governor to act without consulting the Executive Council and even going against its instructions, but in both cases the Governor must immediately inform the Secretary of State for Foreign and Commonwealth Affairs in the United Kingdom, who can overrule the Governor's actions.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_98_05",
+    "question": "What legislative body did the Falkland Islands' 2009 constitution create, and what did it replace?",
+    "answer": "The Legislative Assembly, replacing the Legislative Council.",
+    "source_title": "Politics of the Falkland Islands",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10692",
+    "evidence": "The new constitution also replaced the Legislative Council with the Legislative Assembly, and better explained the role of the Governor and the Chief Executive.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_98_06",
+    "question": "What became the centrepiece of the UK's investment in Falklands defence after recapturing the islands?",
+    "answer": "A new airfield at RAF Mount Pleasant, west of Stanley.",
+    "source_title": "Military of the Falkland Islands",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10696",
+    "evidence": "After recapturing the territory in June 1982, the UK invested heavily in the defence of the islands, the centrepiece of which was a new airfield at RAF Mount Pleasant, west of Stanley.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_98_07",
+    "question": "Why did the Falkland Islands Defence Force play no part in the main conflict of the 1982 war?",
+    "answer": "Its members spent the hostilities under house arrest by the Argentines after surrendering when the islands were captured.",
+    "source_title": "Military of the Falkland Islands",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10696",
+    "evidence": "Although this unit existed in 1982 as a reinforcement for the Governor's detachment of Royal Marines, it did not play any part in the main conflict during the war of 1982, its members having spent the duration of the hostilities under house arrest by the Argentines after their surrender on the Argentine capture of the islands.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_98_08",
+    "question": "Which surface-to-air missile system replaced Rapier for the ground-based air defence of RAF Mount Pleasant?",
+    "answer": "The Sky Sabre system.",
+    "source_title": "Military of the Falkland Islands",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10696",
+    "evidence": "Rapier has been replaced with the new Sky Sabre surface-to-air missile system incorporating an expanded capability.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_98_09",
+    "question": "What does the Joint Communications Unit Falkland Islands provide?",
+    "answer": "Electronic warfare and command and control systems for the Royal Navy, Army and RAF stationed there.",
+    "source_title": "Military of the Falkland Islands",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10696",
+    "evidence": "The Joint Communications Unit Falkland Islands (JCUFI) provides the electronic warfare and command and control systems for the Royal Navy, Army and RAF stationed there.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_98_10",
+    "question": "On which industry was the Falklands economy heavily dependent before it diversified into tourism and fishing?",
+    "answer": "Sheep farming.",
+    "source_title": "Economy of the Falkland Islands",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10693",
+    "evidence": "The economy of the Falkland Islands, which first involved sealing, whaling and provisioning ships, became heavily dependent on sheep farming from the 1870s to 1980.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_98_11",
+    "question": "What report led to the formation of the Falkland Islands Development Corporation, which drove the islands' exploitation of their marine environment?",
+    "answer": "Lord Shackleton's Report, which also recommended setting up a fisheries limit.",
+    "source_title": "Economy of the Falkland Islands",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10693",
+    "evidence": "The Falkland Islands Development Corporation which formed as a result of the Shackleton Report provided the impetus for the Falkland Islands to exploit their marine environment.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_98_12",
+    "question": "Why do the constitution's banking restrictions matter for the British Government's control over the Falklands?",
+    "answer": "They let Britain prevent the islands' government from declaring a tax haven or establishing a central bank.",
+    "source_title": "Economy of the Falkland Islands",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10693",
+    "evidence": "These restrictions effectively give the British Government the ability to prevent the island's government from declaring the islands to be a tax haven or from establishing a central bank.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_98_13",
+    "question": "How is the Falkland pound effectively backed by the pound sterling?",
+    "answer": "The Falkland Islands Government must deposit the face value plus an extra margin of any coins struck on its behalf into its currency fund.",
+    "source_title": "Economy of the Falkland Islands",
+    "source_url": "https://en.wikipedia.org/wiki?curid=10693",
+    "evidence": "The Falkland Islands Government (FIG) is required to deposit 110% of the face value of any coins struck on its behalf into its currency fund, thereby effectively backing the Falkland pound with the pound sterling.",
+    "question_type": "definition"
+  }
+]

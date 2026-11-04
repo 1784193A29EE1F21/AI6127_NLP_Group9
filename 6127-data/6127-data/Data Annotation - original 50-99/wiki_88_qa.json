@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki_88_01",
+    "question": "Who coined the term \"ecology\"?",
+    "answer": "The German scientist Ernst Haeckel.",
+    "source_title": "Ecology",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9630",
+    "evidence": "The term \"ecology\" () was coined in 1866 by the German scientist Ernst Haeckel.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_88_02",
+    "question": "What is ecology?",
+    "answer": "The natural science of the relationships among living organisms and their environment.",
+    "source_title": "Ecology",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9630",
+    "evidence": "Ecology () is the natural science of the relationships among living organisms and their environment.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_88_03",
+    "question": "How do population ecology and ecosystem ecology differ in focus?",
+    "answer": "Population (community) ecology focuses on organisms' distribution and abundance, while ecosystem ecology focuses on fluxes of materials and energy.",
+    "source_title": "Ecology",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9630",
+    "evidence": "The main subdisciplines of ecology, population (or community) ecology and ecosystem ecology, differ in their contrasting paradigms. The former focuses on organisms' distribution and abundance, while the latter focuses on materials and energy fluxes.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_88_04",
+    "question": "How does a species' fundamental niche differ from its realized niche?",
+    "answer": "The fundamental niche is the set of environmental conditions in which a species can persist, while the realized niche adds ecological conditions under which it actually persists.",
+    "source_title": "Ecology",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9630",
+    "evidence": "The fundamental niche is the set of environmental conditions under which a species is able to persist. The realized niche is the set of environmental plus ecological conditions under which a species persists.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_88_05",
+    "question": "Why can the connections in ecological communities not be understood by studying each species in isolation?",
+    "answer": "Because the emergent pattern is neither revealed nor predicted until the ecosystem is studied as an integrated whole.",
+    "source_title": "Ecology",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9630",
+    "evidence": "The nature of connections in ecological communities cannot be explained by knowing the details of each species in isolation, because the emergent pattern is neither revealed nor predicted until the ecosystem is studied as an integrated whole.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_88_06",
+    "question": "What is the biosphere in ecological terms?",
+    "answer": "The largest scale of ecological organization: the total sum of ecosystems on the planet.",
+    "source_title": "Ecology",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9630",
+    "evidence": "The largest scale of ecological organization is the biosphere: the total sum of ecosystems on the planet.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_88_07",
+    "question": "Who first used the term \"ecosystem\" in a publication, and who actually coined the word?",
+    "answer": "Arthur Tansley first used it; Arthur Roy Clapham coined the word at Tansley's request.",
+    "source_title": "Ecosystem",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9632",
+    "evidence": "The term \"ecosystem\" was first used in 1935 in a publication by British ecologist Arthur Tansley. The term was coined by Arthur Roy Clapham, who came up with the word at Tansley's request.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_88_08",
+    "question": "How do external factors differ from internal factors in controlling an ecosystem?",
+    "answer": "External factors such as climate control ecosystem structure but are not influenced by it, while internal factors both control and are controlled by ecosystem processes.",
+    "source_title": "Ecosystem",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9632",
+    "evidence": "Ecosystems are controlled by external and internal factors. External factors—including climate—control the ecosystem's structure, but are not influenced by it. By contrast, internal factors control and are controlled by ecosystem processes; these include decomposition, the types of species present, root competition, shading, disturbance, and succession.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_88_09",
+    "question": "What would happen in an ecosystem without decomposition?",
+    "answer": "Dead organic matter would accumulate, and nutrients and atmospheric carbon dioxide would be depleted.",
+    "source_title": "Ecosystem",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9632",
+    "evidence": "In the absence of decomposition, the dead organic matter would accumulate in an ecosystem, and nutrients and atmospheric carbon dioxide would be depleted.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_88_10",
+    "question": "What is net primary production?",
+    "answer": "The portion of gross primary production not used up by plant respiration.",
+    "source_title": "Ecosystem",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9632",
+    "evidence": "The remainder, that portion of GPP that is not used up by respiration, is known as the net primary production (NPP).",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_88_11",
+    "question": "Why do real ecosystems form food webs rather than simple food chains?",
+    "answer": "Because organisms generally feed on more than one form of food and at more than one trophic level.",
+    "source_title": "Ecosystem",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9632",
+    "evidence": "Real systems are much more complex than this—organisms will generally feed on more than one form of food, and may feed at more than one trophic level.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_88_12",
+    "question": "Besides \"ecology\", which biological terms did Ernst Haeckel coin?",
+    "answer": "Terms including \"phylum\", \"phylogeny\", \"ontogeny\" and \"Protista\".",
+    "source_title": "Ernst Haeckel",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9668",
+    "evidence": "He discovered, described and named thousands of new species, mapped a genealogical tree relating all life forms and coined many terms in biology, including \"ecology\", \"phylum\", \"phylogeny\", ontogeny, and \"Protista.\"",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_88_13",
+    "question": "What does Haeckel's recapitulation theory claim?",
+    "answer": "That ontogeny (development of form) recapitulates phylogeny (evolutionary descent).",
+    "source_title": "Ernst Haeckel",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9668",
+    "evidence": "It proposed a link between ontogeny (development of form) and phylogeny (evolutionary descent), summed up by the phrase \"ontogeny recapitulates phylogeny\".",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_88_14",
+    "question": "How did Haeckel's view of evolution differ from strict Darwinism?",
+    "answer": "He did not support natural selection, believing instead in Lamarckism.",
+    "source_title": "Ernst Haeckel",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9668",
+    "evidence": "Haeckel did not support natural selection, rather believing in Lamarckism.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_88_15",
+    "question": "What artistic movement did Haeckel's \"Kunstformen der Natur\" influence?",
+    "answer": "The Art Nouveau movement.",
+    "source_title": "Ernst Haeckel",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9668",
+    "evidence": "The published artwork of Haeckel includes over 100 detailed, multi-colour illustrations of animals and sea creatures, collected in his \"Kunstformen der Natur\" (\"Art Forms in Nature\"), a book which would go on to influence the Art Nouveau artistic movement.",
+    "question_type": "cause_effect"
+  }
+]

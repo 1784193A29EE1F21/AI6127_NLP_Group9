@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki_57_01",
+    "question": "What does the constellation Centaurus represent in Greek mythology?",
+    "answer": "A centaur, a creature that is half human and half horse.",
+    "source_title": "Centaurus",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6371",
+    "evidence": "In Greek mythology, Centaurus represents a centaur; a creature that is half human, half horse (another constellation named after a centaur is one from the zodiac: Sagittarius).",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_57_02",
+    "question": "How do observers use the alpha and beta stars of Centaurus?",
+    "answer": "As \"southern pointer stars\" to help find the constellation Crux.",
+    "source_title": "Centaurus",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6371",
+    "evidence": "Its alpha and beta stars are used as \"southern pointer stars\" to help observers find the constellation Crux.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_57_03",
+    "question": "Why was the white dwarf BPM 37093 nicknamed \"Lucy\"?",
+    "answer": "Because its carbon atoms are thought to form a crystalline structure, like diamond, prompting a reference to the Beatles song \"Lucy in the Sky with Diamonds\".",
+    "source_title": "Centaurus",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6371",
+    "evidence": "BPM 37093 is a white dwarf star whose carbon atoms are thought to have formed a crystalline structure. Since diamond also consists of carbon arranged in a crystalline lattice (though of a different configuration), scientists have nicknamed this star \"Lucy\" after the Beatles song \"\"Lucy in the Sky with Diamonds\".\"",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_57_04",
+    "question": "What is Omega Centauri, despite being listed as the constellation's \"omega\" star?",
+    "answer": "A naked-eye globular cluster, the largest and brightest in the Milky Way.",
+    "source_title": "Centaurus",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6371",
+    "evidence": "ω Centauri (NGC 5139), despite being listed as the constellation's \"omega\" star, is in fact a naked-eye globular cluster, 17,000 light-years away with a diameter of 150 light-years. It is the largest and brightest globular cluster in the Milky Way;",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_57_05",
+    "question": "What does the name Corona Borealis mean, and what inspired it?",
+    "answer": "It means \"northern crown\", inspired by the semicircular arc formed by its brightest stars.",
+    "source_title": "Corona Borealis",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6420",
+    "evidence": "Its brightest stars form a semicircular arc. Its Latin name, inspired by its shape, means \"northern crown\".",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_57_06",
+    "question": "In Greek mythology, why did Dionysus place Ariadne's crown in the heavens?",
+    "answer": "To commemorate their wedding, after Ariadne wore the crown at her marriage to him.",
+    "source_title": "Corona Borealis",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6420",
+    "evidence": "It was generally considered to represent a crown given by Dionysus to Ariadne, the daughter of Minos of Crete, after she had been abandoned by the Athenian prince Theseus. When she wore the crown at her marriage to Dionysus, he placed it in the heavens to commemorate their wedding.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_57_07",
+    "question": "What makes R Coronae Borealis variables unusual, and how are they thought to form?",
+    "answer": "They are extremely hydrogen-deficient giant stars, thought to result from the merger of two white dwarfs.",
+    "source_title": "Corona Borealis",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6420",
+    "evidence": "The yellow supergiant R Coronae Borealis is the prototype of a rare class of giant stars—the R Coronae Borealis variables—that are extremely hydrogen deficient, and thought to result from the merger of two white dwarfs.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_57_08",
+    "question": "Why did the Arabs call Corona Borealis Alphecca, meaning \"separated\" or \"broken up\"?",
+    "answer": "Because its stars resemble a loose string of jewels.",
+    "source_title": "Corona Borealis",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6420",
+    "evidence": "The Arabs called the constellation Alphecca (a name later given to Alpha Coronae Borealis), which means \"separated\" or \"broken up\" ('), a reference to the resemblance of the stars of Corona Borealis to a loose string of jewels.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_57_09",
+    "question": "How did the Ancient Greeks' view of Corona Australis differ from its name, and how does it relate to Corona Borealis?",
+    "answer": "The Greeks saw it as a wreath rather than a crown; it is the southern counterpart of Corona Borealis, the northern crown.",
+    "source_title": "Corona Australis",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6424",
+    "evidence": "Its Latin name means \"southern crown\", and it is the southern counterpart of Corona Borealis, the northern crown. ... The Ancient Greeks saw Corona Australis as a wreath rather than a crown and associated it with Sagittarius or Centaurus.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_57_10",
+    "question": "Why is Corona Australis distinctive even though it is fainter than Corona Borealis?",
+    "answer": "Because the oval- or horseshoe-shaped pattern of its brighter stars is easy to identify.",
+    "source_title": "Corona Australis",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6424",
+    "evidence": "Although fainter than its northern counterpart, the oval- or horseshoe-shaped pattern of its brighter stars renders it distinctive.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_57_11",
+    "question": "How did the star Alfecca Meridiana get its name?",
+    "answer": "It combines the Arabic name of the constellation, Alfecca (\"break\"), with the Latin for \"southern\".",
+    "source_title": "Corona Australis",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6424",
+    "evidence": "The name combines the Arabic name of the constellation with the Latin for \"southern\". In Arabic, \"Alfecca\" means \"break\", and refers to the shape of both Corona Australis and Corona Borealis.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_57_12",
+    "question": "What prominent asterism does Cygnus contain, and what does the constellation's name mean?",
+    "answer": "The Northern Cross; the name comes from the Latinized Greek word for \"swan\".",
+    "source_title": "Cygnus (constellation)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6421",
+    "evidence": "Cygnus is a northern constellation on the plane of the Milky Way, deriving its name from the Latinized Greek word for \"swan\". Cygnus is one of the most recognizable constellations of the northern summer and autumn, and it features a prominent asterism known as the Northern Cross (in contrast to the Southern Cross).",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_57_13",
+    "question": "How does the Arabic view of Cygnus differ from the Western one, and how does this explain the name of its brightest star Deneb?",
+    "answer": "In the West it is a swan, but in Arabic it is ad-Dajājah, \"the hen\"; Deneb comes from \"dhaneb\" (\"tail\"), from the phrase meaning the tail of the hen.",
+    "source_title": "Cygnus (constellation)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6421",
+    "evidence": "Whilst being represented as a swan in the west, the constellation is known as ad-Dajājah in Arabic, meaning \"the hen\". Cygnus's brightest star, known in the western world as \"deneb\", gains its name from the Arabic name \"dhaneb\", meaning \"tail\", from the phrase \"Dhanab ad-Dajājah\" or the tail of the hen.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_57_14",
+    "question": "Which Greek myths link Cygnus to Zeus and to Orpheus?",
+    "answer": "Zeus disguised himself as a swan to seduce Leda, and Orpheus was turned into a swan after his murder and placed in the sky next to his lyre (Lyra).",
+    "source_title": "Cygnus (constellation)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6421",
+    "evidence": "Zeus disguised himself as a swan to seduce Leda, Spartan king Tyndareus's wife, who gave birth to the Gemini, Helen of Troy, and Clytemnestra, and Orpheus was transformed into a swan after his murder and said to have been placed in the sky next to his lyre (Lyra).",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_57_15",
+    "question": "What role do the stars Deneb and Albireo play in the traditional depiction of Cygnus as a swan?",
+    "answer": "Deneb marks the swan's tail and Albireo the tip of its beak, with Delta and Epsilon Cygni as the wings.",
+    "source_title": "Cygnus (constellation)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6421",
+    "evidence": "Normally, Cygnus is depicted with Delta and Epsilon Cygni as its wings. Deneb, the brightest in the constellation is at its tail, and Albireo as the tip of its beak.",
+    "question_type": "factual"
+  }
+]

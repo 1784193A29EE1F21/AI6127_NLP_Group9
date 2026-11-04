@@ -1,0 +1,110 @@
+[
+  {
+    "id": "wiki_17_01",
+    "question": "What is an assault gun?",
+    "answer": "An armored infantry support vehicle and self-propelled artillery that mounts an infantry support gun on a protected self-propelled chassis to give infantry heavy direct fire support, especially against infantry or fortified positions.",
+    "source_title": "Assault gun",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2284",
+    "evidence": "An assault gun (from, meaning \"attack gun\") is a type of armored infantry support vehicle and self-propelled artillery, mounting an infantry support gun on a protected self-propelled chassis, intended for providing infantry with heavy direct fire support during engagement, especially against other infantry or fortified positions, secondarily also giving some armored protection and anti-armor capability.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_17_02",
+    "question": "Why did German and Soviet World War II assault guns usually carry their main armament in an enclosed casemate instead of a turret?",
+    "answer": "A casemate gave a reduced silhouette and simplified manufacturing, even though it limited the gun's field of fire and traverse.",
+    "source_title": "Assault gun",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2284",
+    "evidence": "German and Soviet assault guns introduced during World War II usually carried their main armament in a fully enclosed casemate rather than a gun turret. Although this limited the field of fire and traverse of the armament, it also had the advantage of a reduced silhouette and simplified the manufacturing process.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_17_03",
+    "question": "How was the concept of the assault gun similar to, and different from, that of the infantry tank?",
+    "answer": "Both were meant to accompany infantry into battle, but assault gun designs often skipped tank features judged unnecessary for reasons of cost and doctrine.",
+    "source_title": "Assault gun",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2284",
+    "evidence": "Historically, the concept of assault guns was very similar to that of the infantry tank, as both were combat vehicles intended to accompany infantry formations into battle, but where assault gun designs often skipped tank features and design elements deemed unnecessary for reasons of cost and doctrine.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_17_04",
+    "question": "What effect did the growing number of tanks on World War II battlefields have on assault gun units?",
+    "answer": "It forced many assault gun units to fight enemy armor to protect the infantry and made armies rely more on multipurpose designs combining the assault gun and tank destroyer roles.",
+    "source_title": "Assault gun",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2284",
+    "evidence": "Nevertheless, as the conflict progressed, the increasing proliferation of tanks on the battlefield forced many assault gun units to engage armor in defense of the infantry, and led to armies becoming more dependent on multipurpose designs which combined the traditionally separate roles of an assault gun and a tank destroyer.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_17_05",
+    "question": "What change allowed the German Sturmgeschütz III, originally an infantry-support assault gun, to function as a tank destroyer?",
+    "answer": "After encountering Soviet tanks it was refitted with a short-barreled high-velocity anti-tank gun, usually with a muzzle brake.",
+    "source_title": "Tank destroyer",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2286",
+    "evidence": "Later, after encountering Soviet tanks, it was refitted with a comparatively short-barreled high-velocity anti-tank gun, usually with a muzzle brake, enabling it to function as a tank destroyer.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_17_06",
+    "question": "Why did the lack of a rotating turret make casemate tank destroyers highly vulnerable when immobilized?",
+    "answer": "Without a turret the gun could only be aimed by turning the whole vehicle, so if engine failure or track damage immobilized it, it could not turn its gun toward opposing tanks.",
+    "source_title": "Tank destroyer",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2286",
+    "evidence": "However, the lack of a rotating turret limited the gun's traverse to a few degrees. This meant that the driver normally had to turn the entire tank onto its target, a much slower process than simply rotating a powered turret. If the vehicle became immobilized due to engine failure or track damage, it could not rotate its gun to counter opposing tanks, making it highly vulnerable to counterfire.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_17_07",
+    "question": "What collective term was officially used for all American tank destroyers in World War II?",
+    "answer": "Gun motor carriage, the same term used for American self-propelled artillery.",
+    "source_title": "Tank destroyer",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2286",
+    "evidence": "All American tank destroyers were officially known by exactly the same collective term used for American self-propelled artillery ordnance, \"gun motor carriage\".",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_17_08",
+    "question": "What happened to most American tank destroyer battalions as they met fewer German tanks during the war?",
+    "answer": "They were split up and assigned to infantry units as supporting arms, fighting as assault guns or essentially as tanks.",
+    "source_title": "Tank destroyer",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2286",
+    "evidence": "As the number of German tanks encountered by American forces steadily decreased throughout the war, most battalions were split up and assigned to infantry units as supporting arms, fighting as assault guns or used essentially as tanks.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_17_09",
+    "question": "Which was the first armored vehicle to be used in combat, and in which campaign was it first used?",
+    "answer": "The Spanish Schneider-Brillié, first used in the Kert Campaign.",
+    "source_title": "Armored car (military)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2287",
+    "evidence": "The Spanish Schneider-Brillié was the first armored vehicle to be used in combat, being first used in the Kert Campaign.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_17_10",
+    "question": "Why did the armored car remain popular even after the tank was invented?",
+    "answer": "Because of its faster speed, comparatively simple maintenance and low production cost.",
+    "source_title": "Armored car (military)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2287",
+    "evidence": "Following the invention of the tank, the armoured car remained popular due to its faster speed, comparatively simple maintenance and low production cost.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_17_11",
+    "question": "How do wheeled armored cars compare with tracked military vehicles in cost, road performance and off-road mobility?",
+    "answer": "Armored cars are usually cheaper and have better road speed and range, but have less off-road mobility because of their higher ground pressure.",
+    "source_title": "Armored car (military)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2287",
+    "evidence": "Armored cars are typically less expensive and on roads have better speed and range than tracked military vehicles. They do however have less mobility as they have less off-road capabilities because of the higher ground pressure.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_17_12",
+    "question": "What postwar development made it possible for armored cars such as the B1 Centauro to carry a large cannon capable of threatening tanks?",
+    "answer": "Advances in recoil control technology.",
+    "source_title": "Armored car (military)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2287",
+    "evidence": "Postwar advances in recoil control technology have also made it possible for a few armoured cars, including the B1 Centauro, the Panhard AML, the AMX-10 RC and EE-9 Cascavel, to carry a large cannon capable of threatening many tanks.",
+    "question_type": "cause_effect"
+  }
+]

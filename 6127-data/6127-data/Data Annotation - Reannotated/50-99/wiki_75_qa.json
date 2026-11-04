@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki_75_01",
+    "question": "What is a database management system (DBMS)?",
+    "answer": "Software that lets users define, create and maintain a database and control access to it.",
+    "source_title": "Database",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8377",
+    "evidence": "Connolly and Begg define database management system (DBMS) as a \"software system that enables users to define, create, maintain and control access to the database.\"",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_75_02",
+    "question": "What technological development made the concept of a database possible?",
+    "answer": "The emergence of direct-access storage media such as magnetic disks, widely available by the mid-1960s.",
+    "source_title": "Database",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8377",
+    "evidence": "The concept of a database was made possible by the emergence of direct access storage media such as magnetic disks, which became widely available in the mid-1960s; earlier systems relied on sequential storage of data on magnetic tape.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_75_03",
+    "question": "How did Edgar F. Codd's relational model differ from earlier navigational database models?",
+    "answer": "It organized data in tables and linked records through primary keys rather than navigational links or disk addresses, supporting relational queries.",
+    "source_title": "Database",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8377",
+    "evidence": "Instead of records being stored in some sort of linked list of free-form records as in CODASYL, Codd's idea was to organize the data as a number of \"tables\", each table being used for a different type of entity. Each table would contain a fixed number of columns containing the attributes of the entity. One or more columns of each table were designated as a primary key by which the rows of the table could be uniquely identified; cross-references between tables always used these primary keys, rather than disk addresses, and queries would join tables based on these key relationships, using a set of operations based on the mathematical system of relational calculus (from which the model takes its name).",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_75_04",
+    "question": "Why was Edgar F. Codd unhappy with the CODASYL navigational approach?",
+    "answer": "The CODASYL navigational model lacked a search facility.",
+    "source_title": "Database",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8377",
+    "evidence": "He was unhappy with the navigational model of the CODASYL approach, notably the lack of a \"search\" facility.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_75_05",
+    "question": "Why were object databases developed in the 1980s?",
+    "answer": "To overcome the inconvenience of object-relational impedance mismatch.",
+    "source_title": "Database",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8377",
+    "evidence": "Object databases were developed in the 1980s to overcome the inconvenience of object–relational impedance mismatch, which led to the coining of the term \"post-relational\" and also the development of hybrid object–relational databases.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_75_06",
+    "question": "What is the main function of the Domain Name System?",
+    "answer": "To translate memorable domain names into the numerical IP addresses needed to locate network services and devices.",
+    "source_title": "Domain Name System",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8339",
+    "evidence": "Most prominently, it translates readily memorized domain names to the numerical IP addresses needed for locating and identifying computer services and devices with the underlying network protocols.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_75_07",
+    "question": "Why does the Domain Name System delegate authority to name servers rather than using one central database?",
+    "answer": "Delegation distributes responsibility and provides fault tolerance while avoiding a single large central database.",
+    "source_title": "Domain Name System",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8339",
+    "evidence": "The Domain Name System delegates the responsibility of assigning domain names and mapping those names to Internet resources by designating authoritative name servers for each domain. Network administrators may delegate authority over subdomains of their allocated name space to other name servers. This mechanism provides distributed and fault-tolerant service and was designed to avoid a single large central database.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_75_08",
+    "question": "How does DNS-based routing for content delivery networks differ from a traditional phone-book view of DNS?",
+    "answer": "A CDN can translate the same domain into different server IP addresses for different users, routing each to a nearby server rather than providing one fixed mapping.",
+    "source_title": "Domain Name System",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8339",
+    "evidence": "When a user accesses a distributed Internet service using a URL, the domain name of the URL is translated to the IP address of a server that is proximal to the user. The key functionality of the DNS exploited here is that different users can \"simultaneously\" receive different translations for the \"same\" domain name, a key point of divergence from a traditional phone-book view of the DNS.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_75_09",
+    "question": "What did the Stanford Research Institute use to map host names to addresses before the Domain Name System existed?",
+    "answer": "A text file called HOSTS.TXT.",
+    "source_title": "Domain Name System",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8339",
+    "evidence": "The Stanford Research Institute (now SRI International) maintained a text file named HOSTS.TXT that mapped host names to the numerical addresses of computers on the ARPANET.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_75_10",
+    "question": "Why was an automated naming system needed for the network by the early 1980s, and who created it?",
+    "answer": "A centralized host table had become slow and unwieldy; Paul Mockapetris created DNS in 1983 to address the network's naming needs.",
+    "source_title": "Domain Name System",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8339",
+    "evidence": "By the early 1980s, maintaining a single, centralized host table had become slow and unwieldy and the emerging network required an automated naming system to address technical and personnel issues. Postel directed the task of forging a compromise between five competing proposals of solutions to Paul Mockapetris. Mockapetris instead created the Domain Name System in 1983 while at the University of Southern California.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_75_11",
+    "question": "Where did the name \"difference engine\" come from?",
+    "answer": "It was named after the method of finite differences used to interpolate or tabulate functions.",
+    "source_title": "Difference engine",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8324",
+    "evidence": "The name \"difference engine\" is derived from the method of finite differences, a way to interpolate or tabulate functions by using a small set of polynomial co-efficients.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_75_12",
+    "question": "Why did Charles Babbage's Difference Engine No. 1 prove far more expensive than the British government expected?",
+    "answer": "Contemporary metalworking could not economically produce parts with the required precision and quantity, despite the design being feasible.",
+    "source_title": "Difference engine",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8324",
+    "evidence": "Although Babbage's design was feasible, the metalworking techniques of the era could not economically make parts in the precision and quantity required. Thus the implementation proved to be much more expensive and doubtful of success than the government's initial estimate.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_75_13",
+    "question": "Why did Babbage want his difference engine to include a printer that fed results directly to printing?",
+    "answer": "Direct printing would avoid errors introduced by manual typesetting of calculated tables.",
+    "source_title": "Difference engine",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8324",
+    "evidence": "Babbage intended that the Engine's results be conveyed directly to mass printing, having recognized that many errors in previous tables were not the result of human calculating mistakes but from slips in the manual typesetting process.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_75_14",
+    "question": "What makes a decision problem \"decidable\"?",
+    "answer": "A decision problem is decidable when an algorithmic decision procedure gives the correct yes-or-no answer for every input.",
+    "source_title": "Decision problem",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8336",
+    "evidence": "A decision procedure for a decision problem is an algorithmic method that answers the yes-no question on all inputs, and a decision problem is called decidable if there is a decision procedure for it.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_75_15",
+    "question": "How do optimization problems differ from decision problems?",
+    "answer": "Decision problems ask for a yes-or-no answer, whereas optimization problems seek the best answer for an input.",
+    "source_title": "Decision problem",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8336",
+    "evidence": "A decision procedure for a decision problem is an algorithmic method that answers the yes-no question on all inputs, and a decision problem is called decidable if there is a decision procedure for it. ... Unlike decision problems, for which there is only one correct answer for each input, optimization problems are concerned with finding the \"best\" answer to a particular input.",
+    "question_type": "comparison"
+  }
+]

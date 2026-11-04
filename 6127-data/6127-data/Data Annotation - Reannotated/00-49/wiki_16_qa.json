@@ -1,0 +1,110 @@
+[
+  {
+    "id": "wiki_16_01",
+    "question": "Why did Apple cancel its AppleNet networking project?",
+    "answer": "Apple expected emerging network standards to supersede its proprietary system and decided networking-system creation was not its business.",
+    "source_title": "AppleTalk",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2115",
+    "evidence": "All of the systems were jockeying for position in the market, but even at this time, Ethernet's widespread acceptance suggested it was to become a \"de facto\" standard. ... At the time, they announced that \"Apple realized that it's not in the business to create a networking system. We built and used AppleNet in-house, but we realized that if we had shipped it, we would have seen new standards coming up.\" In January, Jobs announced that they would instead be supporting IBM's Token Ring, which he expected to come out in a \"few months\".",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_16_02",
+    "question": "Who led the effort to develop a new networking system based on the AppleBus hardware after AppleNet was cancelled?",
+    "answer": "Gursharan Sidhu.",
+    "source_title": "AppleTalk",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2115",
+    "evidence": "It was at this show that Steve Jobs asked Gursharan Sidhu a seemingly innocuous question: \"Why has networking not caught on?\" ... When AppleNet was cancelled in October, Sidhu led an effort to develop a new networking system based on the AppleBus hardware.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_16_03",
+    "question": "What was PhoneNET in the context of AppleTalk networking?",
+    "answer": "A system for connecting AppleTalk networks over ordinary telephone wiring, potentially sharing a four-wire cable with analog telephones.",
+    "source_title": "AppleTalk",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2115",
+    "evidence": "PhoneNet allows AppleTalk networks to be connected together using normal telephone wires, and with very little extra work, analog phones and AppleTalk can share a single four-conductor phone cable.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_16_04",
+    "question": "How does a name in AppleTalk's Name Binding Protocol differ from a DNS A record in what it identifies?",
+    "answer": "An NBP name identifies a service using a node and socket address; a DNS A record identifies a machine address without the service's port.",
+    "source_title": "AppleTalk",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2115",
+    "evidence": "As NBP names translated to an address, which included a socket number as well as a node number, a name in AppleTalk mapped directly to a \"service\" being provided by a machine, which was entirely separate from the name of the machine itself. ... Contrast this with \"A records\" in the DNS, in which a name translates to a machine's address, not including the port number that might be providing a service.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_16_05",
+    "question": "Who designed the original Apple II computer?",
+    "answer": "Steve Wozniak.",
+    "source_title": "Apple II",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2116",
+    "evidence": "The original Apple II model, which gave the series its name, was designed by Steve Wozniak and was first sold on June 10, 1977.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_16_06",
+    "question": "How did the success of VisiCalc on the Apple II influence IBM?",
+    "answer": "VisiCalc's success helped motivate IBM to create the IBM PC for business spreadsheet and word-processing use.",
+    "source_title": "Apple II",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2116",
+    "evidence": "The first spreadsheet application, VisiCalc, was initially released for the Apple II, and many businesses bought them just to run VisiCalc. Its success drove IBM in part to create the IBM PC, which many businesses purchased to run spreadsheet and word processing software, at first ported from Apple II versions.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_16_07",
+    "question": "Which operating system succeeded Apple DOS 3.3 on the Apple II, and which Apple III operating system was it descended from?",
+    "answer": "ProDOS, descended from the Apple III's SOS.",
+    "source_title": "Apple II",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2116",
+    "evidence": "DOS 3.3 was succeeded by ProDOS, a 1983 descendant of the Apple ///'s SOS.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_16_08",
+    "question": "Which model in the Apple II series came with built-in AppleTalk networking?",
+    "answer": "The GS model of the Apple II family.",
+    "source_title": "Apple II",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2116",
+    "evidence": "The GS includes a 32-voice Ensoniq 5503 DOC sample-based sound synthesizer chip with 64 KB dedicated RAM, 256 KB (or later 1.125 MB) of standard RAM, built-in peripheral ports (switchable between IIe-style card slots and IIc-style onboard controllers for disk drives, mouse, RGB video, and serial devices), and built-in AppleTalk networking.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_16_09",
+    "question": "According to Steve Wozniak, why did the Apple III fail?",
+    "answer": "It was designed by the marketing department rather than through Apple's earlier engineering-led approach.",
+    "source_title": "Apple III",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2117",
+    "evidence": "Steve Wozniak stated that the primary reason for the Apple III's failure was that the system was designed by Apple's marketing department, unlike Apple's previous engineering-driven projects.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_16_10",
+    "question": "How did the Apple III's failure affect Apple's plans for the Apple II line?",
+    "answer": "Apple reconsidered phasing out the Apple II and incorporated some Apple III technologies in later Apple II models.",
+    "source_title": "Apple III",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2117",
+    "evidence": "The III's failure led Apple to reevaluate its plan to phase out the Apple II, and later Apple II models incorporate some technologies of the Apple III.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_16_11",
+    "question": "How did case designer Jerry Manock's explanation of the Apple III's reliability problems differ from the claim that the machine overheated?",
+    "answer": "He argued heat dissipation was adequate and blamed immature fine-line logic-board technology, which caused solder bridges and short circuits.",
+    "source_title": "Apple III",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2117",
+    "evidence": "Case designer Jerry Manock denied the design flaw charges, insisting that tests proved that the unit adequately dissipated the internal heat. The primary cause, he claimed, was a major logic board design problem. The logic board used \"fineline\" technology that was not fully mature at the time, with narrow, closely spaced traces. When chips were \"stuffed\" into the board and wave-soldered, solder bridges would form between traces that were not supposed to be connected. This caused numerous short circuits, which required hours of costly diagnosis and hand rework to fix.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_16_12",
+    "question": "Why did Apple engineers add circuitry blocking the Apple III's advanced features when it ran in Apple II emulation mode?",
+    "answer": "To discourage further Apple II development and interest and promote the Apple III as its replacement.",
+    "source_title": "Apple III",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2117",
+    "evidence": "Apple engineers added specialized circuitry with the sole purpose of blocking access to its advanced features when running in Apple II emulation mode. This was done primarily to discourage further development and interest in the Apple II line, and to push the Apple III as its successor.",
+    "question_type": "why"
+  }
+]

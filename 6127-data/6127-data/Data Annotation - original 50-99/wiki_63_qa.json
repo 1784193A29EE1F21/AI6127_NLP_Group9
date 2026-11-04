@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki_63_01",
+    "question": "Why is Cimabue regarded as one of the first great Italian painters to break from the Italo-Byzantine style?",
+    "answer": "Compared with medieval norms, his works have more lifelike figural proportions and a more sophisticated use of shading to suggest volume.",
+    "source_title": "Cimabue",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6991",
+    "evidence": "Although heavily influenced by Byzantine models, Cimabue is generally regarded as one of the first great Italian painters to break from the Italo-Byzantine style. Compared with the norms of medieval art, his works have more lifelike figural proportions and a more sophisticated use of shading to suggest volume.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_63_02",
+    "question": "What prank did Vasari claim Giotto played on Cimabue during his apprenticeship?",
+    "answer": "He painted a fly on the nose of a portrait Cimabue was working on, which Cimabue tried to sweep away several times.",
+    "source_title": "Cimabue",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6991",
+    "evidence": "Vasari elaborates that during Giotto's apprenticeship, he allegedly painted a fly on the nose of a portrait Cimabue was working on; the teacher attempted to sweep the fly away several times before he understood his pupil's prank.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_63_03",
+    "question": "What has caused Cimabue's fresco cycle in the Upper Basilica of Assisi to fall into poor condition?",
+    "answer": "Oxidation of the brighter colours the artist used.",
+    "source_title": "Cimabue",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6991",
+    "evidence": "The paintings are now in poor condition because of oxidation of the brighter colours that were used by the artist.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_63_04",
+    "question": "What does the nickname \"Cimabue\" mean?",
+    "answer": "\"Ox-head\", or possibly \"one who crushes the views of others\", from the Italian verb cimare.",
+    "source_title": "Cimabue",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6991",
+    "evidence": "The nickname Cimabue translates as \"ox-head\" but also possibly as \"one who crushes the views of others\", from the Italian verb \"cimare\", meaning \"to top\", \"to shear\", and \"to blunt\".",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_63_05",
+    "question": "How does Dante's Purgatorio contrast Cimabue's reputation with Giotto's?",
+    "answer": "It laments how quickly public interest in Cimabue faded before Giotto's revolution in art, using him to represent the fleeting nature of fame.",
+    "source_title": "Cimabue",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6991",
+    "evidence": "In Canto XI of his \"Purgatorio\", Dante laments the quick loss of public interest in Cimabue in the face of Giotto's revolution in art. ... The artist serves to represent the fleeting nature of fame in contrast with the Enduring God.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_63_06",
+    "question": "What is tenebrism, the technique associated with Caravaggio?",
+    "answer": "A dramatic, even theatrical, use of chiaroscuro involving a shift from light to dark with little intermediate value.",
+    "source_title": "Caravaggio",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7018",
+    "evidence": "Caravaggio's innovation was a radical naturalism that combined close physical observation with a dramatic, even theatrical, use of chiaroscuro known as tenebrism (the shift from light to dark with little intermediate value).",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_63_07",
+    "question": "What forced Caravaggio to flee Rome for Naples?",
+    "answer": "He killed Ranuccio Tomassoni in a brawl, which led to a death sentence for murder.",
+    "source_title": "Caravaggio",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7018",
+    "evidence": "He killed Ranuccio Tomassoni in a brawl, which led to a death sentence for murder and forced him to flee to Naples.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_63_08",
+    "question": "Why were some of Caravaggio's religious commissions rejected by the bodies that ordered them?",
+    "answer": "Some found his realism unacceptably vulgar, and some of his images did not correspond to religious texts.",
+    "source_title": "Caravaggio",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7018",
+    "evidence": "While Caravaggio's dramatic intensity was appreciated, his realism was seen by some as unacceptably vulgar. Another reason for rejection was when Caravaggio's images did not correspond to religious texts.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_63_09",
+    "question": "How did Caravaggio come to attract the patronage of Cardinal Francesco Maria del Monte?",
+    "answer": "Two of his paintings displayed in Costantino Spata's shop caught the cardinal's attention, and he bought them both.",
+    "source_title": "Caravaggio",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7018",
+    "evidence": "The two paintings, which were displayed in Costantino Spata's shop, attracted the patronage of Cardinal Francesco Maria del Monte, one of the leading connoisseurs in Rome. He purchased them both.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_63_10",
+    "question": "How did Caravaggio's way of preparing a painting differ from the traditional practice in central Italy?",
+    "answer": "He skipped the lengthy preparations traditional in central Italy and followed the Venetian practice of working in oils directly from the subject.",
+    "source_title": "Caravaggio",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7018",
+    "evidence": "Caravaggio also dispensed with the lengthy preparations for a painting that were traditional in central Italy at the time. Instead, he preferred the Venetian practice of working in oils directly from the subject—half-length figures and still life.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_63_11",
+    "question": "What qualities characterize the work of Jean Siméon Chardin?",
+    "answer": "Carefully balanced composition, soft diffusion of light and granular impasto.",
+    "source_title": "Jean Siméon Chardin",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7019",
+    "evidence": "Carefully balanced composition, soft diffusion of light, and granular impasto characterize his work.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_63_12",
+    "question": "How did Chardin's choice of subjects compare with the dominant artistic values of 18th-century France?",
+    "answer": "His still lifes and domestic genre scenes had little in common with the dominant Rococo and were seen as minor categories when history painting was considered supreme.",
+    "source_title": "Jean Siméon Chardin",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7019",
+    "evidence": "Chardin's work had little in common with the Rococo painting that dominated French art in the 18th century. At a time when history painting was considered the supreme classification for public art, Chardin's subjects of choice were viewed as minor categories.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_63_13",
+    "question": "What led Chardin to begin painting in pastels late in his life?",
+    "answer": "His eyesight weakened.",
+    "source_title": "Jean Siméon Chardin",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7019",
+    "evidence": "In the 1770s his eyesight weakened and he took to painting in pastels, a medium in which he executed portraits of his wife and himself (see \"Self-portrait\" at top right).",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_63_14",
+    "question": "Why did Chardin's productivity as a painter decline in his later career?",
+    "answer": "His Salon responsibilities, arranging the exhibitions and acting as treasurer, took up his time, so he showed replicas of earlier works.",
+    "source_title": "Jean Siméon Chardin",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7019",
+    "evidence": "Beginning in 1761, his responsibilities on behalf of the Salon, simultaneously arranging the exhibitions and acting as treasurer, resulted in a diminution of productivity in painting, and the showing of 'replicas' of previous works.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_63_15",
+    "question": "From what earlier artistic tradition did Chardin's scenes of children building houses of cards derive?",
+    "answer": "Netherlandish vanitas works, which carried messages about the transitory nature of human life.",
+    "source_title": "Jean Siméon Chardin",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7019",
+    "evidence": "Scenes such as these derived from 17th-century Netherlandish vanitas works, which bore messages about the transitory nature of human life and the worthlessness of material ambitions, but Chardin's also display a delight in the ephemeral phases of childhood for their own sake.",
+    "question_type": "factual"
+  }
+]

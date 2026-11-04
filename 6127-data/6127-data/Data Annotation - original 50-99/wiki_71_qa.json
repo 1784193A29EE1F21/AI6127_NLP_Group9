@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki_71_01",
+    "question": "Why is the Data Encryption Standard considered insecure for modern applications?",
+    "answer": "Because of its relatively short 56-bit key size.",
+    "source_title": "Data Encryption Standard",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7978",
+    "evidence": "DES is insecure due to the relatively short 56-bit key size.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_71_02",
+    "question": "Which earlier cipher was the Data Encryption Standard based on?",
+    "answer": "Horst Feistel's Lucifer cipher.",
+    "source_title": "Data Encryption Standard",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7978",
+    "evidence": "This time, IBM submitted a candidate which was deemed acceptable—a cipher developed during the period 1973–1974 based on an earlier algorithm, Horst Feistel's Lucifer cipher.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_71_03",
+    "question": "Why did critics such as Martin Hellman and Whitfield Diffie suspect NSA interference in the design of DES?",
+    "answer": "Because of its shortened key length and the mysterious S-boxes, which they feared had covertly weakened the algorithm so the NSA could read encrypted messages.",
+    "source_title": "Data Encryption Standard",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7978",
+    "evidence": "There was criticism received from public-key cryptography pioneers Martin Hellman and Whitfield Diffie, citing a shortened key length and the mysterious \"S-boxes\" as evidence of improper interference from the NSA. The suspicion was that the algorithm had been covertly weakened by the intelligence agency so that they—but no one else—could easily read encrypted messages.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_71_04",
+    "question": "What did the public discovery of differential cryptanalysis reveal about the NSA's changes to the DES S-boxes?",
+    "answer": "The S-boxes were much more resistant to the attack than random ones would be, showing IBM and the NSA knew the technique in the 1970s and that the NSA's tweaks actually improved DES's security.",
+    "source_title": "Data Encryption Standard",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7978",
+    "evidence": "The S-boxes of DES were much more resistant to the attack than if they had been chosen at random, strongly suggesting that IBM knew about the technique in the 1970s. ... Bruce Schneier observed that \"It took the academic community two decades to figure out that the NSA 'tweaks' actually improved the security of DES.\"",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_71_05",
+    "question": "What is the Feistel scheme used in DES, and what practical benefit does it give?",
+    "answer": "The block is split into two halves processed alternately in a criss-cross pattern; it makes encryption and decryption nearly identical, so no separate decryption algorithm is needed.",
+    "source_title": "Data Encryption Standard",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7978",
+    "evidence": "Before the main rounds, the block is divided into two 32-bit halves and processed alternately; this criss-crossing is known as the Feistel scheme. The Feistel structure ensures that decryption and encryption are very similar processes—the only difference is that the subkeys are applied in the reverse order when decrypting.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_71_06",
+    "question": "Which concept identified by Claude Shannon is provided in DES by alternating S-box substitution with P-box and E-expansion permutations?",
+    "answer": "\"Confusion and diffusion\".",
+    "source_title": "Data Encryption Standard",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7978",
+    "evidence": "The alternation of substitution from the S-boxes, and permutation of bits from the P-box and E-expansion provides so-called \"confusion and diffusion\" respectively, a concept identified by Claude Shannon in the 1940s as a necessary condition for a secure yet practical cipher.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_71_07",
+    "question": "Which algorithm replaced DES as the US standard, and under what name was it originally submitted?",
+    "answer": "The Advanced Encryption Standard (AES), submitted under the name Rijndael.",
+    "source_title": "Data Encryption Standard",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7978",
+    "evidence": "In 2001, after an international competition, NIST selected a new cipher, the Advanced Encryption Standard (AES), as a replacement. The algorithm which was selected as the AES was submitted by its designers under the name Rijndael.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_71_08",
+    "question": "How does lossless compression differ from lossy compression?",
+    "answer": "Lossless compression removes statistical redundancy without losing any information, while lossy compression removes unnecessary or less important information.",
+    "source_title": "Data compression",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8013",
+    "evidence": "Lossless compression reduces bits by identifying and eliminating statistical redundancy. No information is lost in lossless compression. Lossy compression reduces bits by removing unnecessary or less important information.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_71_09",
+    "question": "Which researcher essentially created the information-theory fields that provide the theoretical basis for data compression?",
+    "answer": "Claude Shannon.",
+    "source_title": "Data compression",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8013",
+    "evidence": "These areas of study were essentially created by Claude Shannon, who published fundamental papers on the topic in the late 1940s and early 1950s.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_71_10",
+    "question": "What perceptual fact does JPEG-style lossy image compression exploit?",
+    "answer": "The human eye is more sensitive to subtle variations in luminance than to variations in color.",
+    "source_title": "Data compression",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8013",
+    "evidence": "For example, the human eye is more sensitive to subtle variations in luminance than it is to the variations in color. JPEG image compression works in part by rounding off nonessential bits of information.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_71_11",
+    "question": "Why is there a close connection between machine learning and data compression?",
+    "answer": "A system that predicts the probabilities of a sequence given its history can be used for optimal compression, and an optimal compressor can be used for prediction.",
+    "source_title": "Data compression",
+    "source_url": "https://en.wikipedia.org/wiki?curid=8013",
+    "evidence": "A system that predicts the posterior probabilities of a sequence given its entire history can be used for optimal data compression (by using arithmetic coding on the output distribution). Conversely, an optimal compressor can be used for prediction (by finding the symbol that compresses best, given the previous history).",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_71_12",
+    "question": "What is a data warehouse?",
+    "answer": "A central repository of data integrated from disparate sources, used for reporting and data analysis as a core component of business intelligence.",
+    "source_title": "Data warehouse",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7990",
+    "evidence": "In computing, a data warehouse (DW or DWH), also known as an enterprise data warehouse (EDW), is a system used for reporting and data analysis and is a core component of business intelligence. Data warehouses are central repositories of data integrated from disparate sources.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_71_13",
+    "question": "Why do operational (OLTP) databases benefit from row-oriented storage while analytics (OLAP) databases benefit from column-oriented storage?",
+    "answer": "Because analytic access usually selects specific fields rather than all fields, as is common in operational databases.",
+    "source_title": "Data warehouse",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7990",
+    "evidence": "Data warehouses are optimized for analytic access patterns, which usually involve selecting specific fields rather than all fields as is common in operational databases. Because of these differences in access, operational databases (loosely, OLTP) benefit from the use of a row-oriented database management system (DBMS), whereas analytics databases (loosely, OLAP) benefit from the use of a column-oriented DBMS.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_71_14",
+    "question": "How do Ralph Kimball's and Bill Inmon's approaches to storing data in a warehouse differ?",
+    "answer": "Kimball proposed the dimensional approach using a star schema, while Inmon proposed the normalized third normal form (entity-relational) approach.",
+    "source_title": "Data warehouse",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7990",
+    "evidence": "The dimensional approach uses a star schema as proposed by Ralph Kimball. The normalized approach, also called the third normal form (3NF) is an entity-relational normalized model proposed by Bill Inmon.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_71_15",
+    "question": "How does ELT-based data warehousing differ from ETL in where data transformation happens?",
+    "answer": "ELT drops the separate ETL transformation tool, loading extracted data directly into the warehouse and performing all transformations inside it.",
+    "source_title": "Data warehouse",
+    "source_url": "https://en.wikipedia.org/wiki?curid=7990",
+    "evidence": "ELT-based data warehousing gets rid of a separate ETL tool for data transformation. Instead, it maintains a staging area inside the data warehouse itself. In this approach, data gets extracted from heterogeneous source systems and are then directly loaded into the data warehouse, before any transformation occurs.",
+    "question_type": "comparison"
+  }
+]

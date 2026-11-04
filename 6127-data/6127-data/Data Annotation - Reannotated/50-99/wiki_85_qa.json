@@ -1,0 +1,128 @@
+[
+  {
+    "id": "wiki_85_01",
+    "question": "Which empire absorbed the indigenous tribes of present-day Ecuador before the Spanish conquest?",
+    "answer": "The Inca Empire.",
+    "source_title": "History of Ecuador",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9335",
+    "evidence": "Indigenous tribes inhabited the area for millennia before being invaded and absorbed into the Inca Empire in the early fifteenth century.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_85_02",
+    "question": "Why did Emperor Huayna Capac want his heart buried in Quito?",
+    "answer": "Quito was his favorite city; he had grown fond of it and spent his later years there.",
+    "source_title": "History of Ecuador",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9335",
+    "evidence": "Emperor Huayna Capac became fond of Quito, making it a secondary capital of Tawantinsuyu and living out his elder years there before his death in about 1527. He willed that his heart be buried in Quito, his favorite city, and the rest of his body be buried with his ancestors in Cuzco.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_85_03",
+    "question": "What helped Sebastián de Benalcázar defeat the Inca warrior Rumiñahui near Mount Chimborazo?",
+    "answer": "Cañari tribesmen helped as guides and allies of the Spaniards.",
+    "source_title": "History of Ecuador",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9335",
+    "evidence": "At the foot of Mount Chimborazo, near the modern city of Riobamba (Ecuador), he met and defeated the forces of the great Inca warrior Rumiñahui with the aid of Cañari tribesmen who served as guides and allies to the conquering Spaniards.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_85_04",
+    "question": "What was the outcome of the Guayaquil Conference between Simón Bolívar and José de San Martín?",
+    "answer": "Bolívar persuaded San Martín and local elites that the former Quito Audiencia should join the liberated lands to the north rather than return the port to Peruvian jurisdiction.",
+    "source_title": "History of Ecuador",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9335",
+    "evidence": "Later that July, he met San Martín at the Guayaquil conference and convinced the Argentine general, who wanted the port to return to Peruvian jurisdiction, and the local Criollo elite in both major cities of the advantage of having the former Quito Audiencia join with the liberated lands to the north.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_85_05",
+    "question": "Why was the State of Ecuador given that name?",
+    "answer": "Because of its geographical proximity to the equator.",
+    "source_title": "History of Ecuador",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9335",
+    "evidence": "In May of that year, a group of Quito notables met to dissolve the union with Gran Colombia, and in August, a constituent assembly drew up a constitution for the State of Ecuador, so named for its geographic proximity to the equator, and placed General Flores in charge of political and military affairs.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_85_06",
+    "question": "What role did Guayaquil play in the economy of colonial Ecuador?",
+    "answer": "Guayaquil was a vigorous intercolonial trading center and became the largest shipbuilding center on South America's west coast.",
+    "source_title": "History of Ecuador",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9335",
+    "evidence": "The coastal economy revolved around shipping and trade. Guayaquil, despite being destroyed on several occasions by fire and incessantly plagued by either yellow fever or malaria, was a center of vigorous trade among the colonies, a trade that was technically illegal under the mercantilist philosophy of the contemporary Spanish rulers. Guayaquil also became the largest shipbuilding center on the west coast of South America before the end of the colonial period.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_85_07",
+    "question": "How have Ecuador's political parties historically maintained support?",
+    "answer": "Through populist, often charismatic leaders rather than coherent programs or ideology.",
+    "source_title": "Politics of Ecuador",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9338",
+    "evidence": "Ecuador's political parties have historically been small, loose organizations that depended more on populist, often charismatic, leaders to retain support than on programs or ideology.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_85_08",
+    "question": "How did the 1998 constitution change the balance between Ecuador's executive and Congress?",
+    "answer": "It strengthened the executive by ending mid-term congressional elections and limiting Congress's ability to challenge cabinet ministers.",
+    "source_title": "Politics of Ecuador",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9338",
+    "evidence": "Constitutional changes enacted by a specially elected National Constitutional Assembly in 1998 took effect on 10 August 1998. The new constitution strengthens the executive branch by eliminating mid-term congressional elections and by circumscribing Congress' power to challenge cabinet ministers.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_85_09",
+    "question": "Why was President Lucio Gutiérrez removed from office by Congress?",
+    "answer": "Congress removed him amid escalating street protests fueled by criticism of his Supreme Court appointments.",
+    "source_title": "Politics of Ecuador",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9338",
+    "evidence": "Former Vice-President Alfredo Palacio assumed the presidency on 20 April 2005 after Congress removed Lucio Gutiérrez amid escalating street protests precipitated by growing criticism of Gutiérrez's Supreme Court appointments.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_85_10",
+    "question": "How does the role of Ecuador's Constitutional Court differ from ordinary judicial review?",
+    "answer": "Its role is constitutional control where constitutional rights are violated, rather than ordinary legal revision.",
+    "source_title": "Politics of Ecuador",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9338",
+    "evidence": "The Constitutional Court of Ecuador does not exercise legal revision, but rather constitutional control of situations where constitutional rights are violated.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_85_11",
+    "question": "What currency did Ecuador adopt to address its economic crisis, and what political event followed the announcement?",
+    "answer": "The US dollar; subsequent protests led to the 2000 coup that removed President Jamil Mahuad and elevated Gustavo Noboa.",
+    "source_title": "Economy of Ecuador",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9339",
+    "evidence": "On January 9, 2000, the administration of President Jamil Mahuad announced its intention to adopt the U.S. dollar as the official currency of Ecuador to address the ongoing economic crisis. Subsequent protest led to the 2000 Ecuadorean coup d'état which saw Mahuad's removal from office and the elevation of Vice President Gustavo Noboa to the presidency.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_85_12",
+    "question": "What external shocks triggered Ecuador's 1999 financial crisis?",
+    "answer": "The 1997 El Niño, falling world oil prices in 1997–98 and instability in international emerging markets in 1997–98.",
+    "source_title": "Economy of Ecuador",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9339",
+    "evidence": "The crisis was precipitated by a number of external shocks, including the El Niño weather phenomenon in 1997, a sharp drop in global oil prices in 1997–98, and international emerging market instability in 1997–98.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_85_13",
+    "question": "Why did the Correa government turn to China for external finance?",
+    "answer": "Its 2008 default on $3.2 billion of debt limited access to global financial markets, prompting a turn to nontraditional lenders such as China.",
+    "source_title": "Economy of Ecuador",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9339",
+    "evidence": "Ecuador's access to global financial markets also had been limited by its 2008 default on $3.2 billion in debt to global lenders. Consequently, the Correa government turned to nontraditional allies, such as China, for external finance.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_85_14",
+    "question": "What is the Judiciary Council in Ecuador's judicial branch?",
+    "answer": "The administrative branch of the judicial power.",
+    "source_title": "Politics of Ecuador",
+    "source_url": "https://en.wikipedia.org/wiki?curid=9338",
+    "evidence": "The administrative branch of the judicial power consists of the Judiciary Council.",
+    "question_type": "definition"
+  }
+]

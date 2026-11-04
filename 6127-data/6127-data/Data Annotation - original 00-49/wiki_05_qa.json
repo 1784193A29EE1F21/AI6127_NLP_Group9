@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki_05_01",
+    "question": "Why did Agatha Christie publish some novels under the pseudonym Mary Westmacott?",
+    "answer": "The pseudonym gave her the freedom to explore \"her most private and precious imaginative garden\" in mainstream (non-detective) novels.",
+    "source_title": "Agatha Christie",
+    "source_url": "https://en.wikipedia.org/wiki?curid=984",
+    "evidence": "Christie published six mainstream novels under the name Mary Westmacott, a pseudonym which gave her the freedom to explore \"her most private and precious imaginative garden\".",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_05_02",
+    "question": "How did Agatha Christie's work as a hospital dispenser during the World Wars influence her fiction?",
+    "answer": "It gave her an appreciation of drugs as therapeutic agents and poisons, and likely explains the prominent role of physicians, nurses and pharmacists in her stories.",
+    "source_title": "Agatha Christie",
+    "source_url": "https://en.wikipedia.org/wiki?curid=984",
+    "evidence": "As Michael C. Gerald puts it, her \"activities as a hospital dispenser during both World Wars not only supported the war effort but also provided her with an appreciation of drugs as therapeutic agents and poisons... These hospital experiences were also likely responsible for the prominent role physicians, nurses, and pharmacists play in her stories.\"",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_05_03",
+    "question": "How did one of Agatha Christie's novels help solve a real thallium poisoning case?",
+    "answer": "British medical personnel who had read her book (The Pale Horse) recognised the symptoms she described.",
+    "source_title": "Agatha Christie",
+    "source_url": "https://en.wikipedia.org/wiki?curid=984",
+    "evidence": "Her later novel \"The Pale Horse\" was based on a suggestion from Harold Davis, the chief pharmacist at UCH. In 1977, a thallium poisoning case was solved by British medical personnel who had read Christie's book and recognised the symptoms she described.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_05_04",
+    "question": "What is the \"Coziness\" sub-genre of which Dilys Winn called Agatha Christie the doyenne?",
+    "answer": "A sub-genre featuring a small village setting, a hero with faintly aristocratic connections, many red herrings, and murders by silver letter openers or exotic poisons.",
+    "source_title": "Agatha Christie",
+    "source_url": "https://en.wikipedia.org/wiki?curid=984",
+    "evidence": "Author Dilys Winn called Christie \"the doyenne of Coziness\", a sub-genre which \"featured a small village setting, a hero with faintly aristocratic family connections, a plethora of red herrings and a tendency to commit homicide with sterling silver letter openers and poisons imported from Paraguay\".",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_05_05",
+    "question": "How do the explanations offered by biographer Morgan and author Jared Cade for Agatha Christie's 1926 disappearance differ?",
+    "answer": "Morgan believes she disappeared during a fugue state, while Cade concluded she planned it to embarrass her husband without anticipating the public melodrama.",
+    "source_title": "Agatha Christie",
+    "source_url": "https://en.wikipedia.org/wiki?curid=984",
+    "evidence": "Some, including her biographer Morgan, believe she disappeared during a fugue state. The author Jared Cade concluded that Christie planned the event to embarrass her husband but did not anticipate the resulting public melodrama.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_05_06",
+    "question": "Why did Agatha Christie make Hercule Poirot a Belgian refugee?",
+    "answer": "The many Belgian refugees in Britain after the German invasion made it plausible that such a skilled detective would be available at an English country house, and sympathy for Belgians was considered patriotic.",
+    "source_title": "Hercule Poirot",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1000",
+    "evidence": "The large number of refugees in the country who had fled the German invasion of Belgium in August to November 1914 served as a plausible explanation of why such a skilled detective would be available to solve mysteries at an English country house. At the time of Christie's writing, it was considered patriotic to express sympathy towards the Belgians, since the invasion of their country had constituted Britain's \"casus belli\" for entering World War I, and British wartime propaganda emphasised the \"Rape of Belgium\".",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_05_07",
+    "question": "From which two earlier fictional detectives was Hercule Poirot's name derived?",
+    "answer": "Marie Belloc Lowndes's Hercules Popeau and Frank Howel Evans's Monsieur Poiret.",
+    "source_title": "Hercule Poirot",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1000",
+    "evidence": "Poirot's name was derived from two other fictional detectives of the time: Marie Belloc Lowndes's Hercules Popeau and Frank Howel Evans's Monsieur Poiret, a retired French police officer living in London.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_05_08",
+    "question": "Why does Hercule Poirot deliberately speak broken English and boast?",
+    "answer": "To make people despise and underestimate him as a vain foreigner, which puts them off their guard.",
+    "source_title": "Hercule Poirot",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1000",
+    "evidence": "Poirot is also willing to appear more foreign and vain in an effort to make people underestimate him. He admits that he \"can speak the exact, the idiomatic English. But... to speak the broken English is an enormous asset. It leads people to despise you. They say – a foreigner – he can't even speak English properly.... Also I boast! An Englishman he says often, 'A fellow who thinks as much of himself as that cannot be worth much.'... And so, you see, I put people off their guard.\"",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_05_09",
+    "question": "How did Poirot's detective approach change after \"Murder on the Links\" compared with his earlier clue-based method?",
+    "answer": "He moved away from painstakingly examining crime scenes for clues toward inquiring into the nature of the victim and the psychology of the murderer.",
+    "source_title": "Hercule Poirot",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1000",
+    "evidence": "In \"Murder on the Links\", still largely dependent on clues himself, Poirot's approach is contrasted with a \"bloodhound\" detective who focuses on the traditional trail of clues established in detective fiction. From this point on, Poirot establishes his psychological bona fides. Rather than painstakingly examining crime scenes, he enquires into the nature of the victim or the psychology of the murderer.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_05_10",
+    "question": "Why did Hercule Poirot himself commit murder in \"Curtain\"?",
+    "answer": "To stop a man who manipulated others into killing for him, since that man would otherwise continue and never be convicted.",
+    "source_title": "Hercule Poirot",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1000",
+    "evidence": "In \"Curtain\", Poirot himself became a murderer, in order to prevent further murders instigated by a man who manipulated others to kill for him, subtly and psychologically manipulating the moments where others desire to commit murder so that they carry out the crime when they might otherwise dismiss their thoughts as nothing more than a momentary passion. Poirot executed the man, as otherwise he would have continued his actions and never been convicted.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_05_11",
+    "question": "What change to Agatha Christie's character Caroline Sheppard in a stage adaptation led to the creation of Miss Marple?",
+    "answer": "Michael Morton replaced the spinster Caroline Sheppard with a young girl when adapting \"The Murder of Roger Ackroyd\", which saddened Christie and made her determined to give old maids a voice.",
+    "source_title": "Miss Marple",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1002",
+    "evidence": "Christie also used material from her fictional creation, spinster Caroline Sheppard, who appeared in \"The Murder of Roger Ackroyd\". When Michael Morton adapted the novel for the stage, he replaced the character of Caroline with a young girl. This change saddened Christie and she determined to give old maids a voice; thus, Miss Marple was born.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_05_12",
+    "question": "Why is the letter claiming Miss Marple's name came from a sale at Marple Hall considered a fake?",
+    "answer": "Because the auction it describes was held after the first Miss Marple story had already been published.",
+    "source_title": "Miss Marple",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1002",
+    "evidence": "A letter – ostensibly from Christie to a fan – appeared to prove that the name was inspired by a visit to a sale at Marple Hall in the same town, near her sister Margaret Watts's home at Abney Hall. The letter has been established as a fake as the auction had been held after the date of publication of the first Miss Marple story.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_05_13",
+    "question": "On what does Miss Marple's method of detection rest?",
+    "answer": "On shrewd intelligence and long observation of village life, interpreting new crimes by recalling past incidents.",
+    "source_title": "Miss Marple",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1002",
+    "evidence": "Her method of detection rests on shrewd intelligence and long observation of village life, which she believes reveals the full range of human failings. She frequently interprets new crimes by recalling past incidents and she has a talent for recognising the hidden significance of apparently casual remarks.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_05_14",
+    "question": "How did Margaret Rutherford's film portrayal of Miss Marple differ from the character Christie created?",
+    "answer": "Rutherford played her as a bold, eccentric old lady rather than Christie's prim, birdlike one, and her crime-solving relied more on reading crime fiction than on observing village life.",
+    "source_title": "Miss Marple",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1002",
+    "evidence": "Rutherford presented the character as a bold and eccentric old lady, different from the prim and birdlike character Christie created in her novels. As penned by Christie, Miss Marple has never worked for a living - though the character as portrayed by Margaret Rutherford briefly works undercover as a housekeeper - but is engaged in various philanthropical and cultural endeveours. Her education and genteel background are hinted at when she mentions her awards at marksmanship (and demonstrates her shooting prowess), dancing, fencing, and equestrianism, although these hints are played for comedic value. The character's expertise in solving crimes are based less on observations of village life but on reading crime fiction, with Agatha Christie herself frequently name dropped.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_05_15",
+    "question": "Which actress did Agatha Christie tell in a note that she hoped would one day play Miss Marple?",
+    "answer": "Joan Hickson.",
+    "source_title": "Miss Marple",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1002",
+    "evidence": "Joan Hickson played the lead role. In the 1940s, she had appeared on stage in an Agatha Christie play \"Appointment with Death\", seen by Christie, who wrote in a note to her, \"I hope one day you will play my dear Miss Marple\".",
+    "question_type": "factual"
+  }
+]

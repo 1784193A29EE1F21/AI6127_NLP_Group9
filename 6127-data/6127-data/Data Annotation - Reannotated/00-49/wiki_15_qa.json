@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki_15_01",
+    "question": "Where was André Weil when he completed the work that made his reputation?",
+    "answer": "In the military prison at Bonne-Nouvelle in Rouen.",
+    "source_title": "André Weil",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2019",
+    "evidence": "While Weil was in the military prison in Bonne-Nouvelle, a district of Rouen, from February to May, he completed the work that made his reputation.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_15_02",
+    "question": "Why did André Weil's choice of symbol for the empty set come from the Norwegian alphabet?",
+    "answer": "He alone in the Bourbaki group was familiar with Norwegian and adapted its letter Ø into ∅.",
+    "source_title": "André Weil",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2019",
+    "evidence": "He also chose the symbol ∅, derived from the letter Ø in the Norwegian alphabet (which he alone among the Bourbaki group was familiar with), to represent the empty set.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_15_03",
+    "question": "What was André Weil's attitude toward calling a mathematical guess a conjecture, as shown in the Taniyama case?",
+    "answer": "A guess should not lightly be elevated to a conjecture; the Taniyama case required extensive computational evidence from the late 1960s.",
+    "source_title": "André Weil",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2019",
+    "evidence": "His attitude towards conjectures was that one should not dignify a guess as a conjecture lightly, and in the Taniyama case, the evidence was only there after extensive computational work carried out from the late 1960s.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_15_04",
+    "question": "Which mathematicians proved the Weil conjectures, and who completed the most difficult step?",
+    "answer": "Bernard Dwork, Alexander Grothendieck, Michael Artin and Pierre Deligne; Deligne completed the hardest step in 1973.",
+    "source_title": "André Weil",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2019",
+    "evidence": "The so-called Weil conjectures were hugely influential from around 1950; these statements were later proved by Bernard Dwork, Alexander Grothendieck, Michael Artin, and finally by Pierre Deligne, who completed the most difficult step in 1973.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_15_05",
+    "question": "What analogy does the Selberg trace formula draw in its simplest form?",
+    "answer": "It relates lengths of closed geodesics to Laplacian eigenvalues, analogous to the duality between primes and zeros of the zeta function.",
+    "source_title": "Atle Selberg",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2021",
+    "evidence": "In its simplest form, this establishes a duality between the lengths of closed geodesics on a compact Riemann surface and the eigenvalues of the Laplacian, which is analogous to the duality between the prime numbers and the zeros of the zeta function.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_15_06",
+    "question": "Why were Atle Selberg's 1948 proofs about primes in arithmetic progression and the density of primes significant?",
+    "answer": "They used elementary methods, challenging the belief that advanced complex analysis was necessary.",
+    "source_title": "Atle Selberg",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2021",
+    "evidence": "In 1948, Selberg submitted two papers in \"Annals of Mathematics\" in which he proved by elementary means the theorems for primes in arithmetic progression and the density of primes. This challenged the widely held view of his time that certain theorems are only obtainable with the advanced methods of complex analysis.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_15_07",
+    "question": "What is the Selberg sieve?",
+    "answer": "A sieve method especially suited to auxiliary upper bounds, contributing to results such as Chen's theorem.",
+    "source_title": "Atle Selberg",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2021",
+    "evidence": "In a 1947 paper he introduced the Selberg sieve, a method well adapted in particular to providing auxiliary upper bounds, and which contributed to Chen's theorem, among other important results.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_15_08",
+    "question": "What led Andrew Wiles back to his childhood dream of proving Fermat's Last Theorem?",
+    "answer": "Ken Ribet's 1986 proof of the epsilon conjecture, linking the problem to the route suggested by Frey.",
+    "source_title": "Andrew Wiles",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2027",
+    "evidence": "However, he soon realised that his knowledge was too limited, so he abandoned his childhood dream until it was brought back to his attention at the age of 33 by Ken Ribet's 1986 proof of the epsilon conjecture, which Gerhard Frey had previously linked to Fermat's equation.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_15_09",
+    "question": "Why did Andrew Wiles receive a silver plaque from the International Mathematical Union instead of a Fields Medal?",
+    "answer": "He was over the Fields Medal's under-40 age limit, being 41 when he proved the theorem in 1994.",
+    "source_title": "Andrew Wiles",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2027",
+    "evidence": "In 1998, Wiles was awarded a silver plaque from the International Mathematical Union recognising his achievements, in place of the Fields Medal, which is restricted to those under the age of 40 (Wiles was 41 when he proved the theorem in 1994).",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_15_10",
+    "question": "How did Andrew Wiles keep his work on Fermat's Last Theorem secret?",
+    "answer": "He published older research in small separate papers as cover and confided only in his wife during over six years of secret work.",
+    "source_title": "Andrew Wiles",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2027",
+    "evidence": "He dedicated all of his research time to this problem for over six years in near-total secrecy, covering up his efforts by releasing prior work in small segments as separate papers and confiding only in his wife.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_15_11",
+    "question": "How did Andrew Wiles overcome the flaw found in his first proof of Fermat's Last Theorem?",
+    "answer": "He found a workaround based on Galois representations and Iwasawa theory, then completed it in a second paper with Richard Taylor.",
+    "source_title": "Andrew Wiles",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2027",
+    "evidence": "In August 1993, it was discovered that the proof contained a flaw in several areas, related to properties of the Selmer group and use of a tool called an Euler system. Wiles tried and failed for over a year to repair his proof. According to Wiles, the crucial idea for circumventing—rather than closing—this area came to him on 19 September 1994, when he was on the verge of giving up. The circumvention used Galois representations to replace elliptic curves, reduced the problem to a class number formula and solved it, among other matters, all using Victor Kolyvagin's ideas as a basis for fixing Matthias Flach's approach with Iwasawa theory. Together with his former student Richard Taylor, Wiles published a second paper which contained the circumvention and thus completed the proof. Both papers were published in May 1995 in a dedicated issue of the \"Annals of Mathematics.\"",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_15_12",
+    "question": "Why did Alexander Grothendieck retire from scientific life around 1970?",
+    "answer": "IHÉS's military funding conflicted with his radical pacifist political convictions, prompting his departure around 1970.",
+    "source_title": "Alexander Grothendieck",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2042",
+    "evidence": "In 1958, he was appointed a research professor at the Institut des hautes études scientifiques (IHÉS) and remained there until 1970, when, driven by personal and political convictions, he left following a dispute over military funding. ... Grothendieck's political views were radical and pacifistic. ... He retired from scientific life around 1970 after he had found out that IHÉS was partly funded by the military.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_15_13",
+    "question": "Which observation by André Weil did Grothendieck's étale and l-adic cohomology theories explain?",
+    "answer": "A connection between a variety's topological characteristics and its Diophantine or number-theoretic properties.",
+    "source_title": "Alexander Grothendieck",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2042",
+    "evidence": "Grothendieck's work includes the invention of the étale and l-adic cohomology theories, which explain an observation made by André Weil that argued for a connection between the topological characteristics of a variety and its diophantine (number theoretic) properties.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_15_14",
+    "question": "How did Grothendieck's \"relative point of view\" differ from earlier approaches in algebraic geometry?",
+    "answer": "He studied pairs of varieties connected by a morphism rather than isolated individual varieties.",
+    "source_title": "Alexander Grothendieck",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2042",
+    "evidence": "He shifted attention from the study of individual varieties to his \"relative point of view\" (pairs of varieties related by a morphism), allowing a broad generalization of many classical theorems.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_15_15",
+    "question": "What is a scheme in Grothendieck's foundation of algebraic geometry, informally?",
+    "answer": "A topological space with a commutative ring assigned to each open subset.",
+    "source_title": "Alexander Grothendieck",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2042",
+    "evidence": "To that end, he developed the theory of schemes that informally can be thought of as topological spaces on which a commutative ring is associated to every open subset of the space.",
+    "question_type": "definition"
+  }
+]

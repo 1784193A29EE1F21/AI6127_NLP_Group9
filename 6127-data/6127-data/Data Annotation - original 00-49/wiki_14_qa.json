@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki_14_01",
+    "question": "What is apparent magnitude, and what factors determine its value?",
+    "answer": "A measure of the brightness of a celestial object as seen by an observer, depending on its intrinsic luminosity, its distance and any extinction of its light by interstellar dust or atmosphere.",
+    "source_title": "Apparent magnitude",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1962",
+    "evidence": "Apparent magnitude () is a measure of the brightness of a star, astronomical object or other celestial objects like artificial satellites. Its value depends on its intrinsic luminosity, its distance, and any extinction of the object's light caused by interstellar dust or atmosphere along the line of sight to the observer.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_14_02",
+    "question": "Who formalized the astronomical magnitude scale, and how did he define it?",
+    "answer": "Norman Robert Pogson, who defined a first-magnitude star as one hundred times as bright as a sixth-magnitude star, establishing the logarithmic scale still used.",
+    "source_title": "Apparent magnitude",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1962",
+    "evidence": "In 1856, Norman Robert Pogson formalized the system by defining a first magnitude star as a star that is 100 times as bright as a sixth-magnitude star, thereby establishing the logarithmic scale still in use today.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_14_03",
+    "question": "Why can it not be proved that Hipparchus originated the ancient stellar magnitude scale?",
+    "answer": "Because his original star catalogue is lost, and his only preserved text shows he described brightness with words rather than numbers.",
+    "source_title": "Apparent magnitude",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1962",
+    "evidence": "This rather crude scale for the brightness of stars was popularized by Ptolemy in his \"Almagest\" and is generally believed to have originated with Hipparchus. This cannot be proved or disproved because Hipparchus's original star catalogue is lost. The only preserved text by Hipparchus himself (a commentary to Aratus) clearly documents that he did not have a system to describe brightness with numbers: He always uses terms like \"big\" or \"small\", \"bright\" or \"faint\" or even descriptions such as \"visible at full moon\".",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_14_04",
+    "question": "Why must stars such as Sirius and planets such as Venus be described with negative magnitudes?",
+    "answer": "Because they are brighter than Vega, which is close to magnitude zero, and brighter means a smaller magnitude.",
+    "source_title": "Apparent magnitude",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1962",
+    "evidence": "While Vega is close to magnitude 0, there are four brighter stars in the night sky at visible wavelengths (and more at infrared wavelengths) as well as the bright planets Venus, Mars, and Jupiter, and since brighter means smaller magnitude, these must be described by \"negative\" magnitudes.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_14_05",
+    "question": "Why did early orthochromatic photographic film reverse the relative brightness of Rigel and Betelgeuse compared with the human eye?",
+    "answer": "Because the film was more sensitive to blue light than red light, favouring the blue supergiant Rigel over the red supergiant Betelgeuse.",
+    "source_title": "Apparent magnitude",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1962",
+    "evidence": "On early 20th century and older orthochromatic (blue-sensitive) photographic film, the relative brightnesses of the blue supergiant Rigel and the red supergiant Betelgeuse irregular variable star (at maximum) are reversed compared to what human eyes perceive, because this archaic film is more sensitive to blue light than it is to red light.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_14_06",
+    "question": "Why is absolute magnitude defined by placing every object at the same standard reference distance?",
+    "answer": "So that the luminosities of different objects can be directly compared with each other on a magnitude scale.",
+    "source_title": "Absolute magnitude",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1963",
+    "evidence": "By hypothetically placing all objects at a standard reference distance from the observer, their luminosities can be directly compared among each other on a magnitude scale.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_14_07",
+    "question": "What is absolute bolometric magnitude?",
+    "answer": "A measure of an object's total luminosity over all wavelengths on a logarithmic magnitude scale, rather than in a single filter band.",
+    "source_title": "Absolute magnitude",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1963",
+    "evidence": "An object's absolute \"bolometric\" magnitude (Mbol) represents its total luminosity over all wavelengths, rather than in a single filter band, as expressed on a logarithmic magnitude scale. To convert from an absolute magnitude in a specific filter band to absolute bolometric magnitude, a bolometric correction (BC) is applied.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_14_08",
+    "question": "How is the absolute magnitude of a galaxy determined, given that galaxies are far larger than the standard reference distance?",
+    "answer": "All light from the whole galaxy is measured and treated as a single point-like source, whose magnitude is computed as it would appear from the standard distance.",
+    "source_title": "Absolute magnitude",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1963",
+    "evidence": "Galaxies (and other extended objects) are much larger than 10 parsecs; their light is radiated over an extended patch of sky, and their overall brightness cannot be directly observed from relatively short distances, but the same convention is used. A galaxy's magnitude is defined by measuring all the light radiated over the entire object, treating that integrated brightness as the brightness of a single point-like or star-like source, and computing the magnitude of that point-like source as it would appear if observed at the standard 10 parsecs distance.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_14_09",
+    "question": "Why did the International Astronomical Union pass Resolution B2 on bolometric magnitudes?",
+    "answer": "Because there had been no international standardization, causing systematic differences in magnitude-luminosity and bolometric correction scales that could lead to errors in estimated stellar luminosities, radii and ages.",
+    "source_title": "Absolute magnitude",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1963",
+    "evidence": "In August 2015, the International Astronomical Union passed Resolution B2 defining the zero points of the absolute and apparent bolometric magnitude scales in SI units for power (watts) and irradiance (W/m2), respectively. Although bolometric magnitudes had been used by astronomers for many decades, there had been systematic differences in the absolute magnitude-luminosity scales presented in various astronomical references, and no international standardization. This led to systematic differences in bolometric corrections scales. Combined with incorrect assumed absolute bolometric magnitudes for the Sun, this could lead to systematic errors in estimated stellar luminosities (and other stellar properties, such as radii or ages, which rely on stellar luminosity to be calculated).",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_14_10",
+    "question": "How does the definition of absolute magnitude for Solar System bodies differ from that used for stars?",
+    "answer": "Bodies that shine by reflected light use a different absolute magnitude, H, based on a standard reference distance of one astronomical unit instead of the stellar standard distance.",
+    "source_title": "Absolute magnitude",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1963",
+    "evidence": "For Solar System bodies that shine in reflected light, a different definition of absolute magnitude (H) is used, based on a standard reference distance of one astronomical unit.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_14_11",
+    "question": "How does the naked-eye brightness of Alpha Centauri compare with other stars in the night sky?",
+    "answer": "Its two main stars appear as a single star that is the brightest in Centaurus and the third-brightest in the night sky, outshone only by Sirius and Canopus.",
+    "source_title": "Alpha Centauri",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1979",
+    "evidence": "Rigil Kentaurus and Toliman are Sun-like stars (class G and K, respectively) that together form the binary star system. To the naked eye, these two main components appear to be a single star with an apparent magnitude of −0.27. It is the brightest star in the constellation and the third-brightest in the night sky, outshone by only Sirius and Canopus.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_14_12",
+    "question": "Why is Alpha Centauri sometimes considered only the second star to have its distance measured?",
+    "answer": "Because Thomas Henderson withheld his parallax results, suspecting they were too large, and only published after Bessel released his own parallax measurement, so Henderson's work was not fully acknowledged at first.",
+    "source_title": "Alpha Centauri",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1979",
+    "evidence": "The parallax of Alpha Centauri was subsequently determined by Henderson from many exacting positional observations of the AB system between April 1832 and May 1833. He withheld his results, however, because he suspected they were too large to be true, but eventually published them in 1839 after Bessel released his own accurately determined parallax for in 1838. For this reason, Alpha Centauri is sometimes considered as the second star to have its distance measured because Henderson's work was not fully acknowledged at first.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_14_13",
+    "question": "How do the Pointers, of which Alpha Centauri is the outer star, help observers in the southern sky?",
+    "answer": "The line through Alpha Centauri and Beta Centauri points to the Southern Cross, distinguishing the true Southern Cross from the fainter False Cross.",
+    "source_title": "Alpha Centauri",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1979",
+    "evidence": "At −0.27 apparent magnitude (combined for A and B magnitudes), Alpha Centauri is a first-magnitude star and is fainter only than Sirius and Canopus. It is the outer star of The Pointers or The Southern Pointers, so called because the line through Beta Centauri (Hadar/Agena), some 4.5° west, points to the constellation Crux—the Southern Cross. The Pointers easily distinguish the true Southern Cross from the fainter asterism known as the False Cross.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_14_14",
+    "question": "Why is Proxima Centauri invisible to the naked eye even though it is the closest star to the Sun?",
+    "answer": "It is a small red dwarf with a very faint absolute magnitude, many thousands of times fainter than the Sun.",
+    "source_title": "Alpha Centauri",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1979",
+    "evidence": "Alpha Centauri C, better known as Proxima Centauri, is a small main-sequence red dwarf of spectral class M6-Ve. It has an absolute magnitude of +15.60, over 20,000 times fainter than the Sun. Its mass is calculated to be. It is the closest star to the Sun but is too faint to be visible to the naked eye.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_14_15",
+    "question": "What does the name Rigil Kentaurus mean?",
+    "answer": "\"The Foot of the Centaur\", from a Latinisation of the Arabic name Rijl al-Qinṭūrus.",
+    "source_title": "Alpha Centauri",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1979",
+    "evidence": "The common name Rigil Kentaurus is a Latinisation of the Arabic translation \"Rijl al-Qinṭūrus,\" meaning \"the Foot of the Centaur\".",
+    "question_type": "definition"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki_08_01",
+    "question": "Why was Charles Babbage never able to complete construction of any of his machines, including the analytical engine?",
+    "answer": "Because of conflicts with his chief engineer and inadequate funding.",
+    "source_title": "Analytical engine",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1271",
+    "evidence": "Babbage was never able to complete construction of any of his machines due to conflicts with his chief engineer and inadequate funding.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_08_02",
+    "question": "What kind of modern programming language did the language designed for the analytical engine resemble?",
+    "answer": "Modern-day assembly languages.",
+    "source_title": "Analytical engine",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1271",
+    "evidence": "The programming language to be employed by users was akin to modern day assembly languages. Loops and conditional branching were possible, and so the language as conceived would have been Turing-complete as later defined by Alan Turing.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_08_03",
+    "question": "Why has Ada Lovelace been described by many as the first computer programmer?",
+    "answer": "Because her annotations to Menabrea's description of the analytical engine included a way to calculate Bernoulli numbers with the machine, widely considered the first complete computer program.",
+    "source_title": "Analytical engine",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1271",
+    "evidence": "In recognition of her additions to Menabrea's paper, which included a way to calculate Bernoulli numbers using the machine (widely considered to be the first complete computer program), she has been described by many as the first computer programmer, although others have challenged this view.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_08_04",
+    "question": "How did the Harvard Mark I compare with the analytical engine in terms of architecture?",
+    "answer": "The Mark I showed no influence from the analytical engine and lacked its most prescient architectural feature, conditional branching.",
+    "source_title": "Analytical engine",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1271",
+    "evidence": "The Mark I showed no influence from the analytical engine and lacked the analytical engine's most prescient architectural feature, conditional branching.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_08_05",
+    "question": "What was the unique contribution of the Atanasoff–Berry computer to computing?",
+    "answer": "It made computing faster by being the first to use vacuum tubes to do arithmetic calculations.",
+    "source_title": "Atanasoff–Berry computer",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1349",
+    "evidence": "Its unique contribution was to make computing faster by being the first to use vacuum tubes to do arithmetic calculations.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_08_06",
+    "question": "Why is the Atanasoff–Berry computer's claim to priority debated among historians?",
+    "answer": "Because it was neither programmable nor Turing-complete.",
+    "source_title": "Atanasoff–Berry computer",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1349",
+    "evidence": "The ABC's priority is debated among historians of computer technology, because it was neither programmable, nor Turing-complete.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_08_07",
+    "question": "What did the U.S. District Court conclude about the ENIAC patent in the 1973 case Honeywell v. Sperry Rand?",
+    "answer": "It held the ENIAC patent invalid, finding that ENIAC was a derivative of John Atanasoff's invention.",
+    "source_title": "Atanasoff–Berry computer",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1349",
+    "evidence": "The United States District Court for the District of Minnesota released its judgement on October 19, 1973, finding in \"Honeywell v. Sperry Rand\" that the ENIAC patent was a derivative of John Atanasoff's invention.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_08_08",
+    "question": "What was the \"regenerative capacitor memory\" used in the Atanasoff–Berry computer?",
+    "answer": "A memory system consisting of a pair of drums containing capacitors that rotated on a common shaft.",
+    "source_title": "Atanasoff–Berry computer",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1349",
+    "evidence": "The memory of the Atanasoff–Berry computer was a system called \"regenerative capacitor memory\", which consisted of a pair of drums, each containing 1600 capacitors that rotated on a common shaft once per second.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_08_09",
+    "question": "How did the Apple I differ from most contemporary hobbyist computers?",
+    "answer": "Instead of being sold as a kit requiring assembly, it was delivered as a pre-assembled motherboard with built-in video terminal circuitry that could connect directly to a household television.",
+    "source_title": "Apple I",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1344",
+    "evidence": "Unlike most contemporary hobbyist computers, which were sold as kits requiring assembly, the Apple-1 was delivered as a pre-assembled motherboard with built-in video display terminal circuitry. This allowed it to connect directly to a household television using a composite video cable, eliminating the need for an expensive external terminal.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_08_10",
+    "question": "Why did Steve Wozniak use the MOS Technology 6502 rather than the Motorola 6800 in the Apple I?",
+    "answer": "The Motorola 6800 was prohibitively expensive, while the much cheaper 6502 shared much of its architecture, so he could adapt his earlier design.",
+    "source_title": "Apple I",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1344",
+    "evidence": "He initially planned to use the Motorola 6800, but its US$175 price made it prohibitively expensive. The introduction of the MOS Technology 6502 in late 1975 for just $25 made the design economically feasible. Because the 6502 shared much of its architecture with the 6800, Wozniak was able to adapt his earlier design.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_08_11",
+    "question": "What did Apple do with Apple I computers returned through its trade-in offers, and how did this affect the machine's availability?",
+    "answer": "Apple destroyed the recovered boards, which contributed to the Apple I's later rarity.",
+    "source_title": "Apple I",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1344",
+    "evidence": "As Wozniak was the only person who could answer most customer support questions about the computer, the company offered Apple I owners discounts and trade-ins for Apple IIs to persuade them to return their computers. These recovered boards were then destroyed by Apple, contributing to their later rarity.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_08_12",
+    "question": "What is assembly language?",
+    "answer": "A low-level programming language whose instructions correspond very closely to the architecture's machine code instructions, usually one statement per machine instruction.",
+    "source_title": "Assembly language",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1368",
+    "evidence": "In computing, assembly language (alternatively assembler language or symbolic machine code), often referred to simply as assembly and commonly abbreviated as ASM or asm, is any low-level programming language with a very strong correspondence between the instructions in the language and the architecture's machine code instructions. Assembly language usually has one statement per machine code instruction (1:1), but constants, comments, assembler directives, symbolic labels of, e.g., memory locations, registers, and macros are generally also supported.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_08_13",
+    "question": "Why was assembly language the primary development language for 8-bit home computers such as the Apple II and Commodore 64?",
+    "answer": "Because interpreted BASIC on these systems did not offer maximum execution speed or full use of the hardware's facilities.",
+    "source_title": "Assembly language",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1368",
+    "evidence": "Assembly language was the primary development language for 8-bit home computers such as the Apple II, Atari 8-bit computers, ZX Spectrum, and Commodore 64. Interpreted BASIC on these systems did not offer maximum execution speed and full use of facilities to take full advantage of the available hardware.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_08_14",
+    "question": "How do assembly languages differ from most high-level programming languages in terms of portability?",
+    "answer": "Each assembly language is specific to a particular computer architecture, while most high-level languages are portable across architectures but require the more complicated tasks of interpreting or compiling.",
+    "source_title": "Assembly language",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1368",
+    "evidence": "Because assembly depends on the machine code instructions, each assembly language is specific to a particular computer architecture such as x86 or ARM.\nSometimes there is more than one assembler for the same architecture, and sometimes an assembler is specific to an operating system or to particular operating systems. Most assembly languages do not provide specific syntax for operating system calls, and most assembly languages can be used universally with any operating system, as the language provides access to all the real capabilities of the processor, upon which all system call mechanisms ultimately rest. In contrast to assembly languages, most high-level programming languages are generally portable across multiple architectures but require interpreting or compiling, much more complicated tasks than assembling.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_08_15",
+    "question": "Who is credited with inventing assembly language?",
+    "answer": "Kathleen Booth.",
+    "source_title": "Assembly language",
+    "source_url": "https://en.wikipedia.org/wiki?curid=1368",
+    "evidence": "Kathleen Booth \"is credited with inventing assembly language\" based on theoretical work she began in 1947, while working on the ARC2 at Birkbeck, University of London, following consultation by Andrew Booth (later her husband) with mathematician John von Neumann and physicist Herman Goldstine at the Institute for Advanced Study.",
+    "question_type": "factual"
+  }
+]

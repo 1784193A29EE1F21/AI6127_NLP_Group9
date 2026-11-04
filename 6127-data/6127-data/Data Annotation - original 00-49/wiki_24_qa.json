@@ -1,0 +1,110 @@
+[
+  {
+    "id": "wiki_24_01",
+    "question": "Why is the star Antares named \"rival to Ares\"?",
+    "answer": "Because its reddish hue resembles the appearance of the planet Mars (Ares).",
+    "source_title": "Antares",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3076",
+    "evidence": "Its traditional name \"Antares\" derives from the Ancient Greek, meaning \"rival to Ares\", due to the similarity of its reddish hue to the appearance of the planet Mars.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_24_02",
+    "question": "What did early 20th-century astronomers conclude caused the radial velocity variations in the spectrum of Antares?",
+    "answer": "They were caused by pulsation of the star's atmosphere rather than by orbital motion.",
+    "source_title": "Antares",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3076",
+    "evidence": "It became apparent that the small variations could not be due to orbital motion, and they were actually caused by pulsation of the star's atmosphere.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_24_03",
+    "question": "How do Antares and its companion Antares B appear in colour when seen together?",
+    "answer": "Antares appears orange-red, while Antares B appears a profound blue or bluish-green.",
+    "source_title": "Antares",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3076",
+    "evidence": "Antares B appears a profound blue or bluish-green color, in contrast to the orange-red Antares.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_24_04",
+    "question": "Which nebula is illuminated by Antares?",
+    "answer": "The Rho Ophiuchi cloud complex, whose illuminated part is sometimes called the Antares Nebula (VdB 107).",
+    "source_title": "Antares",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3076",
+    "evidence": "Antares is located about from Earth at the rim of the Upper Scorpius subgroup, and is illuminating the Rho Ophiuchi cloud complex in its foreground. The illuminated cloud is sometimes referred to as the Antares Nebula or is otherwise identified as VdB 107.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_24_05",
+    "question": "Why does Aldebaran appear to be the brightest member of the Hyades cluster even though it is not part of it?",
+    "answer": "It happens by chance to lie in the line of sight between Earth and the Hyades, which are more than twice as far away.",
+    "source_title": "Aldebaran",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3077",
+    "evidence": "The star is, by chance, in the line of sight between the Earth and the Hyades, so it has the appearance of being the brightest member of the open cluster, but the cluster that forms the bull's-head-shaped asterism is more than twice as far away, at about 150 light years.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_24_06",
+    "question": "What discovery resulted from Edmund Halley's study of an ancient lunar occultation of Aldebaran?",
+    "answer": "The discovery of proper motion, after Halley concluded Aldebaran had changed position since the occultation observed in Athens.",
+    "source_title": "Aldebaran",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3077",
+    "evidence": "English astronomer Edmund Halley studied the timing of this event, and in 1718 concluded that Aldebaran must have changed position since that time, moving several minutes of arc further to the north. This, as well as observations of the changing positions of stars Sirius and Arcturus, led to the discovery of proper motion.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_24_07",
+    "question": "Why does Aldebaran not produce hard X-ray emission?",
+    "answer": "Because its slow rotation means it lacks the dynamo needed to generate a corona.",
+    "source_title": "Aldebaran",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3077",
+    "evidence": "With its slow rotation, Aldebaran lacks a dynamo needed to generate a corona and hence is not a source of hard X-ray emission.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_24_08",
+    "question": "What name, derived from Aldebaran, did Carl Auer von Welsbach propose for the rare earth element now called ytterbium?",
+    "answer": "\"Aldebaranium\"",
+    "source_title": "Aldebaran",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3077",
+    "evidence": "The Austrian chemist Carl Auer von Welsbach proposed the name \"aldebaranium\" (chemical symbol Ad) for a rare earth element that he (among others) had found. Today, it is called ytterbium (symbol Yb).",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_24_09",
+    "question": "Why is the star Altair not spherical?",
+    "answer": "Its rapid rotation flattens it at the poles, making it oblate.",
+    "source_title": "Altair",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3078",
+    "evidence": "A study with the Palomar Testbed Interferometer revealed that Altair is not spherical, but is flattened at the poles due to its high rate of rotation.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_24_10",
+    "question": "What is gravity darkening, as observed on Altair?",
+    "answer": "Also called the von Zeipel effect, it is the lowering of surface gravity and temperature at a rapidly rotating star's equator, making the equator less luminous than the poles.",
+    "source_title": "Altair",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3078",
+    "evidence": "Theory predicts that, owing to Altair's rapid rotation, its surface gravity and effective temperature should be lower at the equator, making the equator less luminous than the poles. This phenomenon, known as gravity darkening or the von Zeipel effect, was confirmed for Altair by measurements made by the Navy Precision Optical Interferometer in 2001",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_24_11",
+    "question": "Which two stars, together with Altair, form the Summer Triangle asterism?",
+    "answer": "Deneb and Vega.",
+    "source_title": "Altair",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3078",
+    "evidence": "Altair is an A-type main-sequence star with an apparent visual magnitude of 0.77 and is one of the vertices of the Summer Triangle asterism; the other two vertices are marked by Deneb and Vega.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_24_12",
+    "question": "How does Altair's rotation compare with that of Jupiter and Saturn?",
+    "answer": "It is similar to and slightly faster than theirs, and like those planets its rapid rotation makes it oblate.",
+    "source_title": "Altair",
+    "source_url": "https://en.wikipedia.org/wiki?curid=3078",
+    "evidence": "Altair's rotation is similar to, and slightly faster than, those of Jupiter and Saturn. Like those two planets, its rapid rotation causes the star to be oblate; its equatorial diameter is over 20 percent greater than its polar diameter.",
+    "question_type": "comparison"
+  }
+]

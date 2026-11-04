@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki_61_01",
+    "question": "What is a charge-coupled device (CCD)?",
+    "answer": "An integrated circuit containing an array of linked, or coupled, capacitors, each able to transfer its electric charge to a neighbouring capacitor under external control.",
+    "source_title": "Charge-coupled device",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6804",
+    "evidence": "A charge-coupled device (CCD) is an integrated circuit containing an array of linked, or coupled, capacitors. Under the control of an external circuit, each capacitor can transfer its electric charge to a neighboring capacitor.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_61_02",
+    "question": "What research at Bell Labs led Willard Boyle and George E. Smith to invent the CCD?",
+    "answer": "Their work on semiconductor bubble memory, where they realized an electric charge could act as the analog of a magnetic bubble and be stored on a tiny MOS capacitor.",
+    "source_title": "Charge-coupled device",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6804",
+    "evidence": "In the late 1960s, Willard Boyle and George E. Smith at Bell Labs were researching MOS technology while working on semiconductor bubble memory. They realized that an electric charge was the analog of the magnetic bubble and that it could be stored on a tiny MOS capacitor.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_61_03",
+    "question": "Besides imaging, what uses for the CCD did the initial paper describing the concept list?",
+    "answer": "Memory and a delay line; the device could also be used as a shift register.",
+    "source_title": "Charge-coupled device",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6804",
+    "evidence": "The initial paper describing the concept in April 1970 listed possible uses as memory, a delay line, and an imaging device. The device could also be used as a shift register.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_61_04",
+    "question": "Why was the pinned photodiode invented for CCD sensors?",
+    "answer": "To eliminate the shutter lag of early CCD sensors, by transferring signal carriers from the photodiode to the CCD.",
+    "source_title": "Charge-coupled device",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6804",
+    "evidence": "Early CCD sensors suffered from shutter lag. This was largely resolved with the invention of the pinned photodiode (PPD). It was invented by Nobukazu Teranishi, Hiromitsu Shiraki and Yasuo Ishihara at NEC in 1980. They recognized that lag can be eliminated if the signal carriers could be transferred from the photodiode to the CCD.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_61_05",
+    "question": "How do CCD image sensors and CMOS sensors compare in current usage?",
+    "answer": "CCDs were long preferred where high-quality images are needed, but their quality advantage narrowed, and CMOS sensors have become the dominant technology, largely replacing CCDs.",
+    "source_title": "Charge-coupled device",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6804",
+    "evidence": "However, the large quality advantage CCDs enjoyed early on has narrowed over time and since the late 2010s CMOS sensors are the dominant technology, having largely if not completely replaced CCD image sensors.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_61_06",
+    "question": "How does main memory compare with mass storage?",
+    "answer": "Main memory is fast, while mass storage is slower but less expensive per bit and higher in capacity.",
+    "source_title": "Computer memory",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6806",
+    "evidence": "Main memory operates at a high speed compared to mass storage which is slower but less expensive per bit and higher in capacity.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_61_07",
+    "question": "Which computer memory was the first random-access computer memory, and who invented it?",
+    "answer": "The Williams tube, invented by Fred Williams using cathode ray tubes.",
+    "source_title": "Computer memory",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6806",
+    "evidence": "Using cathode ray tubes, Fred Williams invented the Williams tube, which was the first random-access computer memory.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_61_08",
+    "question": "What insight led Robert H. Dennard to develop the single-transistor DRAM memory cell?",
+    "answer": "That storing a charge or no charge on a MOS capacitor could represent the 1 and 0 of a bit, with a MOS transistor controlling the writing of the charge.",
+    "source_title": "Computer memory",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6806",
+    "evidence": "While examining the characteristics of MOS technology, he found it was possible to build capacitors, and that storing a charge or no charge on the MOS capacitor could represent the 1 and 0 of a bit, while the MOS transistor could control writing the charge to the capacitor. This led to his development of a single-transistor DRAM memory cell.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_61_09",
+    "question": "Why can DRAM reach much higher densities and lower per-bit costs than SRAM?",
+    "answer": "Because DRAM uses only one transistor and one capacitor per bit, while SRAM commonly uses six transistors per bit.",
+    "source_title": "Computer memory",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6806",
+    "evidence": "SRAM retains its contents as long as the power is connected and may use a simpler interface, but commonly uses six transistors per bit. Dynamic RAM is more complicated for interfacing and control, needing regular refresh cycles to prevent losing its contents, but uses only one transistor and one capacitor per bit, allowing it to reach much higher densities and much cheaper per-bit costs.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_61_10",
+    "question": "What is thrashing in a virtual memory system?",
+    "answer": "A situation where, because RAM is insufficient, the computer spends more time moving data between RAM and disk than accomplishing tasks.",
+    "source_title": "Computer memory",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6806",
+    "evidence": "When the amount of RAM is not sufficient to run all the current programs, it can result in a situation where the computer spends more time moving data from RAM to disk and back than it does accomplishing tasks; this is known as thrashing.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_61_11",
+    "question": "Why does protected memory improve the reliability and security of a computer system?",
+    "answer": "Because each program is confined to its own memory area, so a program that tries to alter memory not belonging to it is terminated and other programs are unaffected.",
+    "source_title": "Computer memory",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6806",
+    "evidence": "If the operating system detects that a program has tried to alter memory that does not belong to it, the program is terminated (or otherwise restricted or redirected). This way, only the offending program crashes, and other programs are not affected by the misbehavior (whether accidental or intentional). Use of protected memory greatly enhances both the reliability and security of a computer system.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_61_12",
+    "question": "What is the difference between a cache hit and a cache miss?",
+    "answer": "A cache hit occurs when requested data is found in the cache; a cache miss occurs when it is not.",
+    "source_title": "Cache (computing)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6829",
+    "evidence": "A cache hit occurs when the requested data can be found in a cache, while a cache miss occurs when it cannot.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_61_13",
+    "question": "Why are caches effective despite being relatively small?",
+    "answer": "Because typical applications access data with high locality of reference, both temporal (recently requested data) and spatial (data stored near already requested data).",
+    "source_title": "Cache (computing)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6829",
+    "evidence": "Nevertheless, caches are effective in many areas of computing because typical computer applications access data with a high degree of locality of reference. Such access patterns exhibit temporal locality, where data is requested that has been recently requested, and spatial locality, where data is requested that is stored near data that has already been requested.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_61_14",
+    "question": "How does the least recently used (LRU) replacement policy decide which cache entry to remove?",
+    "answer": "It replaces the oldest entry, the one accessed less recently than any other.",
+    "source_title": "Cache (computing)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6829",
+    "evidence": "One popular replacement policy, least recently used (LRU), replaces the oldest entry, the entry that was accessed less recently than any other entry.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_61_15",
+    "question": "How does the main purpose of caching differ from that of buffering?",
+    "answer": "Caching aims to speed up repeated transfers of the same data by reducing accesses to slower storage, while buffering reduces the number of transfers for novel data by combining small transfers into fewer, larger ones.",
+    "source_title": "Cache (computing)",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6829",
+    "evidence": "Fundamentally, caching realizes a performance increase for transfers of data that is being repeatedly transferred. ... Buffering, on the other hand, reduces the number of transfers for otherwise novel data amongst communicating processes, which amortizes the overhead involved for several small transfers over fewer, larger transfers.",
+    "question_type": "comparison"
+  }
+]

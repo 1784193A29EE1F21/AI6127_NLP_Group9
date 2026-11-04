@@ -1,0 +1,110 @@
+[
+  {
+    "id": "wiki_19_01",
+    "question": "How did the term \"a cappella\" come to mean unaccompanied vocal music?",
+    "answer": "Nineteenth-century interest in Renaissance polyphony overlooked its instrumental doubling, leading the term to mean singing without accompaniment.",
+    "source_title": "A cappella",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2411",
+    "evidence": "In the 19th century, a renewed interest in Renaissance polyphony, coupled with an ignorance of the fact that vocal parts were often doubled by instrumentalists, led to the term coming to mean unaccompanied vocal music.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_19_02",
+    "question": "Why is the use of musical instruments traditionally forbidden on the Jewish Sabbath?",
+    "answer": "Players might be tempted to repair or tune instruments, activities forbidden on the Sabbath.",
+    "source_title": "A cappella",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2411",
+    "evidence": "The use of musical instruments is traditionally forbidden on the Sabbath out of concern that players would be tempted to repair (or tune) their instruments, which is forbidden on those days.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_19_03",
+    "question": "Who helped popularize a cappella music in the United States by founding the Northwestern A Cappella Choir?",
+    "answer": "Peter Christian Lutkin, who founded the choir in 1906.",
+    "source_title": "A cappella",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2411",
+    "evidence": "Peter Christian Lutkin, dean of the Northwestern University School of Music, helped popularize a cappella music in the United States by founding the Northwestern A Cappella Choir in 1906.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_19_04",
+    "question": "Why is the de facto national anthem of Afghanistan under the Islamic Emirate performed as an a cappella nasheed?",
+    "answer": "Musical instruments are virtually banned as corrupting and un-Islamic.",
+    "source_title": "A cappella",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2411",
+    "evidence": "The Islamic Emirate of Afghanistan has no official anthem because of views by the Taliban of music as un-Islamic. However, the \"de facto\" national anthem of Afghanistan is an a cappella nasheed, as musical instruments are virtually banned as corrupting and un-Islamic.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_19_05",
+    "question": "What is a \"head arrangement\" in jazz?",
+    "answer": "A memorized, unwritten arrangement of a new or existing composition.",
+    "source_title": "Arrangement",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2414",
+    "evidence": "In jazz, a memorized (unwritten) arrangement of a new or pre-existing composition is known as a \"head arrangement\".",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_19_06",
+    "question": "How does arranging differ from orchestration in music?",
+    "answer": "Orchestration assigns notes to instruments, while arranging can also change harmony, melody, form and other compositional material.",
+    "source_title": "Arrangement",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2414",
+    "evidence": "In music, an arrangement is a musical adaptation of an existing composition. Differences from the original composition may include reharmonization, melodic paraphrasing, orchestration, or formal development. Arranging differs from orchestration in that the latter process is limited to the assignment of notes to instruments for performance by an orchestra, concert band, or other musical ensemble. Arranging \"involves adding compositional techniques, such as new thematic material for introductions, transitions, or modulations, and endings.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_19_07",
+    "question": "Why did George Gershwin have his \"Rhapsody in Blue\" arranged and orchestrated by Ferde Grofé?",
+    "answer": "He lacked orchestration expertise.",
+    "source_title": "Arrangement",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2414",
+    "evidence": "The American composer George Gershwin, due to his own lack of expertise in orchestration, had his \"Rhapsody in Blue\" arranged and orchestrated by Ferde Grofé.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_19_08",
+    "question": "What effect did Debussy's orchestral arrangements of Satie's \"Gymnopédies\" have on Satie's reputation?",
+    "answer": "They brought Satie to public attention and established his reputation.",
+    "source_title": "Arrangement",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2414",
+    "evidence": "\"It was Debussy whose 1896 orchestrations of the Gymnopédies put their composer on the map.\"",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_19_09",
+    "question": "What did the words from which \"anthem\" is derived originally refer to?",
+    "answer": "Antiphons, a call-and-response style of singing.",
+    "source_title": "Anthem",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2439",
+    "evidence": "Both words originally referred to antiphons, a call-and-response style of the singing.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_19_10",
+    "question": "How does the Anglican anthem differ from the motet in the language of its text?",
+    "answer": "The Anglican anthem uses English text, while the originally Roman Catholic motet uses Latin.",
+    "source_title": "Anthem",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2439",
+    "evidence": "In this sense, its use began in English-speaking churches; it uses English language words, in contrast to the originally Roman Catholic 'motet' which sets a Latin text.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_19_11",
+    "question": "Why did early English church anthems tend to be simple and homophonic in texture?",
+    "answer": "So the words could be clearly heard.",
+    "source_title": "Anthem",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2439",
+    "evidence": "Early anthems tended to be simple and homophonic in texture, so that the words could be clearly heard.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_19_12",
+    "question": "What is a flag anthem?",
+    "answer": "A patriotic musical composition praising a flag, usually a national flag.",
+    "source_title": "Anthem",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2439",
+    "evidence": "A flag anthem is generally a patriotic musical composition that extols and praises a flag, typically one of a country, in which case it is sometimes called a national flag anthem.",
+    "question_type": "definition"
+  }
+]

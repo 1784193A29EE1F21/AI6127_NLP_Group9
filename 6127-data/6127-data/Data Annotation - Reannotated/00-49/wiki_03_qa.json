@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki_03_01",
+    "question": "What is phytomelanin, which is considered a defining characteristic of the order Asparagales?",
+    "answer": "A black seed-coat pigment that forms a dark crust.",
+    "source_title": "Asparagales",
+    "source_url": "https://en.wikipedia.org/wiki?curid=786",
+    "evidence": "One of the defining characteristics (synapomorphies) of the order is the presence of phytomelanin, a black pigment present in the seed coat, creating a dark crust.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_03_02",
+    "question": "Which monocot order is the only one considered more economically important than the Asparagales?",
+    "answer": "Poales.",
+    "source_title": "Asparagales",
+    "source_url": "https://en.wikipedia.org/wiki?curid=786",
+    "evidence": "From an economic point of view, the order Asparagales is second in importance within the monocots only to the order Poales (which includes grasses and cereals).",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_03_03",
+    "question": "How are the Asparagales generally distinguished from the Liliales?",
+    "answer": "They generally lack tepal markings, have nectaries in ovarian septa rather than at tepal or filament bases, and show secondary growth.",
+    "source_title": "Asparagales",
+    "source_url": "https://en.wikipedia.org/wiki?curid=786",
+    "evidence": "The Asparagales are generally distinguished from the Liliales by the lack of markings on the tepals, the presence of septal nectaries in the ovaries, rather than the bases of the tepals or stamen filaments, and the presence of secondary growth.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_03_04",
+    "question": "Why is the order Asparagales difficult to define by morphology even though it is clearly circumscribed by molecular phylogenetics?",
+    "answer": "Its members are structurally diverse.",
+    "source_title": "Asparagales",
+    "source_url": "https://en.wikipedia.org/wiki?curid=786",
+    "evidence": "The order is clearly circumscribed on the basis of molecular phylogenetics, but it is difficult to define morphologically since its members are structurally diverse.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_03_05",
+    "question": "How do the 'lower Asparagales' and the 'core Asparagales' typically differ in microsporogenesis and ovary position?",
+    "answer": "Lower Asparagales usually have simultaneous microsporogenesis and inferior ovaries; core Asparagales have successive microsporogenesis and superior ovaries.",
+    "source_title": "Asparagales",
+    "source_url": "https://en.wikipedia.org/wiki?curid=786",
+    "evidence": "The 'lower Asparagales' typically have simultaneous microsporogenesis (i.e. cell walls develop only after both meiotic divisions), which appears to be an apomorphy within the monocots, whereas the 'core Asparagales' have reverted to successive microsporogenesis (i.e. cell walls develop after each division). The 'lower Asparagales' typically have an inferior ovary, whereas the 'core Asparagales' have reverted to a superior ovary.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_03_06",
+    "question": "Why did the establishment of major new plant clades in the 1990s force a departure from classifications such as Cronquist and Thorne?",
+    "answer": "The new phylogenetic clades did not fit older classifications based mainly on morphology rather than genetic evidence.",
+    "source_title": "Asparagales",
+    "source_url": "https://en.wikipedia.org/wiki?curid=786",
+    "evidence": "The 1990s saw considerable progress in plant phylogeny and phylogenetic theory, enabling a phylogenetic tree to be constructed for all of the flowering plants. The establishment of major new clades necessitated a departure from the older but widely used classifications such as Cronquist and Thorne based largely on morphology rather than genetic data.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_03_07",
+    "question": "Which group of plants in the order Alismatales are the only marine angiosperms that grow completely submerged?",
+    "answer": "Seagrasses.",
+    "source_title": "Alismatales",
+    "source_url": "https://en.wikipedia.org/wiki?curid=787",
+    "evidence": "They also include the only marine angiosperms growing completely submerged, the seagrasses.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_03_08",
+    "question": "What effect did the Angiosperm Phylogeny Group's inclusion of the family Araceae have on the order Alismatales?",
+    "answer": "Including Araceae greatly expanded the order's size compared with earlier classifications.",
+    "source_title": "Alismatales",
+    "source_url": "https://en.wikipedia.org/wiki?curid=787",
+    "evidence": "The biggest departure from earlier systems (see below) is the inclusion of family Araceae. By its inclusion, the order has grown enormously in number of species.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_03_09",
+    "question": "How does pollination take place in Alismatales species whose staminate flowers detach from the parent plant?",
+    "answer": "Detached male flowers float to the surface, where they pollinate female flowers held at the surface on long pedicels.",
+    "source_title": "Alismatales",
+    "source_url": "https://en.wikipedia.org/wiki?curid=787",
+    "evidence": "Both marine and freshwater forms include those with staminate flowers that detach from the parent plant and float to the surface. There they can pollinate carpellate flowers floating on the surface via long pedicels.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_03_10",
+    "question": "What is inulin, and what role does it play as a shared characteristic of the Asterales?",
+    "answer": "Inulin is an oligosaccharide nutrient-storage molecule used instead of starch, whose presence is a shared derived character of Asterales.",
+    "source_title": "Asterales",
+    "source_url": "https://en.wikipedia.org/wiki?curid=789",
+    "evidence": "Synapomorphies (a character that is shared by two or more groups through evolutionary development) include the presence in the plants of oligosaccharide inulin, a nutrient storage molecule used instead of starch; and unique stamen morphology. ... Only the Asteraceae have composite flower heads; the other families do not, but share other characteristics such as storage of inulin that define the 11 families as more closely related to each other than to other plant families or orders such as the rosids.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_03_11",
+    "question": "Why do the composite flowers of the Asteraceae give a false impression of separate petals?",
+    "answer": "Each apparent flower consists of many florets, creating the appearance of separate petals despite fused petals in the group.",
+    "source_title": "Asterales",
+    "source_url": "https://en.wikipedia.org/wiki?curid=789",
+    "evidence": "Asterales () is an order of dicotyledonous flowering plants that includes the large family Asteraceae (or Compositae) known for composite flowers made of florets, and ten families related to the Asteraceae. While asterids in general are characterized by fused petals, composite flowers consisting of many florets create the false appearance of separate petals (as found in the rosids).",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_03_12",
+    "question": "Why is it conjectured that the Asterales have a common southern origin?",
+    "answer": "All its clades occur in the Southern Hemisphere, while many are absent from the Northern Hemisphere.",
+    "source_title": "Asterales",
+    "source_url": "https://en.wikipedia.org/wiki?curid=789",
+    "evidence": "Because all clades are represented in the Southern Hemisphere but many not in the Northern Hemisphere, it is natural to conjecture that there is a common southern origin to them.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_03_13",
+    "question": "According to life-history theory, under what conditions are annual plants favored over perennials?",
+    "answer": "When adult mortality exceeds seedling or seed mortality, especially under disturbance or high temporal variability.",
+    "source_title": "Annual plant",
+    "source_url": "https://en.wikipedia.org/wiki?curid=777",
+    "evidence": "The life-history theory posits that annual plants are favored when adult mortality is higher than seedling (or seed) mortality, i.e., annuals will dominate environments with disturbances or high temporal variability, reducing adult survival.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_03_14",
+    "question": "Why are annual species the primary food source for humankind despite making up only a minor part of global biomass?",
+    "answer": "Likely because they allocate more resources to seed production, enhancing agricultural productivity.",
+    "source_title": "Annual plant",
+    "source_url": "https://en.wikipedia.org/wiki?curid=777",
+    "evidence": "Despite constituting a minor part of global biomass, annual species stand out as the primary food source for humankind, likely owing to their greater allocation of resources to seed production, thereby enhancing agricultural productivity.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_03_15",
+    "question": "What happened when researchers deactivated the SOC1 and FUL genes in the annual plant Arabidopsis thaliana?",
+    "answer": "The plants acquired perennial characteristics rather than remaining annuals.",
+    "source_title": "Annual plant",
+    "source_url": "https://en.wikipedia.org/wiki?curid=777",
+    "evidence": "In 2008, it was discovered that the inactivation of only two genes in one species of annual plant leads to its conversion into a perennial plant. Researchers deactivated the SOC1 and FUL genes (which control flowering time) of \"Arabidopsis thaliana\". This switch established phenotypes common in perennial plants, such as wood formation.",
+    "question_type": "cause_effect"
+  }
+]

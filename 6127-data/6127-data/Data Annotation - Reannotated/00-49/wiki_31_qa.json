@@ -1,0 +1,110 @@
+[
+  {
+    "id": "wiki_31_01",
+    "question": "Why did John G. Kemeny and Thomas E. Kurtz create BASIC?",
+    "answer": "To let students outside scientific fields use computers without the specialist programming knowledge then normally required.",
+    "source_title": "BASIC",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4015",
+    "evidence": "They wanted to enable students in non-scientific fields to use computers. At the time, nearly all computers required writing custom software, which only scientists and mathematicians tended to learn.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_31_02",
+    "question": "Why was BASIC usually implemented as an interpreter rather than a compiler on minicomputers?",
+    "answer": "Interpreters required less working memory.",
+    "source_title": "BASIC",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4015",
+    "evidence": "On these systems, BASIC was normally implemented as an interpreter rather than a compiler due to its lower requirement for working memory.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_31_03",
+    "question": "What led Bill Gates to write his Open Letter to Hobbyists?",
+    "answer": "Homebrew Computer Club members were circulating unauthorized copies of Micro-Soft's BASIC program.",
+    "source_title": "BASIC",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4015",
+    "evidence": "The first microcomputer version of BASIC was co-written by Bill Gates, Paul Allen and Monte Davidoff for their newly formed company, Micro-Soft. ... Members of the Homebrew Computer Club began circulating copies of the program, causing Gates to write his Open Letter to Hobbyists, complaining about this early example of software piracy.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_31_04",
+    "question": "What caused BASIC to decline in popularity in the 1990s?",
+    "answer": "More powerful microcomputers made advanced languages such as Pascal and C practical, while most nontechnical users turned to ready-made applications instead of writing programs.",
+    "source_title": "BASIC",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4015",
+    "evidence": "BASIC declined in popularity in the 1990s, as more powerful microcomputers came to market and programming languages with advanced features (such as Pascal and C) became tenable on such computers. By then, most nontechnical personal computer users relied on pre-written applications rather than writing their own programs.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_31_05",
+    "question": "What is BCPL, and what was it originally intended for?",
+    "answer": "Basic Combined Programming Language, a procedural, imperative, structured language originally intended for writing compilers.",
+    "source_title": "BCPL",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4052",
+    "evidence": "BCPL (Basic Combined Programming Language) is a procedural, imperative, and structured programming language. Originally intended for writing compilers for other languages, BCPL is no longer in common use.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_31_06",
+    "question": "How is BCPL connected to the C programming language?",
+    "answer": "B was a stripped-down, syntactically modified BCPL derivative, and C was based on B.",
+    "source_title": "BCPL",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4052",
+    "evidence": "However, its influence is still felt because a stripped down and syntactically changed version of BCPL, called B, was the language on which the C programming language was based.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_31_07",
+    "question": "Why was the BCPL compiler so easily portable to new machines?",
+    "answer": "Its front end produced intermediate O-code, leaving a separate back end to translate that code for each target machine.",
+    "source_title": "BCPL",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4052",
+    "evidence": "A major reason for the compiler's portability lay in its structure. It was split into two parts: the front end parsed the source and generated O-code, an intermediate language. The back end took the O-code and translated it into the machine code for the target machine. Only of the compiler's code needed to be rewritten to support a new machine, a task that usually took between 2 and 5 person-months.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_31_08",
+    "question": "Why did BCPL's single word data type become a problem on later hardware?",
+    "answer": "Its word-oriented design did not fit byte-addressable machines or machines with larger word sizes well.",
+    "source_title": "BCPL",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4052",
+    "evidence": "The language is unusual in having only one data type: a word, a fixed number of bits, usually chosen to align with the same platform architecture's machine word and of adequate capacity to represent any valid storage address. ... This choice later proved to be a significant problem when BCPL was used on machines in which the smallest addressable item was not a word but a byte or on machines with larger word sizes such as 32-bit or 64-bit. ... The mismatch between BCPL's word orientation and byte-oriented hardware was addressed in several ways.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_31_09",
+    "question": "What role did Brian Kernighan have in creating the C programming language?",
+    "answer": "He co-authored its first book with Dennis Ritchie but said he took no part in designing C, crediting Ritchie entirely.",
+    "source_title": "Brian Kernighan",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4051",
+    "evidence": "Kernighan's name became widely known through co-authorship of the first book on the C programming language (\"The C Programming Language\") with Dennis Ritchie. Kernighan affirmed that he had no part in the design of the C language (\"it's entirely Dennis Ritchie's work\").",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_31_10",
+    "question": "What does Kernighan's phrase \"What You See Is All You Get\" (WYSIAYG) mean?",
+    "answer": "It warns that WYSIWYG systems may discard document information useful in other contexts.",
+    "source_title": "Brian Kernighan",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4051",
+    "evidence": "Kernighan is also known for coining the expression \"What You See Is All You Get\" (WYSIAYG), which is a sarcastic variant of the original \"What You See Is What You Get\" (WYSIWYG). Kernighan's term is used to indicate that WYSIWYG systems might throw away information in a document that could be useful in other contexts.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_31_11",
+    "question": "How do the names of the two optimization heuristics Kernighan devised with Shen Lin differ?",
+    "answer": "Graph partitioning uses the Kernighan–Lin algorithm; the travelling-salesman problem uses the Lin–Kernighan heuristic, reversing the name order.",
+    "source_title": "Brian Kernighan",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4051",
+    "evidence": "In collaboration with Shen Lin he devised well-known heuristics for two NP-complete optimization problems: graph partitioning and the travelling salesman problem. In a display of authorial equity, the former is usually called the Kernighan–Lin algorithm, while the latter is known as the Lin–Kernighan heuristic.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_31_12",
+    "question": "How did Kernighan's 1972 tutorial in the B programming language influence programming examples?",
+    "answer": "Its use of hello and world for string-memory examples became the iconic hello-world programming example.",
+    "source_title": "Brian Kernighan",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4051",
+    "evidence": "In 1972, Kernighan described memory management in strings using \"hello\" and \"world\", in the B programming language, which became the iconic example we know today.",
+    "question_type": "cause_effect"
+  }
+]

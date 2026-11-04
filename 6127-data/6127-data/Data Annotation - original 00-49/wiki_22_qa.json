@@ -1,0 +1,110 @@
+[
+  {
+    "id": "wiki_22_01",
+    "question": "Why did J. J. Thomson propose in his atomic model that positive charge was spread throughout a spherical atom?",
+    "answer": "Because he had no idea of the source of the positive charge, so he tentatively assumed it was everywhere in the atom, the mathematically simplest hypothesis fitting the evidence.",
+    "source_title": "Plum pudding model",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2840",
+    "evidence": "As Thomson had no idea as to the source of this positive charge, he tentatively proposed that it was everywhere in the atom, and that the atom was spherical. This was the mathematically simplest hypothesis to fit the available evidence, or lack thereof.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_22_02",
+    "question": "Who first compared Thomson's atomic model to a plum pudding?",
+    "answer": "An anonymous reporter writing in the British pharmaceutical magazine \"The Chemist and Druggist\"; Thomson and his colleagues never used the analogy.",
+    "source_title": "Plum pudding model",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2840",
+    "evidence": "The first known writer to compare Thomson's model to a plum pudding was an anonymous reporter in an article for the British pharmaceutical magazine \"The Chemist and Druggist\" in August 1906.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_22_03",
+    "question": "What led Ernest Rutherford to abandon Thomson's model in favor of a model with a tiny nucleus?",
+    "answer": "Alpha particles were scattered through very large angles, which Thomson's diffuse charges could not produce, so Rutherford concluded the positive charge must be concentrated in a tiny nucleus.",
+    "source_title": "Plum pudding model",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2840",
+    "evidence": "The Thomson models simply could not produce electrostatic forces of sufficient strength to cause such large deflection. The charges in the Thomson model were too diffuse. This led Rutherford to discard the Thomson for a new model where the positive charge of the atom is concentrated in a tiny nucleus.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_22_04",
+    "question": "How did Thomson's view of the number of electrons in an atom differ from what Rutherford showed?",
+    "answer": "Thomson believed the electron count roughly correlated with atomic weight, while Rutherford showed that in a neutral atom it exactly equals the atomic number.",
+    "source_title": "Plum pudding model",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2840",
+    "evidence": "Whereas Thomson believed that the electron count was roughly correlated to the atomic weight, Rutherford showed that (in a neutral atom) it is exactly equal to the atomic number.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_22_05",
+    "question": "What is atomic theory?",
+    "answer": "The scientific theory that matter is composed of particles called atoms.",
+    "source_title": "History of atomic theory",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2844",
+    "evidence": "Atomic theory is the scientific theory that matter is composed of particles called atoms.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_22_06",
+    "question": "Why did Rutherford's nuclear model of the atom not catch on immediately?",
+    "answer": "It was supported mainly by scattering data unfamiliar to many scientists, and only gained acceptance after Niels Bohr developed a new model for the electrons.",
+    "source_title": "History of atomic theory",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2844",
+    "evidence": "Rutherford's model, being supported primarily by scattering data unfamiliar to many scientists, did not catch on until Niels Bohr joined Rutherford's lab and developed a new model for the electrons.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_22_07",
+    "question": "Which pre-Bohr atomic model included quantized angular momentum and successfully reproduced atomic spectral lines?",
+    "answer": "John William Nicholson's atomic model.",
+    "source_title": "History of atomic theory",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2844",
+    "evidence": "This led to a series of atomic models with some quantum aspects, such as that of Arthur Erich Haas in 1910 and the 1912 John William Nicholson atomic model with quantized angular momentum as \"h\"/2. Critically, Nicholson successfully reproduces atomic spectral lines, a challenge that Bohr's model would also need to overcome.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_22_08",
+    "question": "How did Schrödinger's wave model of hydrogen differ from Bohr's model in describing electrons?",
+    "answer": "It replaced Bohr's circular orbits with atomic orbitals that give only the probability of finding an electron at positions around the nucleus.",
+    "source_title": "History of atomic theory",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2844",
+    "evidence": "Schrödinger's wave model for hydrogen replaced Bohr's circular orbits with atomic orbitals giving only the probability of finding an electron at positions around the nucleus. The orbitals come in a variety of shapes depending on their energy level and angular momentum.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_22_09",
+    "question": "What is angular momentum, and why is it considered an important physical quantity?",
+    "answer": "It is the rotational analog of linear momentum, and it is important because it is conserved: the total angular momentum of an isolated system stays constant.",
+    "source_title": "Angular momentum",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2839",
+    "evidence": "Angular momentum (sometimes called moment of momentum or rotational momentum) is the rotational analog of linear momentum. It is an important physical quantity because it is a conserved quantity – the total angular momentum of an isolated system remains constant.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_22_10",
+    "question": "Which everyday objects owe their useful properties to the conservation of angular momentum?",
+    "answer": "Bicycles and motorcycles, flying discs, rifled bullets, and gyroscopes.",
+    "source_title": "Angular momentum",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2839",
+    "evidence": "Bicycles and motorcycles, flying discs, rifled bullets, and gyroscopes owe their useful properties to conservation of angular momentum.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_22_11",
+    "question": "Why does the total angular momentum of an isolated system remain constant?",
+    "answer": "Because angular momentum is conserved when there is no net external torque, and torque is the rate of change of angular momentum.",
+    "source_title": "Angular momentum",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2839",
+    "evidence": "Similar to conservation of linear momentum in the absence of external forces, angular momentum is conserved if there is no external torque. Torque can be defined as the rate of change of angular momentum, analogous to force. The net \"external\" torque on any system is always equal to the \"total\" torque on the system; the sum of all internal torques of any system is always 0 (this is the rotational analogue of Newton's third law of motion). Therefore, for an isolated system (where there is no net external torque), the \"total\" torque on the system must be 0, which means that the total angular momentum of the system is constant.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_22_12",
+    "question": "What is the difference between spin angular momentum and orbital angular momentum?",
+    "answer": "Spin angular momentum is about the object's center of mass, while orbital angular momentum is about a chosen center of rotation, as with the Earth's daily rotation versus its revolution around the Sun.",
+    "source_title": "Angular momentum",
+    "source_url": "https://en.wikipedia.org/wiki?curid=2839",
+    "evidence": "Just as for angular velocity, there are two special types of angular momentum of an object: the spin angular momentum is the angular momentum about the object's center of mass, while the orbital angular momentum is the angular momentum about a chosen center of rotation. The Earth has an orbital angular momentum by nature of revolving around the Sun, and a spin angular momentum by nature of its daily rotation around the polar axis.",
+    "question_type": "comparison"
+  }
+]

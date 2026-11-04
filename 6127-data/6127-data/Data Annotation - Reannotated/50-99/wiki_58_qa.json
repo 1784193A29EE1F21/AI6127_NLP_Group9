@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki_58_01",
+    "question": "After whom are the Cleveland Browns named?",
+    "answer": "Original coach and co-founder Paul Brown.",
+    "source_title": "Cleveland Browns",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6576",
+    "evidence": "The team is named after original coach and co-founder Paul Brown.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_58_02",
+    "question": "What was the outcome of Art Modell's plan to move the Browns to Baltimore?",
+    "answer": "A compromise let him establish the Baltimore Ravens with Browns personnel, while Cleveland retained the Browns' identity and history and resumed play in 1999.",
+    "source_title": "Cleveland Browns",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6576",
+    "evidence": "After threats of legal action from the city of Cleveland and fans, a compromise was reached in early 1996 that allowed Modell to establish the Baltimore Ravens as a new franchise while retaining the contracts of all Browns personnel. The Browns' intellectual property, including team name, logos, training facility, and history, were kept in trust and the franchise was regarded by the NFL as suspended, guaranteed to return no later than the 1999 season, either by moving an existing franchise or an expansion draft. While several franchises considered moving to Cleveland, in 1998 it was confirmed that the NFL would hold an expansion draft and field 31 teams when the Browns resumed play in 1999.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_58_03",
+    "question": "Why are the 1999 Browns not considered an expansion franchise, even though they were restocked through an expansion draft?",
+    "answer": "The NFL regarded the original franchise as suspended, preserving its identity and history for its return rather than creating a new franchise.",
+    "source_title": "Cleveland Browns",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6576",
+    "evidence": "The Browns' intellectual property, including team name, logos, training facility, and history, were kept in trust and the franchise was regarded by the NFL as suspended, guaranteed to return no later than the 1999 season, either by moving an existing franchise or an expansion draft. While several franchises considered moving to Cleveland, in 1998 it was confirmed that the NFL would hold an expansion draft and field 31 teams when the Browns resumed play in 1999. Although the 1999 Browns were restocked via an expansion draft, the Browns are not considered to be an expansion franchise.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_58_04",
+    "question": "What nickname did the Browns earn under quarterback Brian Sipe, and why?",
+    "answer": "The Kardiac Kids, because Sipe led a series of last-minute wins.",
+    "source_title": "Cleveland Browns",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6576",
+    "evidence": "A revival of sorts took place in 1979 and 1980, when quarterback Brian Sipe engineered a series of last-minute wins and the Browns came to be called the \"Kardiac Kids\".",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_58_05",
+    "question": "What led former Browns head coach Paul Brown to look into establishing another franchise in Ohio?",
+    "answer": "Art Modell dismissed him as Browns head coach, prompting him to seek another Ohio franchise.",
+    "source_title": "Cincinnati Bengals",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6612",
+    "evidence": "After being dismissed as the Browns' head coach by Art Modell (who had purchased a majority interest in the team in) in January, Brown had shown interest in establishing another NFL franchise in Ohio and looked at both Cincinnati and Columbus.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_58_06",
+    "question": "Why did Paul Brown agree to join the American Football League despite regarding it as inferior?",
+    "answer": "The merger guaranteed the AFL team would join the NFL in 1970, offering his most realistic route back into the NFL.",
+    "source_title": "Cincinnati Bengals",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6612",
+    "evidence": "Prior to the merger's announcement, Brown had not seriously considered joining the American Football League and was not a supporter of what he openly regarded to be an inferior competition, once famously stating that \"I didn't pay ten million dollars to be in the AFL.\" However, with the announcement of the merger, Brown realized that the AFL expansion franchise would likely be his only realistic path back into the NFL in the short to medium term, and ultimately acquiesced to joining the AFL after learning that the team was guaranteed to become an NFL franchise after the merger was completed in 1970.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_58_07",
+    "question": "Why did Paul Brown choose the name \"Bengals\" for his Cincinnati team?",
+    "answer": "To commemorate earlier Cincinnati teams with the same name.",
+    "source_title": "Cincinnati Bengals",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6612",
+    "evidence": "Brown chose the name Bengals to memorialize the teams of the same name that had represented Cincinnati in the past.\"",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_58_08",
+    "question": "What disparaging nickname did the Bengals receive during their struggles in the 1990s and early 2000s, and who coined it?",
+    "answer": "The Bungles, coined by Steelers broadcaster Myron Cope.",
+    "source_title": "Cincinnati Bengals",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6612",
+    "evidence": "The team struggled greatly in the 1990s and the early 2000s, during which time they were sometimes referred to disparagingly as \"The Bungles,\" a term coined by Steelers broadcaster Myron Cope.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_58_09",
+    "question": "What was the original name of the Chicago Bears, and who established the club?",
+    "answer": "The Decatur Staleys, established as a company team by the A. E. Staley food starch company.",
+    "source_title": "Chicago Bears",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6611",
+    "evidence": "Originally named the Decatur Staleys, the club was established by the A. E. Staley food starch company of Decatur, Illinois, as a company team.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_58_10",
+    "question": "How does the Chicago Bears' place in NFL history compare with that of the Arizona Cardinals?",
+    "answer": "They and the Arizona Cardinals are the only surviving franchises from the NFL's founding in 1920.",
+    "source_title": "Chicago Bears",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6611",
+    "evidence": "They are one of two remaining franchises from the NFL's founding in 1920, along with the Arizona Cardinals (originally the Racine Cardinals of Chicago).",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_58_11",
+    "question": "Why did George Halas name the team the \"Bears\"?",
+    "answer": "The name echoed the Chicago Cubs baseball team, since cubs are young bears.",
+    "source_title": "Chicago Bears",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6611",
+    "evidence": "In 1922, Halas changed the team name from the Staleys to the Bears. The team moved into Wrigley Field, home of the Chicago Cubs baseball franchise. As with several early NFL franchises, the Bears derived their nickname from their city's baseball team (bears' young are called \"cubs\").",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_58_12",
+    "question": "What NFL rule was triggered by the Bears' signing of University of Illinois player Red Grange?",
+    "answer": "Players could not be signed until their college senior class had graduated.",
+    "source_title": "Chicago Bears",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6611",
+    "evidence": "During the 1920s the club was responsible for triggering the NFL's long-standing rule that a player could not be signed until his college's senior class had graduated. The NFL took that action as a consequence of the Bears' aggressive signing of famous University of Illinois player Red Grange within a day of his final game as a collegian.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_58_13",
+    "question": "Whose bid for an NBA team inspired Jerry Richardson to pursue an NFL franchise for the Carolinas?",
+    "answer": "George Shinn's successful bid for the Charlotte Hornets.",
+    "source_title": "Carolina Panthers",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6610",
+    "evidence": "Richardson drew his inspiration to pursue an NFL franchise from George Shinn, who had made a successful bid for an expansion National Basketball Association (NBA) team in Charlotte, the Charlotte Hornets.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_58_14",
+    "question": "Why did Jerry Richardson sell the Carolina Panthers?",
+    "answer": "He announced the sale amid allegations of workplace misconduct and an NFL investigation.",
+    "source_title": "Carolina Panthers",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6610",
+    "evidence": "In December 2017, Richardson announced that he would sell the franchise amid allegations of workplace misconduct; the NFL assumed control of the investigation. ... During the 2017 season, Richardson announced that he would sell the franchise amid an NFL investigation into workplace misconduct allegations.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_58_15",
+    "question": "Why did the Carolina Panthers play their inaugural season in Clemson, South Carolina?",
+    "answer": "Their Charlotte stadium was still under construction.",
+    "source_title": "Carolina Panthers",
+    "source_url": "https://en.wikipedia.org/wiki?curid=6610",
+    "evidence": "The franchise represents both North Carolina and South Carolina; while its Charlotte stadium was under construction, the Panthers played their inaugural 1995 season at Memorial Stadium in Clemson, South Carolina.",
+    "question_type": "why"
+  }
+]

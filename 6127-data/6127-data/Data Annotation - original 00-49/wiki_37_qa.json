@@ -1,0 +1,110 @@
+[
+  {
+    "id": "wiki_37_01",
+    "question": "Who first used the term \"biotechnology\", and what did he mean by it?",
+    "answer": "Károly Ereky, who used it to refer to the production of products from raw materials with the aid of living organisms.",
+    "source_title": "Biotechnology",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4502",
+    "evidence": "The term \"biotechnology\" was first used by Károly Ereky in 1919 to refer to the production of products from raw materials with the aid of living organisms.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_37_02",
+    "question": "Why did Chaim Weizmann's industrial use of a pure microbiological culture matter during World War I?",
+    "answer": "He used Clostridium acetobutylicum to produce acetone from corn starch, which the United Kingdom desperately needed to manufacture explosives.",
+    "source_title": "Biotechnology",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4502",
+    "evidence": "In 1917, Chaim Weizmann first used a pure microbiological culture in an industrial process, that of manufacturing corn starch using \"Clostridium acetobutylicum,\" to produce acetone, which the United Kingdom desperately needed to manufacture explosives during World War I.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_37_03",
+    "question": "What effect did the US Supreme Court ruling in \"Diamond v. Chakrabarty\" have on the biotechnology industry?",
+    "answer": "By ruling that a genetically modified microorganism could be patented, it significantly expanded the commercial viability of the industry.",
+    "source_title": "Biotechnology",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4502",
+    "evidence": "The commercial viability of a biotechnology industry was significantly expanded on June 16, 1980, when the United States Supreme Court ruled that a genetically modified microorganism could be patented in the case of \"Diamond v. Chakrabarty\".",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_37_04",
+    "question": "How do biotechnology and bioengineering differ in emphasis?",
+    "answer": "Bioengineering more heavily emphasizes higher systems approaches for interfacing with living things, not necessarily altering or using biological materials directly.",
+    "source_title": "Biotechnology",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4502",
+    "evidence": "By contrast, bioengineering is generally thought of as a related field that more heavily emphasizes higher systems approaches (not necessarily the altering or using of biological materials \"directly\") for interfacing with and utilizing living things.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_37_05",
+    "question": "What is Bt maize?",
+    "answer": "A variant of maize genetically altered to express one or more proteins from the bacterium Bacillus thuringiensis, which are poisonous to certain insect pests.",
+    "source_title": "Genetically modified maize",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4514",
+    "evidence": "is a variant of maize that has been genetically altered to express one or more proteins from the bacterium \"Bacillus thuringiensis\" including Delta endotoxins. The protein is poisonous to certain insect pests.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_37_06",
+    "question": "How does the Bt protein kill an insect that eats Bt maize?",
+    "answer": "It is activated in the insect's alkaline gut, where it partially unfolds and is cut into a toxin that paralyzes the digestive system and holes the gut wall, so the insect stops eating and starves.",
+    "source_title": "Genetically modified maize",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4514",
+    "evidence": "When a vulnerable insect eats the Bt-containing plant, the protein is activated in its gut, which is alkaline. In the alkaline environment, the protein partially unfolds and is cut by other proteins, forming a toxin that paralyzes the insect's digestive system and forms holes in the gut wall. The insect stops eating within a few hours and eventually starves.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_37_07",
+    "question": "Why does Bt maize contain lower concentrations of mycotoxins than non-GM maize?",
+    "answer": "Because it suffers fewer insect attacks, and insect wounds in kernels are what allow fungal spores to colonize and produce mycotoxins.",
+    "source_title": "Genetically modified maize",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4514",
+    "evidence": "In regular corn crops, insects promote fungal colonization by creating \"wounds,\" or holes, in corn kernels. These wounds are favored by fungal spores for germination, which subsequently leads to mycotoxin accumulation in the crop that can be carcinogenic and toxic to humans and other animals. This can prove to be especially devastating in developing countries with drastic climate patterns such as high temperatures, which favor the development of toxic fungi. In addition, higher mycotoxin levels leads to market rejection or reduced market prices for the grain. GM corn crops encounter fewer insect attacks, and thus, have lower concentrations of mycotoxins. Meta-analyses of long-term field studies are reporting that Bt maize contains significantly lower concentrations of mycotoxins with carcinogens than non-GM maize, mainly due to reduced insect damage to the kernels.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_37_08",
+    "question": "Why does the US EPA require farmers who plant Bt corn to plant non-Bt \"refuge\" corn nearby?",
+    "answer": "So that pests will infest the non-Bt corn and thus will not evolve resistance to the Bt toxin.",
+    "source_title": "Genetically modified maize",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4514",
+    "evidence": "US Environmental Protection Agency (EPA) regulations require farmers who plant Bt corn to plant non-Bt corn nearby (called a refuge), with the logic that pests will infest the non-Bt corn and thus will not evolve a resistance to the Bt toxin.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_37_09",
+    "question": "Why was StarLink corn approved only for animal feed in the US?",
+    "answer": "Because its Cry9C protein lasts longer in the digestive system than other Bt proteins, raising EPA concerns about allergenicity that the developer could not resolve.",
+    "source_title": "Genetically modified maize",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4514",
+    "evidence": "However, because the Cry9C protein lasts longer in the digestive system than other Bt proteins, the EPA had concerns about its allergenicity, and PGS did not provide sufficient data to prove that Cry9C was not allergenic. As a result, PGS split its application into separate permits for use in food and use in animal feed. Starlink was approved by the EPA for use in animal feed only in May 1998.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_37_10",
+    "question": "Why do legumes such as beans need less fertiliser than most plants?",
+    "answer": "Because they are capable of nitrogen fixation.",
+    "source_title": "Bean",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4487",
+    "evidence": "Legumes are capable of nitrogen fixation and hence need less fertiliser than most plants.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_37_11",
+    "question": "Why must many raw beans, especially red kidney beans, be cooked thoroughly before eating?",
+    "answer": "Because they contain the toxic lectin phytohaemagglutinin, which must be destroyed by cooking; slow cooking can soften beans without destroying the toxin.",
+    "source_title": "Bean",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4487",
+    "evidence": "Some kinds of raw beans contain a harmful, flavourless toxin: the lectin phytohaemagglutinin, which must be destroyed by cooking. Red kidney beans are particularly toxic, but other types also pose risks of food poisoning. Even small quantities (4 or 5 raw beans) may cause severe stomachache, vomiting, and diarrhea. This risk does not apply to canned beans because they have already been cooked. A recommended method is to boil the beans for at least ten minutes; under-cooked beans may be more toxic than raw beans.\nBeans need to be cooked thoroughly to destroy toxins; slow cooking is unsafe as it makes the beans soft without necessarily destroying the toxins.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_37_12",
+    "question": "What was the \"Three Sisters\" method used by pre-Columbian peoples?",
+    "answer": "A companion planting method in which beans were interplanted with maize and squash.",
+    "source_title": "Bean",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4487",
+    "evidence": "Pre-Columbian peoples as far north as the Atlantic seaboard grew beans in the \"Three Sisters\" method of companion planting. The beans were interplanted with maize and squash.",
+    "question_type": "definition"
+  }
+]

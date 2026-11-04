@@ -1,0 +1,110 @@
+[
+  {
+    "id": "wiki_39_01",
+    "question": "Which language is Breton most closely related to, and why?",
+    "answer": "Cornish, because Breton is a Southwestern Brittonic language brought from Great Britain to Brittany by migrating Britons in the Early Middle Ages.",
+    "source_title": "Breton language",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4647",
+    "evidence": "Breton is an Insular Celtic language that was brought from Great Britain to Brittany by migrating Britons during the Early Middle Ages, which makes Breton most closely related to Cornish, another Southwestern Brittonic language.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_39_02",
+    "question": "Why did French revolutionaries favour French over regional languages such as Breton?",
+    "answer": "They assumed reactionary and monarchist forces preferred regional languages to keep the peasant masses underinformed.",
+    "source_title": "Breton language",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4647",
+    "evidence": "The revolutionaries assumed that reactionary and monarchist forces preferred regional languages to keep the peasant masses underinformed.",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_39_03",
+    "question": "What are Diwan schools, and what effect have they had on Breton?",
+    "answer": "Schools founded to teach Breton by immersion; they have directly contributed to growing numbers of school-age Breton speakers.",
+    "source_title": "Breton language",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4647",
+    "evidence": "In 1977, Diwan schools were founded to teach Breton by immersion. Since their establishment, Diwan schools have provided fully-immersive primary school and partially-immersive secondary school instruction in Breton for thousands of students across Brittany. This has directly contributed to the growing numbers of school-age speakers of Breton.",
+    "question_type": "definition"
+  },
+  {
+    "id": "wiki_39_04",
+    "question": "How does Breton's official status differ from that of the other living Celtic languages?",
+    "answer": "It is the only living Celtic language not recognized by a national government as an official or regional language.",
+    "source_title": "Breton language",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4647",
+    "evidence": "Today, Breton is the only living Celtic language that is not recognized by a national government as an official or regional language.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_39_05",
+    "question": "To which language family do the Berber languages belong?",
+    "answer": "They are a branch of the Afroasiatic language family.",
+    "source_title": "Berber languages",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4693",
+    "evidence": "The Berber languages (also known as the Amazigh languages or Tamazight) are a branch of the Afroasiatic language family.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_39_06",
+    "question": "Why has the term \"Berber\" been the subject of debate?",
+    "answer": "Because of its history as an exonym and its present equivalence with the Arabic word for \"barbarian\".",
+    "source_title": "Berber languages",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4693",
+    "evidence": "The use of \"Berber\" has been the subject of debate due to its historical background as an exonym and present equivalence with the Arabic word for \"barbarian.\"",
+    "question_type": "why"
+  },
+  {
+    "id": "wiki_39_07",
+    "question": "Why is the Proto-Berber language thought to be comparatively recent?",
+    "answer": "Because the modern Berber languages are relatively homogeneous.",
+    "source_title": "Berber languages",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4693",
+    "evidence": "Since modern Berber languages are relatively homogeneous, the date of the Proto-Berber language from which the modern group is derived was probably comparatively recent, comparable to the age of the Germanic or Romance subfamilies of the Indo-European family.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_39_08",
+    "question": "Which three writing systems are used for Berber languages today, and which is most widely used?",
+    "answer": "Tifinagh, the Arabic script, and the Berber Latin alphabet, with the Latin alphabet being the most widely used.",
+    "source_title": "Berber languages",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4693",
+    "evidence": "There are now three writing systems in use for Berber languages: Tifinagh, the Arabic script, and the Berber Latin alphabet, with the Latin alphabet being the most widely used today.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_39_09",
+    "question": "What makes the Brahvi language geographically unusual among Dravidian languages?",
+    "answer": "It is spoken in Balochistan, Pakistan, geographically isolated from other Dravidian languages, the nearest being in South India.",
+    "source_title": "Brahvi language",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4702",
+    "evidence": "Brahvi (, \"Brāhvī\",), also spelled Brahui (, \"Brāhū'ī\",), is a north Dravidian language primarily spoken by the Brahvi people native to the central-southern regions of Balochistan, Pakistan.\nIt is geographically isolated from other Dravidian languages, with the nearest being over away in South India.",
+    "question_type": "factual"
+  },
+  {
+    "id": "wiki_39_10",
+    "question": "How does Brahvi's writing system differ from that of other Dravidian languages?",
+    "answer": "It is the only Dravidian language primarily written in the Arabic script and is not known to have been written in a Brahmi-based script.",
+    "source_title": "Brahvi language",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4702",
+    "evidence": "Brahvi is the only Dravidian language that is primarily written in the Arabic script. Brahvi is the only Dravidian language which is not known to have been written in a Brahmi-based script.",
+    "question_type": "comparison"
+  },
+  {
+    "id": "wiki_39_11",
+    "question": "What evidence contradicts the theory that Brahvi migrated to Balochistan from central India after 1000 CE?",
+    "answer": "Genetic evidence showing the Brahvi population is indistinguishable from neighbouring Balochi speakers and genetically distant from central Dravidian speakers.",
+    "source_title": "Brahvi language",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4702",
+    "evidence": "However, some other scholars see it as a recent migrant language to its present region. They postulate that Brahvi could only have migrated to Balochistan from central India after 1000 CE.\nThis is contradicted by genetic evidence that shows the Brahvi population to be indistinguishable from neighbouring Balochi speakers, and genetically distant from central Dravidian speakers.",
+    "question_type": "cause_effect"
+  },
+  {
+    "id": "wiki_39_12",
+    "question": "What is Brolikva?",
+    "answer": "A Roman-based orthography for Brahvi (\"Brahvi Roman Likvar\") developed by the Brahvi Language Board of the University of Balochistan.",
+    "source_title": "Brahvi language",
+    "source_url": "https://en.wikipedia.org/wiki?curid=4702",
+    "evidence": "More recently, a Roman-based orthography named Brolikva (an abbreviation of \"Brahvi Roman Likvar\") was developed by the Brahvi Language Board of the University of Balochistan (UoB) in Quetta and adopted by the newspaper \"Talár\".",
+    "question_type": "definition"
+  }
+]
