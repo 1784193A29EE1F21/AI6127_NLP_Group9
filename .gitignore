@@ -6,8 +6,10 @@ __pycache__/
 .pytest_cache/
 *.py[cod]
 rag/data/corpus/
+rag/data/eval/
 rag/data/index/
 rag/data/llm_cache/
 rag/results/
 wiki_output/
+6127-data/
 *.log

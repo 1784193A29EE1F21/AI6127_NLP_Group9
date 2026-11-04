@@ -101,12 +101,7 @@ def main():
             q4_audit=audit(out,encoder=experiment.system.get_encoder(),scope='Q4')
             if not q4_audit['automated_complete']:
                 raise RuntimeError('Q4 audit did not pass; do not release a misleading final writing bundle')
-            delivery_script=PATHS.root.parent/'reports/build_q4_chatgpt_delivery.py'
-            delivery_spec=importlib.util.spec_from_file_location('q4_delivery',delivery_script)
-            delivery=importlib.util.module_from_spec(delivery_spec)
-            delivery_spec.loader.exec_module(delivery)
-            delivery.build('formal',formal_root=out)
-            print('Full Q4 writing bundle delivered; continuing remaining Q5 configurations.',flush=True)
+            print('Q4 audit completed; continuing remaining Q5 configurations.',flush=True)
             experiment.run()
             benchmark(experiment)
             analyze(out)
