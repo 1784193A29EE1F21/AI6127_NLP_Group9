@@ -32,8 +32,10 @@ def attach_annotation_variants(rows, annotation_dirs):
     if {Path(p).resolve() for p in annotation_dirs} != complete or expected != complete:
         return {'attached': False, 'reason': 'custom annotation input'}
     groups = {'human_original': read_annotation_group([DATASET_BASE/name for name in HUMAN_DIRS]),
-              'human_reannotated': read_annotation_group([DATASET_BASE/'Data Annotation - Reannotated']),
-              'ai_chat': read_annotation_group([DATASET_BASE/'Data Annotation - AI'])}
+              'human_reannotated': read_annotation_group([DATASET_BASE/'Data Annotation - Reannotated'])}
+    ai_dir = DATASET_BASE/'Data Annotation - AI'
+    if ai_dir.is_dir():
+        groups['ai_chat'] = read_annotation_group([ai_dir])
     ids = {r['id'] for r in rows}
     for name, records in groups.items():
         if set(records) != ids:
@@ -53,7 +55,8 @@ def attach_annotation_variants(rows, annotation_dirs):
         row['adjudication_status'] = 'not_adjudicated'
         row['reference_answers'] = list(dict.fromkeys(variants[n]['answer'] for n in ['human_original','human_reannotated']))
         row['question_type_all_agree'] = len({v['question_type'] for v in variants.values()}) == 1
-        row['ai_needs_review'] = variants['ai_chat']['review_status'] != 'reviewed'
+        row['ai_needs_review'] = ('ai_chat' in variants and
+                                  variants['ai_chat']['review_status'] != 'reviewed')
         uncertain += row['ai_needs_review']
         disagreements += not row['question_type_all_agree']
     return {'attached': True, 'groups': {k:len(v) for k,v in groups.items()},

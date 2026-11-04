@@ -75,7 +75,7 @@ Retrieval evaluation reports rank-aware measures including Precision@K, Recall@K
 
 The five-query script measures retrieval stages after warm-up; generation is optional. The ten-question command is a small example, not the full formal evaluation. The full test suite expects the separately archived evaluation data; without it, two audit tests cannot run.
 
-`scripts/02_build_eval.py` can build an evaluation set from annotation files and the passage corpus. Its original annotation directories must be restored separately. `scripts/iaa_make_sheets.py` and `scripts/iaa_compute.py` support annotation review; report the actual review protocol and completed labels when reporting agreement.
+`scripts/02_build_eval.py` can build an evaluation set from annotation files and the passage corpus. Its original annotation directories must be restored separately. The two human annotation groups can be integrated without an AI annotation directory. `scripts/iaa_make_sheets.py` and `scripts/iaa_compute.py` support annotation review; report the actual review protocol and completed labels when reporting agreement.
 
 ## Experiments and ablations
 
@@ -90,7 +90,7 @@ Retrieval experiments compare sparse, dense and hybrid search, with options such
 | S | B + iterative retrieval |
 | T | B + self-check + iterative retrieval |
 
-Generation and scoring for 0, A and G were completed on 1,359 questions each; B, S and T were incomplete when execution stopped. The automated Q4 audit and independent human answer-agreement review were not complete at that point. Results, timings and experimental metadata are stored separately.
+Results, timings and experimental metadata are stored separately; use the corresponding experiment archive when reporting completed results.
 
 `scripts/04_eval_retrieval.py`, `06_eval_generation.py` and `07_run_ablations.py` cover retrieval and generation comparisons. The full-study orchestration is in `scripts/16_formal_full.py`, `19_resume_fast.py` and `22_six_group_study.py`. These repository copies omit the original automatic writing-bundle step, so their source hashes differ from the frozen original run. Resume that run with its archived original source, manifests and state, rather than assuming this checkout is a resumable checkpoint.
 
